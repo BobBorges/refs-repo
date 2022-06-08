@@ -1,0 +1,24 @@
+# bardhal2009
+
+
+
+
+```
+
+@incollection{bardhal2009,
+	address = {Amsterdam},
+	title = {The development of {Case} in {Germanic}},
+	booktitle = {The {Role} of {Semantic}, {Pragmatic}, and discourse factors in the development of case},
+	publisher = {John Benamins},
+	author = {Barðal, Jóhanna},
+	editor = {Barðal, Jóhanna and Chelliah, S.L.},
+	year = {2009},
+	pages = {123--159},
+}
+```
+
+
+
+
+## Notes
+

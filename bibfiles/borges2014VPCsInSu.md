@@ -1,0 +1,24 @@
+# borges2014VPCsInSu
+
+
+
+
+```
+
+% Optional fields: volume, number, pages, month, note
+@ARTICLE{borges2014VPCsInSu,
+	author = {Robert Borges},
+	title = {Particle Verbs in the Surinamese Creoles},
+	journal = {Journal of Germanic Linguistics},
+	year = {2014},
+	issue = {3},
+	volume = {26},
+	pages = {223--247}
+}
+```
+
+
+
+
+## Notes
+

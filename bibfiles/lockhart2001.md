@@ -1,0 +1,27 @@
+# lockhart2001
+
+
+
+
+```
+
+@book{lockhart2001,
+	address = {Stanford, Calif. : Los Angeles, CA},
+	series = {{UCLA} {Latin} {American} studies},
+	title = {Nahuatl as written: lessons in older written {Nahuatl}, with copious examples and texts},
+	isbn = {978-0-8047-4282-5 978-0-8047-4458-4},
+	shorttitle = {Nahuatl as written},
+	language = {eng nah},
+	number = {88},
+	publisher = {Stanford University Press ; UCLA Latin American Center Publications},
+	author = {Lockhart, James},
+	year = {2001},
+	keywords = {Nahuatl language: Writing, Nahuatl language: Grammar},
+}
+```
+
+
+
+
+## Notes
+

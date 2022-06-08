@@ -1,0 +1,21 @@
+# ThomasonKaufmann1988
+
+
+
+
+```
+
+@book{ThomasonKaufmann1988,
+	address = {Berkely},
+	title = {Language {Contact}, {Creolization} and {Genetic} linguistics},
+	publisher = {University of California Press},
+	author = {Thomason, Sarah and Terrance Kaufmann},
+	year = {1988},
+}
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,31 @@
+# MagareyTrexler2020
+
+
+
+[[/pdf/MagareyTrexler2020.pdf]]
+
+
+
+
+```
+
+@article{MagareyTrexler2020,
+  doi = {10.1057/s41599-020-00620-w},
+  url = {https://doi.org/10.1057/s41599-020-00620-w},
+  year = {2020},
+  month = oct,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {7},
+  number = {1},
+  author = {Roger D. Magarey and Christina M. Trexler},
+  title = {Information: a missing component in understanding and mitigating social epidemics},
+  journal = {Humanities and Social Sciences Communications}
+}
+
+```
+
+
+
+
+## Notes
+

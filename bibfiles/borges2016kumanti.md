@@ -1,0 +1,22 @@
+# borges2016kumanti
+
+
+
+
+```
+
+@article{borges2016kumanti,
+	author = {Robert Borges},
+	title = {Ritual Language Formation and African Retentions in Suriname},
+	journal = {OSO Tijdschrift Voor Surinamistiek},
+	volume = {35},
+	number = {1},
+	pages = {225--245}
+}
+```
+
+
+
+
+## Notes
+

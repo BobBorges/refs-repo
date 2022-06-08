@@ -1,0 +1,31 @@
+# schwaller2012
+
+
+
+
+```
+
+@article{schwaller2012,
+	title = {The {Expansion} of {Nahuatl} as a {Lingua} {Franca} among {Priests} in {Sixteenth}-{Century} {Mexico}},
+	volume = {59},
+	issn = {0014-1801, 1527-5477},
+	url = {http://ethnohistory.dukejournals.org.ezproxy.its.uu.se/content/59/4/675},
+	doi = {10.1215/00141801-1642707},
+	abstract = {This article examines the practice of ordaining young men because of their personal language ability, a process referred to as an ordination a título de lengua. As a result of reforms codified by the Catholic Church in the Council of Trent, prospective priests were required to support themselves without assistance from the Church, a requirement called a title. This requirement was satisfied if an ordinand enjoyed a benefice or a chantry. Because of the need to have as many priests who knew native languages as possible, the crown ordered that the ability to speak a native language could be used in lieu of a title. Starting in the 1560s the bishops of Mexico began to keep track of clergy according to their ability to speak a native language. When the system of oposiciones (competitive placement exams) began in the 1580s, candidates for benefices would be tested on their language ability. This article traces the development of a bilingual secular clergy in order to evaluate whether royal officials responded to the widespread use of Nahuatl at the time of contact or whether those same officials encouraged the spread of Nahuatl through their policies.},
+	language = {en},
+	number = {4},
+	urldate = {2017-07-15},
+	journal = {Ethnohistory},
+	author = {Schwaller, John F.},
+	month = sep,
+	year = {2012},
+	pages = {675--690},
+	file = {Full Text PDF:/home/bob/Literature/Zotero/storage/MNDMF5UV/Schwaller - 2012 - The Expansion of Nahuatl as a Lingua Franca among .pdf:application/pdf;Snapshot:/home/bob/Literature/Zotero/storage/N499J9D6/675.html:text/html},
+}
+```
+
+
+
+
+## Notes
+

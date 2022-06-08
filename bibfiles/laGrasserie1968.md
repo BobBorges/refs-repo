@@ -1,0 +1,22 @@
+# laGrasserie1968
+
+
+
+
+```
+
+@book{laGrasserie1968,
+	address = {Nendeln},
+	title = {Le nahuatl, langue des {Aztèques}, conquérants du {Mexique} précolombien: grammaire, vocabulaires, textes avec analyse et traduction interlinéaire},
+	shorttitle = {Le nahuatl, langue des {Aztèques}, conquérants du {Mexique} précolombien},
+	language = {fre},
+	author = {La Grasserie, Raoul de},
+	year = {1968},
+}
+```
+
+
+
+
+## Notes
+

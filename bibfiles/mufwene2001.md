@@ -1,0 +1,21 @@
+# mufwene2001
+
+
+
+
+```
+
+@book{mufwene2001,
+	address = {Cambridge},
+	title = {The ecology of language evolution},
+	publisher = {Cambridge University Press},
+	author = {Mufwene, Salikoko S.},
+	year = {2001},
+}
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,23 @@
+# winford2003
+
+
+
+
+```
+
+@book{winford2003,
+	title = {An {Introduction} to {Contact} {Linguistics}},
+	isbn = {978-0-631-21251-5},
+	abstract = {This book is a comprehensive introduction to the study of language contact and its outcomes, as well as the social and linguistic factors involved. Provides a comprehensive introduction to the field of contact linguistics. Examines a wide range of language contact phenomena from both general linguistic and sociolinguistic perspectives. Offers an account of current approaches to all of the major types of contact-induced change. Discusses the general processes and principles that are at work in cases of contact.},
+	publisher = {Wiley},
+	author = {Winford, Donald},
+	year = {2003},
+	keywords = {Language Arts \& Disciplines / General, Language Arts \& Disciplines / Linguistics / General},
+}
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,24 @@
+# bierhorst1985
+
+
+
+
+```
+
+@book{bierhorst1985,
+	address = {Stanford, Calif},
+	title = {A {Nahuatl}-{English} dictionary and concordance to the {Cantares} mexicanos: with an analytic transcription and grammatical notes},
+	isbn = {978-0-8047-1183-8},
+	shorttitle = {A {Nahuatl}-{English} dictionary and concordance to the {Cantares} mexicanos},
+	language = {eng nah},
+	publisher = {Stanford Univ. Press},
+	author = {Bierhorst, John},
+	year = {1985},
+}
+```
+
+
+
+
+## Notes
+

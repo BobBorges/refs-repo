@@ -1,0 +1,27 @@
+# CarochiLeon-Portilla1983
+
+
+
+
+```
+
+@book{CarochiLeon-Portilla1983,
+	address = {México},
+	edition = {1. ed},
+	series = {Facsímiles de lingüística y filología nahuas},
+	title = {Arte de la lengua mexicana: con la de [sic] declaración de los adverbios della},
+	isbn = {978-968-5805-86-5},
+	shorttitle = {Arte de la lengua mexicana},
+	language = {spa nah},
+	number = {2},
+	publisher = {Univ. Nacional Autónoma de México},
+	author = {Carochi, Horacio and León-Portilla, Miguel},
+	year = {1983},
+}
+```
+
+
+
+
+## Notes
+

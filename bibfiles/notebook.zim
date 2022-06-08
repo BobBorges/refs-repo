@@ -1,0 +1,14 @@
+[Notebook]
+version=0.4
+name=references
+interwiki=
+home=A Notebook
+icon=
+document_root=~/.bibmanager
+shared=True
+endofline=unix
+disable_trash=False
+default_file_format=zim_markdown
+default_file_extension=.md
+notebook_layout=files
+

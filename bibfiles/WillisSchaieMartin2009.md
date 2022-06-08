@@ -1,0 +1,24 @@
+# WillisSchaieMartin2009
+
+
+
+
+```
+
+@incollection{WillisSchaieMartin2009,
+author = {Willis, S.L. and Schaie, Klaus and Martin, Mike},
+editor = {Bengtson, Vern L. and Settersten, Richard A. and Kennedy, Brian K. and Morrow-Howell, Nancy and Smith, Jacqui and Bengtson, Vern L. and Settersten, Richard A. and Settersten, Richard A. and Godlewski, Bethany and Settersten, Richard A. and Hayflick, Leonard and Schaie, K. Warner and Bengtson, Vern L. and Estes, Carroll L. and DiCarlo, Nicholas R. and Kennedy, Brian K. and Arbuthnott, Devin and Promislow, Daniel E. L. and Moorad, Jacob A. and Xu, Ming and Kirkland, James L. and Sousa-Victor, Pedro and Neves, Joana and Jasper, Heinrich and Kaeberlein, Matt and Smith, Jacqui and Charles, Susan T. and Hong, Joanna and Ngo, Nhi and Sands, Molly and Isaacowitz, Derek M. and Uchino, Bert N. and Ong, Anthony D. and Queen, Tara L. and Kent de Grey, Robert G. and Meisner, Brad A. and Levy, Becca R. and Hülür, Gizem and Ram, Nilam and Gerstorf, Denis and Settersten, Richard A. and Hardy, Melissa and Reyes, Adriana M. and Blieszner, Rosemary and Voorpostel, Marieke and Wong, Jaclyn S. and Waite, Linda J. and O’Rand, Angela M. and Marshall, Victor W. and Martin-Matthews, Anne and McMullin, Julie Ann and Morrow-Howell, Nancy and Scharlach, Andrew E. and Moore, Keith Diaz and Hooyman, Nancy R. and Mahoney, Kevin J. and Sciegaj, Mark and Montgomery, Rhonda J. V. and Kwak, Jung and Kosloski, Karl D. and Hughes, Susan L. and Stolte, Elske and Smith-Ray, Renae L. and Hudson, Robert B. and Wacker, Robbyn R. and Roberto, Karen A. and Bengtson, Vern L. and Rowe, John W. and Cosco, Theodore D. and Aldwin, Carolyn M. and Igarashi, Heidi and Coleman, Peter G. and Schröder-Butterfill, Elisabeth and Spreadbury, John H. and Ardelt, Monika and Oh, Hunhui and Wahl, Hans-Werner and Oswald, Frank and Gavrilov, Leonid A. and Gavrilova, Natalia S. and Spini, Dario and Jopp, Daniela S. and Pin, Stéphanie and Stringhini, Silvia and Achenbaum, W. Andrew and Settersten, Richard A. and Bengtson, Vern L.},
+booktitle = {Handbook of Theories of Aging},
+year = {2009},
+pages = {295-322},
+title = {Cognitive plasticity},
+doi = {10.5167/uzh-18577}
+}
+
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,22 @@
+# deKlein1999
+
+
+
+
+```
+
+@book{deKlein1999morphosyntactic,
+  title={A Morphosyntactic Analysis of Surinamese Dutch as Spoken by the Creole Population of Paramaribo, Suriname},
+  author={De Kleine, C.M.},
+  url={https://books.google.se/books?id=RWxkNwAACAAJ},
+  year={1999},
+  publisher={City University of New York}
+}
+
+```
+
+
+
+
+## Notes
+

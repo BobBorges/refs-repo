@@ -1,0 +1,32 @@
+# hroarsdottir2004
+
+
+
+
+```
+
+@article{hroarsdottir2004,
+	title = {Language {Change} and {Language} {Acquisition}},
+	volume = {31},
+	copyright = {Copyright (c) 2003 Thorbjörg Hróarsdóttir},
+	issn = {1503-8599},
+	url = {https://septentrio.uit.no/index.php/nordlyd/article/view/21},
+	doi = {10.7557/12.21},
+	abstract = {The aim of this paper is to present diachronic changes in terms of the conditions of first language acquisition.
+Grammars, seen as mental organs, may change between two generations.  A change is initiated when (a population of) learners converge on a grammatical system which differs in at least one parameter value from the system internalized by the speakers of the previous generation.  Learnability issues then connect to both language acquisition and language change, and understanding language changes depends on understanding how children acquire their native language.  Acquisition is a process in which Universal Grammar (UG) interacts with a context-specific set of Primary Linguistic Data (PLD: the linguistic input to the child-learner) and uses these PLD as the source for triggers or cues that map the innate (preexperience) knowledge to a mature grammar.
+If a certain phenomenon has survived through many generations, it must have been reflected clearly in the PLD.  Then, if we note that it has changed, something in the language performance of the previous generation must have changed, and thereby paved the way for a new interpretation.  Innovation leading to linguistic variation in the PLD and gradual changes in PLD play a central role in the explanation here: the immediate cause of a grammar change must lie in some alternation in the PLD.  We will look at how the language spoken in a certain community (E-language) may gradually become different from the language that originally served as the triggering experience.  These changes in the E-language also mean changes in the input available to the child-learners of the next generation and a motivation for a different parameter setting has arisen.},
+	number = {1},
+	urldate = {2019-01-23},
+	journal = {Nordlyd},
+	author = {Hróarsdóttir, Thorbjörg},
+	year = {2004},
+	keywords = {Language Acquisition, Language Change, Learnability}
+}
+
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,25 @@
+# langacker1987
+
+
+
+
+```
+
+@book{langacker1987,
+  title={Foundations of Cognitive Grammar: Theoretical prerequisites},
+  author={Langacker, R.W.},
+  number={v. 1},
+  isbn={9780804738514},
+  lccn={lc84051300},
+  series={Foundations of Cognitive Grammar},
+  year={1987},
+  publisher={Stanford University Press}
+}
+
+```
+
+
+
+
+## Notes
+

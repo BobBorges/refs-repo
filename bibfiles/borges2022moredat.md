@@ -1,0 +1,22 @@
+# borges2022moredat
+
+
+
+
+```
+
+% Optional fields: editor, volume/number, series, pages, address, month, organization, publisher, note
+@CONFERENCE{borges2022moredat,
+	author = {Robert Borges},
+	title = {MoReDaT -- A Modular Remote Data Collection Toolkit for Linguistics +},
+	booktitle = {Digital Humanities in the Nordic and Baltic Countries 2022},
+	organization = {Uppsala University},
+	year = {2022}
+}
+```
+
+
+
+
+## Notes
+

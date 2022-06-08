@@ -1,0 +1,32 @@
+# MargarethaLungen2014
+
+
+
+
+```
+
+@article{MargarethaLungen2014,
+  author = {Margaretha, Eliza and L{\"u}ngen, Harald},
+  biburl = {https://www.bibsonomy.org/bibtex/22501b2d61e579744ff632e9ad542a71e/jil},
+  description = {JLCL},
+  interhash = {34c981153ea30fdc19c4bd6603d43138},
+  intrahash = {2501b2d61e579744ff632e9ad542a71e},
+  journal = {JLCL},
+  keywords = {eliza ids paper wikipedia},
+  number = 2,
+  pages = {59-82},
+  timestamp = {2014-12-15T16:35:48.000+0100},
+  title = {{Building Linguistic Corpora from Wikipedia Articles and Discussions}},
+  url = {http://www.jlcl.org/2014_Heft2/Heft2-2014.pdf},
+  volume = 29,
+  year = 2014
+}
+
+
+```
+
+
+
+
+## Notes
+

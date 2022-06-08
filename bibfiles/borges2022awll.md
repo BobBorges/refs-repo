@@ -1,0 +1,21 @@
+# borges2022awll
+
+
+
+
+```
+
+% Optional fields: volume, number, pages, month, note
+@ARTICLE{borges2022awll,
+	author = {Robert Borges},
+	title = {Impressions of Aruba's Linguistic Landscape},
+	journal = {The BLOG\@robertborges.net},
+	year = {2022}
+}
+```
+
+
+
+
+## Notes
+

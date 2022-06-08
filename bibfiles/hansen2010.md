@@ -1,0 +1,29 @@
+# hansen2010
+
+
+
+
+```
+
+@article{hansen2010,
+	title = {Nahuatl among {Jehovah}'s {Witnesses} of {Hueyapan}, {Morelos}: a case of spontaneous revitalization},
+	volume = {2010},
+	issn = {1613-3668},
+	shorttitle = {Nahuatl among {Jehovah}'s {Witnesses} of {Hueyapan}, {Morelos}},
+	url = {https://www-degruyter-com.ezproxy.its.uu.se/view/j/ijsl.2010.2010.issue-203/ijsl.2010.026/ijsl.2010.026.xml},
+	doi = {10.1515/ijsl.2010.026},
+	abstract = {The sociolinguistic situation of Hueyapan, Morelos, is similar to those described in other studies of modern Nahua communities: the language is in a rapid process of decline. This article describes the situation within one particular subcommunity of the town: the congregation of Jehovah's Witnesses. Here the Nahuatl language has experienced a revival within the last five years, to a degree where congregational meetings are now held mostly in Nahuatl, and where young Witnesses are probably the only group of youths in Hueyapan to communicate daily in Nahuatl. It is argued that this situation arose as a result of the combination of the general sociolinguistic background in Hueyapan and the specific value system and social dynamics that exist in the community of Jehovah's Witnesses.},
+	number = {203},
+	journal = {International Journal of the Sociology of Language},
+	author = {Hansen, Magnus Pharao},
+	year = {2010},
+	pages = {125--137},
+	file = {Full Text PDF:/home/bob/Literature/Zotero/storage/HSZCR42I/Hansen - 2010 - Nahuatl among Jehovah's Witnesses of Hueyapan, Mor.pdf:application/pdf},
+}
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,24 @@
+# farfan2001
+
+
+
+
+```
+
+@incollection{farfan2001,
+	title = {Spanish in the nahuatl of the balsas river basin during the {XXth} century: from language shift to language appropriation and resistance},
+	booktitle = {Lo propio y lo ajeno en las lenguas austronésicas y amerindias - {Procesos} interculturales en el contacto de lenguas indígenas con el español en el {Pacífico} e {Hispanoamérica}},
+	author = {Flores Farfán, José Antonio},
+	editor = {Zimmermann, K. and Stolz, Th.},
+	year = {2001},
+	note = {tex.lgcode: Spanish [spa] (computerized assignment from "spanish")
+tex.src: zurich
+tex.zurichcode: Nahuatl [1]},
+	pages = {179--198},
+```
+
+
+
+
+## Notes
+

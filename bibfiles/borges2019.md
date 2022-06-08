@@ -1,0 +1,22 @@
+# borges2019
+
+
+
+
+```
+
+﻿@article{borges2019,
+   author = {Borges, Robert},
+   institution = {Uppsala University, The Hugo Valentin Centre},
+   journal = {Journal of Communication and Cultural Trends},
+   title = {Rapid Automatized Picture Naming as a Proficiency Assessment for Endangered Language Contexts : Results from Wilamowice},
+   year = {}
+}
+
+```
+
+
+
+
+## Notes
+

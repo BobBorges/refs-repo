@@ -1,0 +1,23 @@
+# lightfoot2007
+
+
+
+
+```
+
+@article{lightfoot2007,
+	title = {Language acquisition and language change: inter-relationships},
+	volume = {1},
+	number = {5},
+	journal = {Language and Linguistics Compass},
+	author = {Lightfoot, David},
+	year = {2007},
+	pages = {396--415},
+}
+```
+
+
+
+
+## Notes
+

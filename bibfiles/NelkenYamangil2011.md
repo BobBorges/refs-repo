@@ -1,0 +1,23 @@
+# NelkenYamangil2011
+
+
+
+
+```
+
+@article{NelkenYamangil2011,
+author = {Nelken, Rani and Yamangil, Elif},
+year = {2011},
+pages = {31--36},
+title = {Mining Wikipedia's Article Revision History for Training Computational Linguistics Algorithms},
+url={https://www.aaai.org/Papers/Workshops/2008/WS-08-15/WS08-15-006.pdf},
+journal={AAAI}
+}
+
+```
+
+
+
+
+## Notes
+

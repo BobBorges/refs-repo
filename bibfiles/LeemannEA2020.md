@@ -1,0 +1,26 @@
+# LeemannEA2020
+
+
+
+
+```
+
+@article{LeemannEA2020,
+author = {Adrian Leemann and Péter Jeszenszky and Carina Steiner and Melanie Studerus and Jan Messerli},
+doi = {doi:10.1515/lingvan-2020-0061},
+url = {https://doi.org/10.1515/lingvan-2020-0061},
+title = {Linguistic fieldwork in a pandemic: Supervised data collection combining smartphone recordings and videoconferencing},
+journal = {Linguistics Vanguard},
+number = {s3},
+volume = {6},
+year = {2020},
+pages = {20200061}
+}
+
+```
+
+
+
+
+## Notes
+

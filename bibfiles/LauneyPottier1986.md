@@ -1,0 +1,25 @@
+# LauneyPottier1986
+
+
+
+
+```
+
+@phdthesis{LauneyPottier1986,
+	address = {Lieu d'édition inconnu},
+	title = {Catégories et opérations dans la grammaire nahuatl},
+	abstract = {Etude linguistique approfondie du nahuatl classique, où aztèque littéraire du XVIe et XVIIe siècles, à partir d'un corpus comprenant le codex de Florence et divers autres textes. En mettant en évidence certains phénomènes mal reconnus par la tradition grammaticale, l'auteur en montre l'importance typologique et théorique, et en particulier sur deux points. D'abord, la notion de relation prédicative semble plus apte que toute autre (et en particulier, que toute représentation bipartite) à traiter les phénomènes de hiérarchisation des arguments qui jouent un rôle morphosyntaxique capital. Ensuite, on doit poser comme base de toute la grammaire la notion de prédicativité, propriété qui s'applique à l'ensemble des items lexicaux (avec ses trois classes de verbes, noms et locatifs), de sorte que la construction des syntagmes nominaux (et d'une manière générale de tous les syntagmes) doit être décrite en termes d'opérations sur des schémas fondamentalement prédicatifs. A comprehensive linguistic study of classical nahuatl, the literary Aztec language of the 16th and 17th centuries, from a corpus including the Florentine codex and several other texts. The morphological and syntactic data reveal an underlying system of grammatical categories and semantico-syntactic operations which is of major interest both to typology and to a general theory of language. Two points are particularly important. The first is that the notion of predicative relation seems much more appropriate than any other (in particular, any kind of bipartition) to account for the hierarchy of arguments, which plays a prominent role in nahuatl morphosyntax. The second is that predicativity, a property shared by all lexical items (whose 3 classes are verbs, nouns and locatives) must be viewed as the center of the grammar, so that the construction of noun phrases (and more generally of all phrases) should be described in terms of operations applied to basically predicative patterns.},
+	language = {French},
+	school = {[éditeur inconnu]},
+	author = {Launey, Michel and Pottier, Bernard},
+	year = {1986},
+	note = {OCLC: 490594128},
+	file = {launey_1986_chap1.pdf:/Users/Bob/Downloads/launey_1986_chap1.pdf:application/pdf},
+}
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,26 @@
+# ORourkePujolarRamallo2015
+
+
+
+
+```
+
+@article{ORourkePujolarRamallo2015,
+    author = {Bernadette O'Rourke and Joan Pujolar and Fernando Ramallo},
+    doi = {doi:10.1515/ijsl-2014-0029},
+    url = {https://doi.org/10.1515/ijsl-2014-0029},
+    title = {New speakers of minority languages: the challenging opportunity – Foreword},
+    journal = {International Journal of the Sociology of Language},
+    number = {231},
+    volume = {2015},
+    year = {2015},
+    pages = {1--20}
+}
+
+```
+
+
+
+
+## Notes
+
