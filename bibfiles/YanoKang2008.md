@@ -1,6 +1,7 @@
 # YanoKang2008
 
 
+[[/pdf/YanoKang2008.pdf]]
 
 
 ```

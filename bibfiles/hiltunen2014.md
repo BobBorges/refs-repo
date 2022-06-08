@@ -1,6 +1,7 @@
 # hiltunen2014
 
 
+[[/pdf/hiltunen2014.pdf]]
 
 
 ```
@@ -20,6 +21,10 @@
 
 ```
 
+
+## abstract
+
+The English-language Wikipedia has been widely used in computational linguistic studies, but there is less corpus-based work on the language of Wikipedia from a variationist perspective. This article investigates whether Wikipedia articles follow American English or British English usage norms to a different degree, and to what extent this depends on their subject matter. The data for this study comes from Westbury Lab Wikipedia Corpus (2010). The results indicate that Wikipedia articles in general favour American English usage norms, which reflects the large number of contributing editors based in the US. On the other hand, British English holds its own in articles with ties to the UK, which exhibit a higher incidence of spellings and grammatical forms associated with that variety.
 
 
 
