@@ -1,0 +1,27 @@
+# hopper1987
+
+[[/pdf/hopper1987.pdf]]
+
+
+```
+
+@article{Hopper1987,
+  doi = {10.3765/bls.v13i0.1834},
+  url = {https://doi.org/10.3765/bls.v13i0.1834},
+  year = {1987},
+  month = sep,
+  publisher = {Linguistic Society of America},
+  volume = {13},
+  pages = {139},
+  author = {Paul Hopper},
+  title = {Emergent Grammar},
+  journal = {Annual Meeting of the Berkeley Linguistics Society}
+}
+
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,28 @@
+# FernandezSouzaCarando2016
+
+
+[[/pdf/FernandezSouzaCarando2016.pdf]]
+
+
+```
+
+@article{FernandezSouzaCarando2016,
+  doi = {10.1017/s1366728916000924},
+  url = {https://doi.org/10.1017/s1366728916000924},
+  year = {2016},
+  month = oct,
+  publisher = {Cambridge University Press ({CUP})},
+  volume = {20},
+  number = {2},
+  pages = {251--268},
+  author = {EVA M. FERN{\'{A}}NDEZ and RICARDO AUGUSTO DE SOUZA and AGUSTINA CARANDO},
+  title = {Bilingual innovations: Experimental evidence offers clues regarding the psycholinguistics of language change},
+  journal = {Bilingualism: Language and Cognition}
+}
+```
+
+
+
+
+## Notes
+
