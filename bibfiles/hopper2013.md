@@ -1,0 +1,27 @@
+# hopper2013
+
+[[/pdf/hopper2013.pdf]]
+
+
+```
+
+@incollection{hopper2013,
+  author    = "Paul J. Hopper"
+  title     = "Emergent Grammar"
+  booktitle = "The Routledge handbook of discourse analysis",
+  editor    = "Gee, James Paul and Handford, Michael",
+  publisher = "Routledge",
+  series    = "Routledge Handbooks in Applied Linguistics",
+  month     =  aug,
+  year      =  2013,
+  address   = "London, England"
+  pages     = "301--314"
+}
+
+```
+
+
+
+
+## Notes
+

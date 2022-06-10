@@ -1,0 +1,25 @@
+# GeeHanford2013eds
+
+
+[[/pdf/GeeHanford2013eds.pdf]]
+
+
+```
+
+@BOOK{GeeHanford2013eds,
+  title     = "The Routledge handbook of discourse analysis",
+  editor    = "Gee, James Paul and Handford, Michael",
+  publisher = "Routledge",
+  series    = "Routledge Handbooks in Applied Linguistics",
+  month     =  aug,
+  year      =  2013,
+  address   = "London, England"
+}
+
+```
+
+
+
+
+## Notes
+
