@@ -1,0 +1,28 @@
+# StefanowitschFlach2016
+
+
+
+
+```
+
+@inbook{StefanowitschFlach2016,
+url = {https://doi.org/10.1515/9783110341423-006},
+title = {5. The Corpus-Based Perspective on Entrenchment},
+booktitle = {Entrenchment and the Psychology of Language Learning},
+booktitle = {How We Reorganize and Adapt Linguistic Knowledge},
+author = {Anatol Stefanowitsch and Susanne Flach},
+editor = {Hans-Jörg Schmid},
+publisher = {De Gruyter Mouton},
+address = {Berlin, Boston},
+pages = {101--128},
+doi = {doi:10.1515/9783110341423-006},
+year = {2016},
+}
+
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,30 @@
+# BrodeurGuerardBouras2014
+
+
+
+
+```
+
+@article{BrodeurGuerardBouras2014,
+    doi = {10.1371/journal.pone.0106953},
+    author = {Brodeur, Mathieu B. AND Guérard, Katherine AND Bouras, Maria},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Bank of Standardized Stimuli (BOSS) Phase II: 930 New Normative Photos},
+    year = {2014},
+    month = {09},
+    volume = {9},
+    url = {https://doi.org/10.1371/journal.pone.0106953},
+    pages = {1-10},
+    abstract = {Researchers have only recently started to take advantage of the developments in technology and communication for sharing data and documents. However, the exchange of experimental material has not taken advantage of this progress yet. In order to facilitate access to experimental material, the Bank of Standardized Stimuli (BOSS) project was created as a free standardized set of visual stimuli accessible to all researchers, through a normative database. The BOSS is currently the largest existing photo bank providing norms for more than 15 dimensions (e.g. familiarity, visual complexity, manipulability, etc.), making the BOSS an extremely useful research tool and a mean to homogenize scientific data worldwide. The first phase of the BOSS was completed in 2010, and contained 538 normative photos. The second phase of the BOSS project presented in this article, builds on the previous phase by adding 930 new normative photo stimuli. New categories of concepts were introduced, including animals, building infrastructures, body parts, and vehicles and the number of photos in other categories was increased. All new photos of the BOSS were normalized relative to their name, familiarity, visual complexity, object agreement, viewpoint agreement, and manipulability. The availability of these norms is a precious asset that should be considered for characterizing the stimuli as a function of the requirements of research and for controlling for potential confounding effects.},
+    number = {9},
+
+}
+
+```
+
+
+
+
+## Notes
+

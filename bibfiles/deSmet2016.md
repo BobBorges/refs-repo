@@ -1,0 +1,29 @@
+# deSmet2016
+
+
+
+
+```
+
+@inbook{deSmet2016,
+url = {https://doi.org/10.1515/9783110341423-005},
+title = {4. Entrenchment Effects in Language Change},
+booktitle = {Entrenchment and the Psychology of Language Learning},
+booktitle = {How We Reorganize and Adapt Linguistic Knowledge},
+author = {Hendrik De Smet},
+editor = {Hans-Jörg Schmid},
+publisher = {De Gruyter Mouton},
+address = {Berlin, Boston},
+pages = {75--100},
+doi = {doi:10.1515/9783110341423-005},
+year = {2016},
+lastchecked = {2022-09-12}
+}
+
+```
+
+
+
+
+## Notes
+
