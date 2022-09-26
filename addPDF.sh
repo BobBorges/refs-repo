@@ -18,7 +18,7 @@ if [ -f $PDF ] ; then
    
             bibm pdf $key $PDF $key.pdf
             sed -i "4i [[/pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.md
-    
+    	    sed -i "5i [[file:../pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.md
         else
 
             echo "There's no note for $key -- $key.md"

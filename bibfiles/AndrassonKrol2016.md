@@ -1,8 +1,8 @@
 # AndrassonKrol2016
 
 
-[[/pdf/AndrassonKrol2016.pdf]]
-
+[[/pdf/AndrasonKrol2016.pdf]]
+[[file:../pdf/AndrasonKrol2016.pdf]]
 
 ```
 

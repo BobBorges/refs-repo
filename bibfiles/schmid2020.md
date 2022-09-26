@@ -2,7 +2,7 @@
 
 
 [[/pdf/schmid2020.pdf]]
-
+[[file:../pdf/schmid2020.pdf]]
 
 ```
 
