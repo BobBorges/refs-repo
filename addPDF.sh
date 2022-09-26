@@ -6,6 +6,11 @@ PDF=$2
 fixit(){
     echo "Fix that ish, yo!"
 }
+if [ -z ${key} ] ; then
+	echo "Usage: addPDF \$key \$pdf"
+	fixit
+	exit
+fi
 
 if [ -f $PDF ] ; then
     if [ -f /home/bob/.bibmanager/bibfiles/$key.bib ] ; then

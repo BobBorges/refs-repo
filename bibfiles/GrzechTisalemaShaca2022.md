@@ -1,0 +1,24 @@
+# GrzechTisalemaShaca2022
+
+
+[[/pdf/GrzechTisalemaShaca2022.pdf]]
+
+
+```
+
+@article{GrzechTisalemaShaca2022,
+    author = {Karolina Grzech and Selena Tisalema Shaca},
+    title = {Building trust on Zoom: A workflow for language documentation via videoconferencing software},
+    year = {2022},
+    journal = {Language Documentation and Conservation},
+    volume = {16},
+    pages = {79--97}
+}
+
+```
+
+
+
+
+## Notes
+

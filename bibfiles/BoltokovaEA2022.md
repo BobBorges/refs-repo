@@ -1,0 +1,25 @@
+# BolotkovaEA2022
+
+
+[[/pdf/BoltokovaEA2022.pdf]]
+
+
+```
+
+@article{BolotkovaEA2022,
+    author  = {Daria Boltokova and Jessica Kantarovich and Lenore Grenoble and Maria Pupynina},
+    year    = {2022},
+    title   = {Knowing and remembering: Rethinking lexical recall as a measure of proficiency in endangered language communities},
+    journal = {Language Documentation and Conservation},
+    volume  = {16},
+    pages   = {145--167},
+}
+
+
+```
+
+
+
+
+## Notes
+
