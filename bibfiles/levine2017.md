@@ -1,0 +1,23 @@
+# levine2017
+
+
+
+
+```
+
+@CONFERENCE{levine2017,
+	author = {Ben Levine},
+	title = {Documentary Video Feedback: An Evolving Methodology for Endangered Language Documentation, Revival, and Community Evolution},
+	note = {Engaged Humanities \& Language Revitalization: shared experiences in search of efficient approaches (Workshop)},
+	organization = {University of Warsaw},
+	year = {2017}
+
+}
+
+```
+
+
+
+
+## Notes
+

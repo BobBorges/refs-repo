@@ -1,0 +1,24 @@
+# borges2022csbwiki
+
+
+
+
+```
+
+@article{borges2022csbwikiMS,
+  doi = {10.34616/AJMP.2022.18.1},
+  author = {Borges,  Robert David},
+  title = {Sourcing Data from Wikipedia for the Study of Language Contact: the csbwiki},
+  journal = {Academic Journal of Modern Philology},
+  volume = {18},
+  pages = {7--22},
+  year = {2022}
+}
+
+```
+
+
+
+
+## Notes
+

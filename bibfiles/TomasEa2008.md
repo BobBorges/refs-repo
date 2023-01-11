@@ -1,0 +1,25 @@
+# TomasEa2008
+
+
+
+
+```
+
+@inproceedings{J.2008,
+title = {Mining Wikipedia as a Parallel and Comparable Corpus},
+author = {J. Tomás and J. Bataller and Francisco Casacuberta and J. Lloret},
+year = {2008},
+date = {2008-01-01},
+booktitle = {In proceedings of the 9th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing-2008)},
+pages = {1--8},
+keywords = {},
+pubstate = {published},
+tppubtype = {inproceedings}
+}
+```
+
+
+
+
+## Notes
+
