@@ -1,0 +1,30 @@
+* BraunmuellerGabriel2012
+
+
+[[../pdf/BraunmuellerGabriel2012.pdf]]
+[[file:../pdf/BraunmuellerGabriel2012.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{BraunmuellerGabriel2012, 
+	address={Amsterdam, Netherlands}, 
+	title={Multilingual individuals and multilingual societies}, 
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	ISBN={9789027219336}, 
+	publisher={John Benjamins Publishing}, 
+	year={2012} 
+}
+
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

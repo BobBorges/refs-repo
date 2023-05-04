@@ -1,0 +1,30 @@
+* EllisEA2013
+
+
+[[../pdf/EllisEA2013.pdf]]
+[[file:../pdf/EllisEA2013.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@article{EllisEA2013,
+  doi = {10.5774/41-0-131},
+  url = {https://doi.org/10.5774/41-0-131},
+  year = {2013},
+  volume = {41},
+  pages = {17--27},
+  author = {Carla Ellis and Simone Conradie and Kate Huddlestone},
+  title = {The acquisition of grammatical gender in L2 German by learners with Afrikaans,  English or Italian as their L1},
+  journal = {Stellenbosch Papers in Linguistics}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

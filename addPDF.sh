@@ -14,11 +14,11 @@ fi
 
 if [ -f $PDF ] ; then
     if [ -f /home/bob/.bibmanager/bibfiles/$key.bib ] ; then
-        if [ -f /home/bob/.bibmanager/bibfiles/$key.md ] ; then
+        if [ -f /home/bob/.bibmanager/bibfiles/$key.org ] ; then
    
             bibm pdf $key $PDF $key.pdf
-            sed -i "4i [[/pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.md
-    	    sed -i "5i [[file:../pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.md
+            sed -i "4i [[../pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.org
+    	    sed -i "5i [[file:../pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.org
         else
 
             echo "There's no note for $key -- $key.md"

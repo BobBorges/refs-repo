@@ -1,0 +1,30 @@
+* SchoenenbergerEA2012
+
+
+[[../pdf/SchoenenbergerEA2012.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@inbook{SchoenenbergerEA2012, 
+	title={Case marking in child L1 and early child L2 German},
+	author={Manuela Schönenberger and Monika Rothweiler and Franziska Sterner},
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	address={Amsterdam, Netherlands}, 
+	booktitle={Multilingual individuals and multilingual societies},  
+	publisher={John Benjamins Publishing}, 
+	year={2012},
+	pages={3--21}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,29 @@
+* StoehrEA2012
+
+
+[[../pdf/StoehrEA2012.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@inbook{StoehrEA2012, 
+	title={Gender marking in L2 learners and Italian-German bilinguals with German as the weaker language},
+	author={Antje Stöhr and Deniz Akpinar and Giulia Bianchi and Tanja Kupisch},
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	address={Amsterdam, Netherlands}, 
+	booktitle={Multilingual individuals and multilingual societies},  
+	publisher={John Benjamins Publishing}, 
+	year={2012},
+	pages={153--169}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

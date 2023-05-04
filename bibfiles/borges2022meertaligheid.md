@@ -1,0 +1,22 @@
+# borges2022meertaligheid
+
+
+
+
+```
+
+@article{borges2022meertaligheid,
+	author = {Robert Borges},
+	title  = {Meertaligheid op het strand: Wat borden en posters zeggen over taalvitaliteit op Aruba},
+	year = {2022},
+	journal = {Stemmen van Afrika},
+	note = {\url {https://stemmenvanafrika.nl/meertaligheid-op-het-strand-wat-borden-en-posters-zeggen-over-taalvitaliteit-op-aruba/} (visited: 2023-01-31)}
+}
+
+```
+
+
+
+
+## Notes
+

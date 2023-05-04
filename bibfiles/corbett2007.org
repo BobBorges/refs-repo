@@ -1,0 +1,32 @@
+* corbett2007
+
+
+[[../pdf/corbett2007.pdf]]
+[[../pdf/corbett2007.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@inbook{corbett2007, 
+	place={Cambridge}, 
+	edition={2}, 
+	title={Gender and noun classes}, 
+	volume={3}, 
+	DOI={10.1017/CBO9780511618437.004}, 
+	booktitle={Language Typology and Syntactic Description}, 
+	publisher={Cambridge University Press}, 
+	author={Corbett, Greville G.}, 
+	editor={Shopen, TimothyEditor}, 
+	year={2007}, pages={241–279}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

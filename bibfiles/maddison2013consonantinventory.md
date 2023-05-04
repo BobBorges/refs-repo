@@ -1,0 +1,25 @@
+# maddison2013consonantinventory
+
+
+
+
+```
+
+@incollection{maddison2013consonantinventory,
+  address   = {Leipzig},
+  author    = {Ian Maddieson},
+  booktitle = {The World Atlas of Language Structures Online},
+  editor    = {Matthew S. Dryer and Martin Haspelmath},
+  publisher = {Max Planck Institute for Evolutionary Anthropology},
+  title     = {Consonant Inventories},
+  url       = {https://wals.info/chapter/1},
+  year      = {2013}
+}
+
+```
+
+
+
+
+## Notes
+

@@ -1,0 +1,30 @@
+* BrehmerRothweiler2012
+
+
+[[../pdf/BrehmerRothweiler2012.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@inbook{BrehmerRothweiler2012, 
+	title={The acquisition of gender agreement in Polish: a study of bilingual Polish-German-speaking children},
+	author={Bernhard Brehmer and Monika Rothweiler},
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	address={Amsterdam, Netherlands}, 
+	booktitle={Multilingual individuals and multilingual societies},  
+	publisher={John Benjamins Publishing}, 
+	year={2012},
+	pages={81--100}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

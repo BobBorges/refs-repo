@@ -1,0 +1,28 @@
+* wals-98
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@incollection{wals-98,
+  author    = {Bernard Comrie},
+  booktitle = {The World Atlas of Language Structures Online},
+  editor    = {Matthew S. Dryer and Martin Haspelmath},
+  publisher = {Zenodo},
+  title     = {Alignment of Case Marking of Full Noun Phrases (v2020.3)},
+  type      = {Data set},
+  url       = {https://doi.org/10.5281/zenodo.7385533},
+  year      = {2013},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

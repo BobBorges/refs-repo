@@ -1,0 +1,26 @@
+# IngraoSzabo2008
+
+
+
+
+```
+
+@book{IngraoSzabo2008,
+  title={The Germans and the East},
+  author={Ingrao, C.W. and Szabo, F.A.J.},
+  isbn={9781557534439},
+  lccn={2007001055},
+  series={Central European studies},
+  url={https://books.google.de/books?id=IHAcEB8jh1AC},
+  year={2008},
+  publisher={Purdue University Press},
+  address={West Lafayette, Indiana}
+}
+
+```
+
+
+
+
+## Notes
+

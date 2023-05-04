@@ -1,0 +1,30 @@
+* blake1994
+
+
+[[../pdf/blake1994.pdf]]
+[[file:../pdf/blake1994.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{blake1994,
+  address    = {Cambridge},
+  author     = {Blake, Barry},
+  publisher  = {Cambridge University Press},
+  title      = {Case},
+  year       = {1994},
+  iso_code   = {swh},
+  olac_field = {general_linguistics; syntax; typology; semantics},
+  wals_code  = {swa}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

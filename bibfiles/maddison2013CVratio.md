@@ -1,0 +1,24 @@
+# maddison2013CVratio
+
+
+
+
+```
+
+@incollection{maddison2013CVratio,
+  address   = {Leipzig},
+  author    = {Ian Maddieson},
+  booktitle = {The World Atlas of Language Structures Online},
+  editor    = {Matthew S. Dryer and Martin Haspelmath},
+  publisher = {Max Planck Institute for Evolutionary Anthropology},
+  title     = {Consonant-Vowel Ratio},
+  url       = {https://wals.info/chapter/3},
+  year      = {2013}
+}
+```
+
+
+
+
+## Notes
+

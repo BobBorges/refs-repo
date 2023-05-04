@@ -1,0 +1,27 @@
+# krol2022volksliste
+
+
+
+
+```
+
+@article{Krol2022volksliste,
+  doi = {10.26774/wrhm.339},
+  url = {https://doi.org/10.26774/wrhm.339},
+  year = {2022},
+  month = dec,
+  publisher = {Osrodek Pamiec i Przyszlosc},
+  volume = {12},
+  pages = {120--140},
+  author = {Tymoteusz Kr{\'{o}}l},
+  title = {Volkslista i powojenne prze{\'{s}}ladowania. Analiza opowie{\'{s}}ci wspomnieniowych Wilamowian z perspektywy folklorystycznej},
+  journal = {Wroc{\l}awski Rocznik Historii M{\'{o}}wionej}
+}
+
+```
+
+
+
+
+## Notes
+

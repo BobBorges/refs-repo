@@ -1,0 +1,32 @@
+# GastBorges2023
+
+
+
+
+```
+
+
+@Article{GastBorges2023,
+AUTHOR = {Gast, Volker and Borges, Robert},
+TITLE = {Nouns, Verbs and Other Parts of Speech in Translation and Interpreting: Evidence from English Speeches Made in the European Parliament and Their German Translations and Interpretations},
+JOURNAL = {Languages},
+VOLUME = {8},
+YEAR = {2023},
+NUMBER = {1},
+ARTICLE-NUMBER = {39},
+URL = {https://www.mdpi.com/2226-471X/8/1/39},
+ISSN = {2226-471X},
+ABSTRACT = {This study investigates the distributions of word classes in English speeches made in the European Parliament and their German (written) translations and simultaneous interpretations. For comparison, a sample of original German speeches and a selection of political interviews are used. The study is motivated by the intention to understand the relationship between the type of mediation and communicative modes: mediated spoken language is compared to unmediated spoken language and to mediated written language. The results show that the interpretations exhibit a less nominal style than the translations, in this respect resembling unplanned spoken conversation. Other quantitative findings, such as a high frequency of adverbs, also point to a register effect, but interpretations have a hybrid status and can be located somewhere in the middle, between the register of the source text (parliamentary speech) and unplanned spoken discourse. The results are discussed against the background of the mechanisms that presumably underlie the choices made by translators (processing, register and strategies).},
+DOI = {10.3390/languages8010039}
+}
+
+
+
+
+```
+
+
+
+
+## Notes
+

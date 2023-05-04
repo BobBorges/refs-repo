@@ -1,0 +1,32 @@
+* BickelNichols2007
+
+
+[[../pdf/BickelNichols2007.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@inbook{BickelNichols2007, 
+	place={Cambridge}, 
+	edition={2}, 
+	title={Inflectional morphology}, 
+	volume={3}, 
+	DOI={10.1017/CBO9780511618437.003}, 
+	booktitle={Language Typology and Syntactic Description}, 
+	publisher={Cambridge University Press}, 
+	author={Bickel, Balthasar and Nichols, Johanna}, 
+	editor={Shopen, TimothyEditor}, 
+	year={2007}, 
+	pages={169–240}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

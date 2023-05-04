@@ -24,24 +24,27 @@ bibfile="$1"
 newname="$2"
 
 mk_note() {
-    note=~/.bibmanager/bibfiles/$1.md
+    note=~/.bibmanager/bibfiles/$1.org
     tick='`'
     touch $note 
-    echo "# $1" > $note
+    echo "* $1" > $note
     echo "" >> $note
     echo "" >> $note
     echo "" >> $note
     echo "" >> $note
-    echo "$tick$tick$tick" >> $note
+    echo "** bibtex" >> $note
+    echo "" >> $note
+    echo "#+NAME: <bibtex>" >> $note
+    echo "#+BEGIN_SRC" >> $note
     echo "" >> $note
     cat $2 >> $note
     echo "" >> $note
-    echo "$tick$tick$tick" >> $note
+    echo "#+END_SRC" >> $note
     echo "" >> $note
     echo "" >> $note
     echo "" >> $note
     echo "" >> $note
-    echo "## Notes" >> $note
+    echo "** Notes" >> $note
     echo "" >> $note
 }
 

@@ -1,0 +1,24 @@
+# maddison2013vowelinventory
+
+
+
+
+```
+
+@incollection{maddison2013vowelinventory,
+  address   = {Leipzig},
+  author    = {Ian Maddieson},
+  booktitle = {The World Atlas of Language Structures Online},
+  editor    = {Matthew S. Dryer and Martin Haspelmath},
+  publisher = {Max Planck Institute for Evolutionary Anthropology},
+  title     = {Vowel Quality Inventories},
+  url       = {https://wals.info/chapter/2},
+  year      = {2013}
+}
+```
+
+
+
+
+## Notes
+

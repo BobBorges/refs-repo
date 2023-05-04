@@ -1,0 +1,31 @@
+* SpinnerJuffs2008
+
+
+[[../pdf/SpinnerJuffs2008.pdf]]
+[[file:../pdf/SpinnerJuffs2008.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@article{SpinnerJuffs2008,
+    doi = {10.1515/iral.2008.014},
+    url = {https://doi.org/10.1515/iral.2008.014},
+    year = {2008},
+    publisher = {Walter de Gruyter {GmbH}},
+    volume = {46},
+    number = {4},
+    author = {Patti Spinner and Alan Juffs},
+    title = {L2 grammatical gender in a complex morphological system: The case of German},
+    journal = {{IRAL} - International Review of Applied Linguistics in Language Teaching}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+
