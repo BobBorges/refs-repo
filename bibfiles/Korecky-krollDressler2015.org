@@ -1,0 +1,29 @@
+* Korecky-krollDressler2015
+
+
+[[../pdf/Korecky-krollDressler2015.pdf]]
+[[file:../pdf/Korecky-krollDressler2015.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@article{Korecky-krollDressler2015,
+	author={Kathatina Korecky-Kröll and Wolfgang U. Dressler},
+	title={The acquisition of case in German: A longitufinal study of two Viennese children},
+	year={2015},
+	journal={Studi e Saggi Linguistici},
+	volume={53},
+	number={1},
+	pages={9--36}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

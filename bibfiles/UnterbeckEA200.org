@@ -8,6 +8,17 @@
 #+NAME: <bibtex>
 #+BEGIN_SRC
 
+@book{UnterbeckEA2000,
+	url = {https://doi.org/10.1515/9783110802603},
+	title = {Gender in Grammar and Cognition},
+	title = {I: Approaches to Gender. II: Manifestations of Gender},
+	editor = {Barbara Unterbeck and Matti Rissanen and Terttu Nevalainen and Mirja Saari},
+	publisher = {De Gruyter Mouton},
+	address = {Berlin, New York},
+	doi = {doi:10.1515/9783110802603},
+	isbn = {9783110802603},
+	year = {2000}
+}
 
 #+END_SRC
 

@@ -1,0 +1,30 @@
+* janssen2016
+
+
+[[../pdf/janssen2016.pdf]]
+[[file:../pdf/janssen2016.pdf]]
+[[../pdf/janssen2016.pdf]]
+[[file:../pdf/janssen2016.pdf]]
+[[../pdf/janssen2016.pdf]]
+[[file:../pdf/janssen2016.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@phdthesis{jansen2016
+	author={Bibi Janssen},
+	title={The acquisition of gender and case in Polish and Russian: A study of monolingual and bilingual children},
+	year={2016},
+	school={University of Amsterdam}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

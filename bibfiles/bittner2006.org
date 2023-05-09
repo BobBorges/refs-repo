@@ -5,6 +5,8 @@
 [[file:../pdf/bittner2006.pdf]]
 [[../pdf/bittner2006.pdf]]
 [[file:../pdf/bittner2006.pdf]]
+[[../pdf/bittner2006.pdf]]
+[[file:../pdf/bittner2006.pdf]]
 
 
 ** bibtex
