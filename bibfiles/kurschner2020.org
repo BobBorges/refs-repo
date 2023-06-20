@@ -1,0 +1,35 @@
+* kurschner2020
+
+
+[[../pdf/kurschner2020.pdf]]
+[[file:../pdf/kurschner2020.pdf]]
+[[../pdf/kurschner2020.pdf]]
+[[file:../pdf/kurschner2020.pdf]]
+[[../pdf/kurschner2020.pdf]]
+[[file:../pdf/kurschner2020.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@incollection{Krschner2020,
+  doi = {10.1017/9781108378291.013},
+  url = {https://doi.org/10.1017/9781108378291.013},
+  year = {2020},
+  publisher = {Cambridge University Press},
+  pages = {259--281},
+  author = {Sebastian K\"{u}rschner},
+  editor = {Michael T. Putnam and B. Richard Page},
+  title = {Grammatical Gender in Modern Germanic Languages},
+  booktitle = {The Cambridge Handbook of Germanic Linguistics}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

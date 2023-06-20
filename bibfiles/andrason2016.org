@@ -1,6 +1,8 @@
 # andrasson2016
 
 
+[[../pdf/andrason2016.pdf]]
+[[file:../pdf/andrason2016.pdf]]
 
 
 ```

@@ -1,0 +1,95 @@
+* schmid2020
+
+
+[[/pdf/schmid2020.pdf]]
+[[file:../pdf/schmid2020.pdf]]
+
+
+** bib
+
+```
+
+@book{schmid2020,
+    author={Schmid,Hans-Jörg},
+    year={2020},
+    title={The dynamics of the linguistic system: usage, conventionalization, and entrenchment},
+    publisher={Oxford University Press},
+    address={Oxford;New York, NY;},
+    edition={First},
+    abstract={This volume outlines a model of language that can be characterized as functionalist, usage-based, dynamic, and complex-adaptive. The core idea is that linguistic structure is not stable and uniform, but continually refreshed by the interaction between three components: usage, the communicative activities of speakers; conventionalization, the social processes triggered by these activities and feeding back into them; and entrenchment, the individual cognitive processes that are also linked to these activities in a feedback loop. Hans-Joerg Schmid explains how this multiple feedback system works by extending his Entrenchment-and-Conventionalization Model, showing how the linguistic system is created, sustained, and continually adapted by the ongoing interaction between usage, conventionalization, and entrenchment. Fulfilling the promise of usage-based accounts, the model explains how exactly usage is transformed into collective and individual grammar and how these two grammars in turn feed back into usage.0The book is exceptionally broad in scope, with insights from a wide range of linguistic subdisciplines. It provides a coherent account of the role of multiple factors that influence language structure, variation, and change, including frequency, economy, identity, multilingualism, and language contact.;This book offers a model of language that can be characterized as functionalist, usage-based, dynamic, and complex-adaptive. Schmid argues that linguistic structure is not stable, but continually refreshed by usage, conventionalization, and entrenchment. This wide-ranging volume will be of interest to linguists from a wide range of fields.;This volume outlines a model of language that can be characterized as functionalist, usage-based, dynamic, and complex-adaptive. The core idea is that linguistic structure is not stable and uniform, but continually refreshed by the interaction between three components: usage, the communicative activities of speakers; conventionalization, the social processes triggered by these activities and feeding back into them; and entrenchment, the individual cognitive processesthat are also linked to these activities in a feedback loop. Hans-Jrg Schmid explains how this multiple feedback system works by extending his Entrenchment-and-Conventionalization Model, showing how the linguistic system is created, sustained, and continually adapted by the ongoing interactionbetween usage, conventionalization, and entrenchment. Fulfilling the promise of usage-based accounts, the model explains how exactly usage is transformed into collective and individual grammar and how these two grammars in turn feed back into usage. The book is exceptionally broad in scope, with insights from a wide range of linguistic subdisciplines. It provides a coherent account of the role of multiple factors that influence language structure, variation, and change, including frequency, economy, identity, multilingualism, and language contact.;},
+    keywords={Language and languages; Language and languages-Philosophy; Philosophy},
+    isbn={9780198814771;0198814771;},
+    language={English},
+}
+
+```
+
+
+
+
+**  Notes
+
+
+"Finally, in Chapter 5, I surveyed forces that modulate the choice and configurations of utterances in concrete usage and therefore have an indirect potential to also affect conventionalization and entrenchment. From a methodological perspective, these forces are predictors of usage choices and their frequencies, which means that, conversely, the analysis of frequency counts with a view to these forces can be informative about their potential effects."
+
+(82--83)
+
+
+"Conventions are regularities of behaviour which the members of a community conform to because they mutually expect each other to do so."
+
+"The conventionality of conventional utterance types is established and continually sustained and adapted by the processes of usualization and diffusion."
+
+(200)
+
+
+"Usualization and diffusion also cooperate very closely in language change. For
+one thing, they are responsible for the conventionalization of innovations
+originating from within a speech community or adopted from outside via dialect
+or language contact."
+
+"Usualization resulting in change can be triggered by the cognitive strengthening processes taking place in the minds of individual speakers under the influence of repeated co-semiosis."
+
+
+"usualization affects forms, meanings, and combinatorial options
+and constraints in cotext and context and is therefore mainly involved in various
+types of reanalysis, including semantic change, syntagmaticalization and chunk-
+ing, grammaticalization, and pragmaticalization."
+
+"Diffusion is conducive to change
+with regard to spatial, social, and stylistic aspects of conventionality, e.g. spread
+from urban centres to rural areas or vice versa, from higher and middle social
+classes to lower ones or vice versa, from colloquial to formal contexts or vice
+versa, or from technical genres to everyday ones and vice versa.
+
+"In spite of the fact that they are ongoing processes, usualization and diffusion
+are not only conducive to but in fact necessary for the persistence of utterance
+types and linguistic structure in general."
+
+(201)
+
+
+
+Entrenchment: "the continual reorganization of linguistic
+knowledge caused by repeated usage activities in usage events, which is subject
+to the exigencies of the conventionalization processes taking place in speech
+communities."
+
+"entrenchment must be regarded as a feed-
+back loop that consists of usage and the four cognitive processes of activation,
+association, routinization, and schematization."
+
+"It is important to be clear about the relation between conventionalization and
+entrenchment at this point. As the definition of entrenchment indicates, what can
+become entrenched in the mind of individual speakers depends on social pro-
+cesses and their effects. More concretely, this means that entrenchment processes
+are initially triggered by the more or less conventionalized utterance types that
+a speaker produces and is confronted with in co-semiotic events in usage.
+Conventional utterance types are no more than the trigger, however; they them-
+selves do not constitute the input to entrenchment processes, but instead the patterns
+of associations that are activated during co-semiotic activities."
+
+(205)
+
+
+"Speakers do not entrench utterance types, but they entrench the patterns
+of associations that become active while they process utterance types."

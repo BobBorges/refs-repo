@@ -1,0 +1,25 @@
+* makurat2014
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@BOOK{makurat2014
+  title    = {Interferencjow{\'e} przejinaczi w g{\^o}dce biblingwalny sp{\`o}l{\"e}zn{\"e} Kaszub},
+  author   = {Makurat, Hanna},
+  year     =  {2014},
+  publisher = {Kasz{\"e}bsczi Institute},
+  address = {Gdansk}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

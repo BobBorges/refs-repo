@@ -1,0 +1,24 @@
+* krol2023
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{krol2023,
+	author={Tymoteusz Król},
+	title={Wymysoü ej \.a śejny, kliny śtot. Gyśihta fu Wymysiöejyn yr wymysiöeryśa śpröh – Wilamowice, to piękne, małe miasto. Wilamowskojęzyczne opowieści Wilamowian},
+	year={to appear},
+	series={Archiwum Etnograficzne}
+}	
+
+#+END_SRC
+
+
+
+
+** Notes
+

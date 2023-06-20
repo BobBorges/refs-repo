@@ -1,0 +1,29 @@
+* topolinska1974
+
+
+[[../pdf/topolinska1974.pdf]]
+[[file:../pdf/topolinska1974.pdf]]
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{topolinska1974,
+url = {https://doi.org/10.1515/9783110813388},
+title = {A Historical Phonology of the Kashubian Dialects of Polish},
+author = {Zuzanna Topolinska},
+publisher = {De Gruyter Mouton},
+address = {Berlin},
+isbn = {9783110813388},
+year = {1974}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

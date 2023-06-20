@@ -28,3 +28,14 @@
 
 ** Notes
 
+
+Stages of acquisition (Child L2 acquisition)
+
+1. Lack of marking -- bare nouns
+2. Semantic determining -- def vs indefinite (forms in free variation)
+3. Semantic determining -- reduction of forms to one, usually die b/c higher freq (dependent on input)
+4. establishing functional values
+    4.1 reinterpretation of gender markers as case markers
+        (der/die in nom // das form in examples as acc)
+    4.2 reinterpretation of gender markers as number markers
+5. approaching TL structures

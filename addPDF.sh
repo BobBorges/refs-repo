@@ -21,7 +21,7 @@ if [ -f $PDF ] ; then
     	    sed -i "5i [[file:../pdf/$key.pdf]]" /home/bob/.bibmanager/bibfiles/$key.org
         else
 
-            echo "There's no note for $key -- $key.md"
+            echo "There's no note for $key -- $key.org"
             fixit
             exit
 

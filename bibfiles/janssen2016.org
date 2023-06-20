@@ -28,3 +28,13 @@
 
 ** Notes
 
+"When acquiring their mother tongue, young children have to deduce the basic
+features implicitly from the input they receive. Generally spoken, the more
+transparent the features of a linguistic system, the easier it is for children to
+deduce these features from the input and the higher their learnability (Slobin,
+1973, 1985, 1997; MacWhinney & Bates, 1989; MacWhinney, 2005; Peters,
+1997). The transparency of a system, and of grammatical features in particular, is
+positively influenced by four interrelated factors: morphological analysability
+(non-syncretic and non-homophonous morphemes), morphophonetic clarity
+(perceptual salience), morphophonological regularity (no allomorphy), and
+pattern frequency." 287

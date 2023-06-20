@@ -1,0 +1,32 @@
+* labov1963
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@article{labov1963,
+	author = {William Labov},
+	title = {The Social Motivation of a Sound Change},
+	journal = {WORD},
+	volume = {19},
+	number = {3},
+	pages = {273-309},
+	year  = {1963},
+	publisher = {Routledge},
+	doi = {10.1080/00437956.1963.11659799},
+	URL = {https://doi.org/10.1080/00437956.1963.11659799}
+}
+
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

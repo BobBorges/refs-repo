@@ -1,0 +1,30 @@
+* KasstanMueller2018
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@article{KasstanMueller2018,
+url = {https://doi.org/10.1515/ijsl-2017-0039},
+title = {(l) as a sociolinguistic variable in Francoprovençal},
+title = {},
+author = {Jonathan Kasstan and Daniela Müller},
+pages = {99--118},
+volume = {2018},
+number = {249},
+journal = {International Journal of the Sociology of Language},
+doi = {doi:10.1515/ijsl-2017-0039},
+year = {2018}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

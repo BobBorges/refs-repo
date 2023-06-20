@@ -1,0 +1,26 @@
+* lorentz1919
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{lorentz1919,
+  address    = {Danzig},
+  author     = {Lorentz, Friedrich},
+  pages      = {97},
+  publisher  = {Gedania},
+  title      = {Kaschubische Grammatik},
+  year       = {1919}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

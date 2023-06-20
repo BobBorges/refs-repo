@@ -1,0 +1,25 @@
+* chafe1980
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{chafe1980, 
+	title={The pear stories: Cognitive, cultural, and linguistic aspects of narrative production},
+	address = {Norwood, NJ},
+	publisher = {Ablex},
+	author={Wallace L. Chafe (ed.)}, 
+	year={1980}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

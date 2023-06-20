@@ -1,0 +1,28 @@
+* leglise2013
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@incollection{leglise2013,
+  doi = {10.1075/silv.12.06isa},
+  url = {https://doi.org/10.1075/silv.12.06isa},
+  year = {2013},
+  publisher = {John Benjamins Publishing Company},
+  pages = {137--164},
+  author = {Isabelle L{\'{e}}glise},
+  title = {The interplay of inherent tendencies and language contact on French object clitics},
+  booktitle = {The Interplay of Variation and Change in Contact Settings},
+  editor={Isabelle L{\'{e}}glise and Claudine Chamoreau}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

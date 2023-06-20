@@ -1,0 +1,25 @@
+* ramult2017
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{ramult2017,
+  author     = {Stefan Ramułt},
+  pages      = {533},
+  publisher  = {Region},
+  title      = {Słownik języka pomorskiego, czyli kaszubskiego},
+  year       = {2017}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

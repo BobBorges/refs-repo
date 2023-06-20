@@ -7,6 +7,10 @@
 [[file:../pdf/bittner2006.pdf]]
 [[../pdf/bittner2006.pdf]]
 [[file:../pdf/bittner2006.pdf]]
+[[../pdf/bittner2006.pdf]]
+[[file:../pdf/bittner2006.pdf]]
+[[../pdf/bittner2006.pdf]]
+[[file:../pdf/bittner2006.pdf]]
 
 
 ** bibtex
@@ -34,3 +38,25 @@
 
 ** Notes
 
+acquisition of case/gender in German speaking children (L1)
+
+    - acquisition: lexico-semantic diststinction definiteness --> functional features related to case --> functional features related to Gender 
+
+p.1
+----
+
+
+order of acquisition
+
+--> nominative --> accusative --> dative --> genitive (citing Clahsen 1984, Meisel 1986, Tracy 1986, Clahsen et al 1994)
+
+Clahsen, Harald. 1984. „Der Erwerb von Kasusmarkierungen in der deutschen Kindersprache.” Linguistische Berichte, 89, 1-31.
+
+Clahsen, Harald, Eisenbeiß, Sonja & Vainikka, Anne. 1994. “The seeds of the structure: A syntactic analysis of the acquisition of case marking.” In: T. Hoeckstra & B. T. Schwartz (eds.), Language acquisition in generative grammar. Amsterdam: Benjamins. 85-118.
+
+Meisel, Jürgen. 1986. “Word order and case marking in early child language. Evidence from simultaneous acquisition of two first languages: French and German.” Linguistics, 24, 123-183
+
+Tracy, Rosemary. 1986. “The acquisition of case morphology in German.” Linguistics, 24, 47-78.
+
+p.4
+---

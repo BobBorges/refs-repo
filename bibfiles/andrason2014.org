@@ -1,0 +1,26 @@
+* andrason2014
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@article{andrason2014,
+	author = {Alex Andrason},
+	title = {The Polish component in the Vilamovicean language},
+	journal = {Glossos},
+	number = {12},
+	year = {2014},
+	pages = {1--38}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,27 @@
+* WicherkiewiczOlko2016
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@inbook{WicherkiewiczOlko2016,
+	author={Tomasz Wicherkiewicz and Justyna Olko},
+	title={Researching, Documenting, and Reviving Wymysiöeryś: a historical outline},
+	booktitle={Integral Strategies for Language Revitalization},
+	editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
+	publisher={University of Warsaw Press},
+	address={Warsaw},
+	pages={17--54}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

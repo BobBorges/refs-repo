@@ -1,0 +1,30 @@
+* lorentz1925
+
+
+
+
+** bibtex
+
+#+NAME: <bibtex>
+#+BEGIN_SRC
+
+@book{lorentz1925,
+  address               = {Berlin},
+  author                = {Lorentz, Friedrich},
+  note                  = {Includes bibliographies},
+  pages                 = {xi+236},
+  publisher             = {Gruyter},
+  series                = {Grundriss der slavischen Philologie und Kulturgeschichte},
+  title                 = {Geschichte der pomoranischen (kaschubischen) Sprache},
+  volume                = {1},
+  year                  = {1925},
+  isbn                  = {9783112002575}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+
