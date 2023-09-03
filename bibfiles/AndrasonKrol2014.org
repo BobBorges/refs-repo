@@ -5,11 +5,11 @@
 
 ** bibtex
 
-#+NAME: <bibtex>
-#+BEGIN_SRC
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
 
 @article{AndrasonKrol2014,
-	author = {Alexander Andrason and Tymoteusz Król},
+    author = {Alexander Andrason and Tymoteusz Król},
 	title = {Description of the Pronominal system of modern Vilamovicean},
 	year = {2014},
 	journal = {Brünner Beiträge zur Germanistik und Nordistik},
