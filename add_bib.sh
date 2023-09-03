@@ -34,8 +34,8 @@ mk_note() {
     echo "" >> $note
     echo "** bibtex" >> $note
     echo "" >> $note
-    echo "#+NAME: <bibtex>" >> $note
-    echo "#+BEGIN_SRC" >> $note
+    echo "#+NAME: bibtex" >> $note
+    echo "#+BEGIN_SRC bibtex" >> $note
     echo "" >> $note
     cat $2 >> $note
     echo "" >> $note
