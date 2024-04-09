@@ -1,0 +1,29 @@
+* MaryniakMajerskaSnajderKrol2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{MaryniakMajerskaSnajderKrol2021,
+    place={Cambridge},
+    title={Ethical Aspects and Cultural Sensitivity in Language Revitalization},
+    DOI={10.1017/9781108641142.004},
+    booktitle={Revitalizing Endangered Languages: A Practical Guide},
+    publisher={Cambridge University Press},
+    author={Maryniak, Joanna and Majerska-Sznajder, Justyna and Król, Tymoteusz},
+    editor={Olko, Justyna and Sallabank, JuliaEditors},
+    year={2021},
+    pages={49–61}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

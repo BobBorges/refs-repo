@@ -1,0 +1,26 @@
+* ClinePortilla1984
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{ClinePortilla1984,
+  title     = {The Testaments of Culhuacan},
+  author    = {Cline, S.L. and Portilla, M.L},
+  lccn      = {84017177},
+  year      = {1984},
+  address   = {Los Angeles},
+  publisher = {UCLA Latin American Center Publications, University of California, }
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

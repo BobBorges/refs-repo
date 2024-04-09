@@ -1,0 +1,26 @@
+* lockhart1994
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{lockhart1994,
+   title      = {The Nahuas After the Conquest: A Social and Cultural History of the Indians of Central Mexico, Sixteenth Through Eighteenth Centuries},
+   author     = {James Lockhart},
+   publisher  = {Stanford University Press},
+   isbn       = {9780804765572; 080476557X},
+   year       = {1994},
+   address    = {Stanford}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

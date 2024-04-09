@@ -1,0 +1,28 @@
+* kent1983
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{kent1983,
+  title={A simple guide to five normal forms in relational database theory},
+  author={Kent, William},
+  journal={Communications of the ACM},
+  volume={26},
+  number={2},
+  pages={120--125},
+  year={1983},
+  publisher={ACM New York, NY, USA}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

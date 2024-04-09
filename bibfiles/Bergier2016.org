@@ -1,0 +1,28 @@
+* Bergier2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{Bergier2016,
+    title={In Search of Community-Driven Research Methodology on Indigenous Linguistic-Cultural Heritage: a Principled Ally Approach },
+    year={2016},
+    address={Warsaw},                                                           
+    publisher={University of Warsaw Press},                                
+    pages={581--606},                                       
+    booktitle={Integral Strategies for Language Revitalization},   
+    author={Aleksandra Bergier},    
+    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}   
+} 
+
+#+END_SRC
+
+
+
+
+** Notes
+

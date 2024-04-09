@@ -1,0 +1,29 @@
+* AndersonEA1976
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{AndersonEA1976,
+  title     = {Beyond the Codices: The Nahua View of Colonial Mexico},
+  author    = {Anderson, A.J.O. and Berdan, F. and Lockhart, J. and Langacker, R.W.},
+  isbn      = {9780520029743},
+  lccn      = {74029801},
+  series    = {Latin American studies - University of California, Los Angeles. Latin American Center},
+  url       = {https://books.google.se/books?id=FSoElHv_w9MC},
+  year      = {1976},
+  address   = {Berkeley},
+  publisher = {University of California Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

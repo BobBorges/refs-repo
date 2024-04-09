@@ -1,0 +1,28 @@
+* borges2023nwymc010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@software{borges2023nwymc010,
+  author       = {Robert Borges},
+  title        = {BobBorges/wymysorys-corpus-infrastructure: v0.1.0},
+  month        = dec,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v.0.1.0},
+  doi          = {10.5281/zenodo.10428393},
+  url          = {https://doi.org/10.5281/zenodo.10428393}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

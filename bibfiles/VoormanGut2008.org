@@ -1,0 +1,30 @@
+* VoormanGut2008
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{VoormannGut2008,
+    url = {https://doi.org/10.1515/CLLT.2008.010},
+    title = {Agile corpus creation},
+    author = {Holger Voormann and Ulrike Gut},
+    pages = {235--251},
+    volume = {4},
+    number = {2},
+    journal = {Corpus Linguistics and Linguistic Theory},
+    doi = {doi:10.1515/CLLT.2008.010},
+    year = {2008},
+    lastchecked = {2023-12-01}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

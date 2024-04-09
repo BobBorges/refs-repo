@@ -1,0 +1,28 @@
+* OlkoWicherkiewicz2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{OlkoWicherkiewicz2016,
+    title={Endangered Languages: in Search of a Comprehensive Model for Research and Revitalization},
+    year={2016},
+    address={Warsaw},                                                           
+    publisher={University of Warsaw Press},                                
+    pages={649--676},                                       
+    booktitle={Integral Strategies for Language Revitalization},   
+    author={Justyna Olko and Tomasz Wicherkiewicz},    
+    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}   
+} 
+
+#+END_SRC
+
+
+
+
+** Notes
+
