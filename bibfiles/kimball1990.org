@@ -1,0 +1,32 @@
+* kimball1990
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{kimball1990,
+  AUTHOR = {Kimball, Geoffrey},
+  URL = {https://www.jstor.org/stable/1265129},
+  DATE = {1990},
+  ISSN = {0020-7071},
+  JOURNALTITLE = {International Journal of American Linguistics},
+  NOTE = {Publisher: University of Chicago Press},
+  NUMBER = {2},
+  PAGES = {196--216},
+  TITLE = {Noun {Pluralization} in {Eastern} {Huasteca} {Nahuatl}},
+  URLDATE = {2021-04-16},
+  VOLUME = {56},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

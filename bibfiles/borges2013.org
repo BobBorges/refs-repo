@@ -1,0 +1,35 @@
+* borges2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{borges2013,
+  title    = "The life of language: Dynamics of language contact in Suriname",
+  author   = "Borges, Robert David and {The Nijmegen/Tilburg Center for
+              Language studies (CLS)}",
+  abstract = "``Language lives. And just like other living things, languages
+              come into being, develop over time, and eventually die. Often
+              these developments are motivated by interaction with other
+              languages, known as language contact. This dissertation contains
+              a bundle of articles that report on the various ways that
+              languages effect each other and the factors that condition the
+              linguistic results in the Surinamese context'.--back cover of
+              book.",
+  year     =  2013,
+  publisher = "LOT Publications",
+  address = "Utrecht",
+  language = "en"
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

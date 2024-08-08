@@ -1,0 +1,31 @@
+* hernandez2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{hernandez2010,
+	title={From Conquest to Colonization:Indiosand Colonization Policies after Mexican Independence},
+	volume={26},
+	ISSN={1533-8320},
+	url={http://dx.doi.org/10.1525/msem.2010.26.2.291},
+	DOI={10.1525/msem.2010.26.2.291},
+	number={2},
+	journal={Mexican Studies/Estudios Mexicanos},
+	publisher={University of California Press},
+	author={Hernández, José Angel},
+	year={2010},
+	pages={291–322}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,32 @@
+* becker2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{becker2014,
+  AUTHOR = {Becker, Kara},
+  LANGUAGE = {en},
+  URL = {https://linkinghub.elsevier.com/retrieve/pii/S0271530913001122},
+  DATE = {2014-03},
+  DOI = {10.1016/j.langcom.2013.12.007},
+  ISSN = {02715309},
+  JOURNALTITLE = {Language \& Communication},
+  PAGES = {43--54},
+  TITLE = {Linguistic repertoire and ethnic identity in {New} {York} {City}},
+  URLDATE = {2021-04-16},
+  VOLUME = {35},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,32 @@
+* BarkingMosBackus2023
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{BarkingMosBackus2023,
+        author = {Marie Barking and Maria Mos and Ad Backus},
+        title ={Investigating language transfer from a usage-based perspective},
+        journal = {International Journal of Bilingualism},
+        volume = {0},
+        number = {0},
+        pages = {1--24},
+        year = {2023},
+        doi = {10.1177/13670069231175629},
+        URL = {https://doi.org/10.1177/13670069231175629},
+        abstract = { Aims and objectives:The aim of this study is to investigate language contact from a usage-based perspective. In particular, we test the explanatory power of a schematicity continuum, one of the central assumptions within usage-based approaches, in regard to these contact effects. In doing so, we aim to better understand how schematicity influences language transfer as well as learn more about the cognitive mechanism of schematicity itself.Design:The empirical focus of this study is on native German speakers living in the Netherlands who tend to experience a lot of language transfer from their second language Dutch to their native language German. The experiment consists of a production task containing constructions that differ in regard to their potential level of schematicity (i.e., lexically specific, partially schematic, fully schematic) and in the type of transfer that they might trigger (i.e., covert and overt transfer).Data and analysis:We compare production data of native German speakers living in the Netherlands (N = 60) with those of a control group of speakers not in contact with Dutch (N = 60), to establish whether the language use of these two groups differs. In addition, we analyze both speaker and item variation for the different constructions.Findings/conclusions:The speakers with Dutch contact show a number of contact effects, such as covert and overt transfer as well as hypercorrection regarding the use of certain constructions.Originality:The variation analysis reveals individual differences in how speakers use the different constructions. Some of these differences can be attributed to their mental levels of schematicity.Significance/implications:The study shows that transfer depends on schematicity. In doing so, it provides direct evidence for different levels of schematicity in speakers’ mental representations, demonstrating the usefulness of studying cognitive mechanisms within a language contact setting. }
+}
+
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

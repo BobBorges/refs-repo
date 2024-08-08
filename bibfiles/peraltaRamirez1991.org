@@ -1,0 +1,31 @@
+* peraltaRamirez1991
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{peraltaRamirez1991,
+  AUTHOR = {Peralta Ramirez, Valentín},
+  LANGUAGE = {en},
+  URL = {https://www.academia.edu/10273656/La_reduplicaci%C3%B3n_en_el_n%C3%A1huatl_de_Tezcoco_y_sus_funciones_sociales},
+  DATE = {1991},
+  FILE = {Snapshot:/home/bob/Literature/Zotero/storage/TWWXWBHB/La_reduplicación_en_el_náhuatl_de_Tezcoco_y_sus_funciones_sociales.html:text/html},
+  JOURNALTITLE = {Amerindia},
+  PAGES = {20--36},
+  TITLE = {La reduplicación en el náhuatl de {Tezcoco} y sus funciones sociales},
+  URLDATE = {2021-04-16},
+  VOLUME = {16},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

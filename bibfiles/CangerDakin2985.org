@@ -1,0 +1,31 @@
+* CangerDakin2985
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{CangerDakin2985,
+	title={An Inconspicuous Basic Split in Nahuatl},
+	volume={51},
+	ISSN={1545-7001},
+	url={http://dx.doi.org/10.1086/465892},
+	DOI={10.1086/465892},
+	number={4},
+	journal={International Journal of American Linguistics},
+	publisher={University of Chicago Press},
+	author={Canger, Una and Dakin, Karen},
+	year={1985},
+	pages={358–-361}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

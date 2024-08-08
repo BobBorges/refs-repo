@@ -1,0 +1,29 @@
+* backus2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{backus2013,
+	title={A usage-based approach to borrowability},
+	ISBN={9781614515913},
+	url={http://dx.doi.org/10.1515/9781614514305.19},
+	DOI={10.1515/9781614514305.19},
+	booktitle={New Perspectives on Lexical Borrowing},
+	publisher={De Gruyter},
+	author={Backus, Ad},
+	year={2013},
+	pages={19–-40}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

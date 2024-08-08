@@ -1,0 +1,28 @@
+* lastraDeSuarez1986
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{lastraDeSuarez1986,
+  AUTHOR = {Lastra de Suárez, Yolanda},
+  LOCATION = {Mexico},
+  PUBLISHER = {UNAM},
+  DATE = {1986},
+  NUMBER = {62},
+  SERIES = {Instituto de {Investigaciones} {Antropológicas}},
+  TITLE = {Las Áreas {Dialectales} del {Náhuatl} {Moderno}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,31 @@
+* burkhart2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{burkhart2014,
+	title={2014 Presidential Address: Christian Salvation as Ethno-Ethnohistory: Two Views from 1714},
+	volume={63},
+	ISSN={1527-5477},
+	url={http://dx.doi.org/10.1215/00141801-3455267},
+	DOI={10.1215/00141801-3455267},
+	number={2},
+	journal={Ethnohistory},
+	publisher={Duke University Press},
+	author={Burkhart, Louise M.},
+	year={2016},
+	pages={215–-235}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

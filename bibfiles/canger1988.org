@@ -1,0 +1,28 @@
+* canger1988
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{canger1988,
+  AUTHOR = {Canger, Una},
+  DATE = {1988},
+  JOURNALTITLE = {International Journal of American Linguistics},
+  NUMBER = {1},
+  PAGES = {28--72},
+  TITLE = {Nahuatl {Dialectology}: {A} {Survey} and {Some} {Suggestions}},
+  VOLUME = {54},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

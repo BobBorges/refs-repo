@@ -1,0 +1,37 @@
+* dakin2000
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{dakin2000,
+  ABSTRACT = {The origin of the words \$lsquo;cacao\$rsquo; and \$lsquo;chocolate\$rsquo; and their use in the reconstruction of the early history of Mesoamerica, remain very controversial issues. Cambell and Kaufman (1976, American Antiquity 41:80–89), for example, proposed that the word \$lsquo;cacao\$rsquo; originated from Mixe–Zoque languages, thus possibly representing Olmec traditions. According to this argument, other Mesoamerican languages, including Nahuatl, borrowed the word as a symbol of prestige and Olmec influence. Other researchers claim the word \$lsquo;chocolate\$rsquo; represents a more recent neologism, a possible Maya–Nahuatl hybrid, due to the late appearance of the word in central Mexico's Colonial sources. We refute the putative Mixe–Zoque origin of \$lsquo;cacao\$rsquo; and provide linguistic evidence to propose that \$lsquo;cacao,\$rsquo; like \$lsquo;chocolate,\$rsquo; is a Uto-Aztecan term. Analysis of these words highlights general and particular evolutionary trends that originate from the Uto-Aztecan language family. In addition, we show that these two words were initially used as descriptive terms to refer to the shape of the plant's bean and the techniques of drink preparation. Etymological evidence verifies the use of a Mayan term for cacao as early as the Classic period (fourth century a.d.). This early appearance of the term in Mayan and the later diffusion of the Nahua word throughout all of Mesoamerica correlate with additional data to support the conclusion that Teotihuacanos spoke Nahuatl.},
+  AUTHOR = {Dakin, Karen and Wichmann, Søren},
+  LANGUAGE = {en},
+  URL = {https://www.cambridge.org/core/journals/ancient-mesoamerica/article/abs/cacao-and-chocolate/0EF397F9576469AC73F67B8A083492B4},
+  DATE = {2000-01},
+  DOI = {10.1017/S0956536100111058},
+  FILE = {Snapshot:/home/bob/Literature/Zotero/storage/YCPBR9VC/0EF397F9576469AC73F67B8A083492B4.html:text/html},
+  ISSN = {1469-1787, 0956-5361},
+  JOURNALTITLE = {Ancient Mesoamerica},
+  NOTE = {Publisher: Cambridge University Press},
+  NUMBER = {1},
+  PAGES = {55--75},
+  SHORTTITLE = {{CACAO} {AND} {CHOCOLATE}},
+  TITLE = {{CACAO} {AND} {CHOCOLATE}: {A} {Uto}-{Aztecan} perspective},
+  URLDATE = {2021-04-16},
+  VOLUME = {11},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

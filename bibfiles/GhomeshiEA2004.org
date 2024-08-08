@@ -1,0 +1,30 @@
+* GhomeshiEA2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{GhomeshiEA2004,
+    URL = {http://www.jstor.org/stable/4048061},
+    abstract = {This paper presents a phenomenon of colloquial English that we call Contrastive Reduplication (CR), involving the copying of words and sometimes phrases as in It's tuna salad, not SALAD-salad, or Do you LIKE-HIM-like him? Drawing on a corpus of examples gathered from natural speech, written texts, and television scripts, we show that CR restricts the interpretation of the copied element to a 'real' or prototypical reading. Turning to the structural properties of the construction, we show that CR is unusual among reduplication phenomena in that whole idioms can be copied, object pronouns are often copied (as in the second example above), and inflectional morphology need not be copied. Thus the 'scope' of CR cannot be defined in purely phonological terms; rather, a combination of phonological, morphosyntactic, syntactic, and lexical factors is involved. We develop an analysis within the parallel architecture framework of Jackendoff (1997, 2002), whereby CR is treated as a lexical item with syntactic and semantic content and reduplicative phonology. We then sketch an alternative analysis, based on current assumptions within the Minimalist Program, which involves movement into a focus-like position with both the head and the tail of the resulting chain spelled out.},
+    author = {Jila Ghomeshi and Ray Jackendoff and Nicole Rosen and Kevin Russell},
+    journal = {Natural Language & Linguistic Theory},
+    number = {2},
+    pages = {307--357},
+    publisher = {Springer},
+    title = {Contrastive Focus Reduplication in English (The Salad-Salad Paper)},
+    volume = {22},
+    year = {2004}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

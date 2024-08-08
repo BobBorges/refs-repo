@@ -1,0 +1,33 @@
+* guttierrezMorales2012
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{guttierrezMorales2012,
+  AUTHOR = {Guitiérrez-Morales, Salomé},
+  EDITOR = {Lars, Johanson and Robbeets, Martine},
+  LOCATION = {Leiden},
+  PUBLISHER = {BRILL},
+  URL = {https://brill.com/view/title/20651},
+  BOOKTITLE = {Copies versus {Cognates} in {Bound} {Morphology}},
+  DATE = {2012},
+  DOI = {10.1163/9789004230477},
+  ISBN = {978-90-04-22407-0 978-90-04-23047-7},
+  PAGES = {221--232},
+  TITLE = {Morphological borrowing in {Sierra} {Popoluca}},
+  URLDATE = {2021-04-16},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

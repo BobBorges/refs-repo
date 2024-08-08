@@ -1,0 +1,34 @@
+* hill2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{hill2001,
+  ABSTRACT = {Authorities on the origin and history of Uto-Aztecan have held that speakers of the protolanguage were foragers who lived in upland regions of Arizona, New Mexico, and the adjacent areas of the Mexican states of Sonora and Chihuahua about 5,000 years ago. New lexical evidence supports a different view, that speakers of the protolanguage were maize cultivators. The Proto-Uto-Aztecan speech community was probably located in Mesoamerica and spread northward into the present range because of demographic pressure associated with cultivation. The chronology for the spread and differentiation of the family should then correspond to the chronology for the northward spread of maize cultivation from Mesoamerica into the U.S. Southwest, between 4500 and 3000 B.P.},
+  AUTHOR = {Hill, Jane H.},
+  URL = {https://www.jstor.org/stable/684121},
+  DATE = {2001},
+  ISSN = {0002-7294},
+  JOURNALTITLE = {American Anthropologist},
+  NOTE = {Publisher: [American Anthropological Association, Wiley]},
+  NUMBER = {4},
+  PAGES = {913--934},
+  SHORTTITLE = {Proto-{Uto}-{Aztecan}},
+  TITLE = {Proto-{Uto}-{Aztecan}: {A} {Community} of {Cultivators} in {Central} {Mexico}?},
+  URLDATE = {2021-04-16},
+  VOLUME = {103},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

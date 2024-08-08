@@ -1,0 +1,26 @@
+* malmberg1964
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inproceedings{malmberg1964,
+    author = {Bertil Malmberg},
+    booktitle = {Presente y futuro de la lengua española : actas ... Vol. 2, La unidad del español : caracterización y perspectivas},
+    title = {Tradición hispánica e influencia indígena en la fonética hispanoamericana},
+    year = {1964},
+    publisher = {Ediciones Cultura Hispánica},
+    address = {Madrid}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

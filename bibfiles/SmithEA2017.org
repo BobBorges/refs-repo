@@ -1,0 +1,32 @@
+* SmithEA2017
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{SmithEA2017,
+  ABSTRACT = {Group vitality is a widely invoked construct in the study of minority language maintenance and interethnic relations. Per the original framework introduced 40 years ago, the more vitality an ethnolinguistic group perceives itself to have, the more likely that it will thrive as a collective entity in an intergroup context. Consequently, research adopting this paradigm—herein termed vitality theory—has studied ways in which objective and subjective group vitality has manifested itself in the endurance of ethnolinguistic groups. The notion of objective vitality includes the factors of demographics, institutional support, and status that characterize the strength of a group in comparison to others present in an intergroup setting. Contrastively, subjective vitality was introduced to highlight how groups may cognitively and affectively perceive these same factors. A large body of empirical research has been conducted within the vitality theory framework that has resulted in several stages of development. Evidence has shown that while the components of objective vitality (demographics, institutional support, status) do not typically manifest themselves as distinct components in the structure of subjective vitality, they do form a single component reflecting the perceived strength of the group. In addition, several other social psychological factors, such as perception of the legitimacy of intergroup relations, the level of ethnocentrism, and perception of intergroup distance, were incorporated into models of subjective vitality. Relatedly, these factors are shaped into group members’ discourse of vitality, which is a highly dialogical process of negotiation of subjective vitality of the groups engaged in intergroup contact. The vitality framework has been usefully invoked beyond ethnolinguistic groups, embracing several intergroup settings including age, gender, and sexual orientation. Vitality, which has provoked some controversy in the literature, has also been widely adopted by very different approaches as an umbrella term to denote the long-term sustainability of a group. Scholars in linguistics, sociology, psychology, education, anthropology, and beyond have contributed much to the concept, helping to educate and raise awareness as to why languages die out and the effects of such languages dying out.},
+  AUTHOR = {Smith, Benjamin King and Ehala, Martin and Giles, Howard},
+  LANGUAGE = {en},
+  PUBLISHER = {Oxford University Press},
+  URL = {https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-496},
+  BOOKTITLE = {Oxford {Research} {Encyclopedia} of {Communication}},
+  DATE = {2017-07},
+  DOI = {10.1093/acrefore/9780190228613.013.496},
+  ISBN = {978-0-19-022861-3},
+  TITLE = {Vitality {Theory}},
+  URLDATE = {2021-04-16},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

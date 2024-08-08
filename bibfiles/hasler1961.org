@@ -1,0 +1,26 @@
+* hasler1961
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{hasler1961,
+  AUTHOR = {Hasler, Juan},
+  LOCATION = {Mexico},
+  PUBLISHER = {Instito Lingüistico de Verano},
+  DATE = {1961},
+  TITLE = {Tetradialectologia {Nahua}. {A} {William} {Cameron} {Townsend} en el vigesimoquinto aniversario del {Instituto} {Lingüístico} de {Verano}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

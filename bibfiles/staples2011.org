@@ -1,0 +1,28 @@
+* staples2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{staples2011,
+    title={Una educación en desventaja : el México indígena (1821-1854)},
+    author={Staples, Anne},
+    booktitle={Grupos marginados de la educación (siglos XIX y XX)},
+    location={Ciudad de México},
+    editor={de Lourdes Alvarado, María and Ríos Zúñiga, Rosalina},
+    publisher= {Bonilla Artigas Editores},
+    year=2011,
+    pages={335--372}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

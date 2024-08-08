@@ -1,0 +1,26 @@
+* thomason2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{thomason2001,
+  AUTHOR = {Thomason, Sarah},
+  LOCATION = {Edinburgh},
+  PUBLISHER = {Edingurgh University Press},
+  DATE = {2001},
+  TITLE = {Language {Contact}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

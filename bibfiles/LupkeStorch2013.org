@@ -1,0 +1,26 @@
+* LupkeStorch2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{LupkeStorch2013,
+  AUTHOR = {Lüpke, Friederieke and Storch, Anne},
+  LOCATION = {Berlin},
+  PUBLISHER = {De Gruyter Mouton},
+  DATE = {2013},
+  TITLE = {Repertoires and choices in {African} {Languages}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

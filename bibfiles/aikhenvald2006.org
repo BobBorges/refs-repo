@@ -1,0 +1,30 @@
+* aikhenvald2006
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{aikhenvald2006,
+  AUTHOR = {Aikhenvald, Alexandra},
+  EDITOR = {Caron, Bernard and Zima, Petr},
+  LOCATION = {Louvain},
+  PUBLISHER = {Peeters},
+  BOOKTITLE = {Sprachbund in the {West} {African} {Sahel}},
+  DATE = {2006},
+  FILE = {9066_Aikhenvald_2006.pdf:/Users/Bob/Documents/Publications/9066_Aikhenvald_2006.pdf:application/pdf;9066_Aikhenvald_2006.pdf:/home/bob/Literature/Zotero/storage/SFT5UP4M/9066_Aikhenvald_2006.pdf:application/pdf},
+  PAGES = {23--36},
+  TITLE = {Reflections on language contact, areal diffusion, and language change},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

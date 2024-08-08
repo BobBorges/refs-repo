@@ -1,0 +1,29 @@
+* vanRooy2020
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{vanRooy2020,
+	title={Language or Dialect?: The History of a Conceptual Pair},
+	ISBN={9780191880865},
+	url={http://dx.doi.org/10.1093/oso/9780198845713.001.0001},
+	DOI={10.1093/oso/9780198845713.001.0001},
+	publisher={Oxford University Press},
+	address={Oxford},
+	author={Van Rooy, Raf},
+	year={2020}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

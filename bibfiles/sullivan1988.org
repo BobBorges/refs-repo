@@ -1,0 +1,25 @@
+* sullivan1988
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{sullivan1988,
+  title     = "Thelma D. Sullivan's compendium of Nahuatl Grammar",
+  author    = "Sullivan, Thelma D",
+  editor    = "Dakin, Karen and Miller, Wick R",
+  publisher = "University of Utah Press",
+  year      =  1988,
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

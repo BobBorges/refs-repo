@@ -1,0 +1,27 @@
+* YakpoMuysken2017
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{YakpoMuysken2017,
+  AUTHOR = {Yakpo, Kofi and Muysken, Pieter},
+  LANGUAGE = {English},
+  DATE = {2017},
+  ISBN = {978-1-61451-488-6 978-1-5015-0114-2 978-1-61451-684-2},
+  NOTE = {OCLC: 1004247361},
+  TITLE = {Boundaries and bridges language contact in multilingual ecologies},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

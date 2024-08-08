@@ -1,0 +1,27 @@
+* MartinAlcatrazEscalandeFernandez2017
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{MartinAlcatrazEscalandeFernandez2017,
+    author={Martín Alcaraz, Alicia, & Escalante Fernández, Carlos},
+    year={2017},
+    titpe={Prácticas educativas, “el problema de la lengua” y usos indígenas de la lectura y la escritura en la historiografía de la educación del siglo XIX en México},
+    journal={Revista mexicana de investigación educativa},
+    volume={22},
+    issue={73},
+    pages={347--366}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

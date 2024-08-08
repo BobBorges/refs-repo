@@ -1,0 +1,63 @@
+\documentclass[twoside]{article}
+
+% all related to fonts and encoding
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\inputencoding{utf8}
+\usepackage{lmodern}
+
+% everything for the reference list
+\usepackage[backend=biber,%
+            style=authoryear,%
+            doi=false,%
+            isbn=false,%
+            url=false,%
+            maxcitenames=3,%
+            sorting=nyt,%ydnt,nyt, none%
+            maxbibnames=99,%
+            url=false,%
+            eprint=false,%
+	    	useprefix=true,%
+	    	uniquename=false]{biblatex}
+\renewcommand*{\nameyeardelim}{\space}
+\renewcommand*{\postnotedelim}{\addcolon\space}
+\IfFileExists{/home/bob/.bibmanager/zotero_export.bib}{
+	\addbibresource{/home/bob/.bibmanager/zotero_export.bib}
+}
+
+\makeatletter
+\AtBeginDocument{\toggletrue{blx@useprefix}}
+\AtBeginBibliography{\togglefalse{blx@useprefix}}
+\makeatother
+
+%%%%%%%%%%%%%%%
+%% FOOTNOTES %%
+%%%%%%%%%%%%%%%
+
+% allows easy footnotes formatting
+
+\usepackage[bottom, hang,flushmargin]{footmisc}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhf{}
+\fancyhead[RE]{dummy}
+\fancyhead[LO]{ROBERT BORGES}
+\fancyfoot[RE]{\thepage}
+\fancyfoot[LO]{\thepage}
+\raggedbottom
+
+% allows hyperlinks
+% MUST BE LAST
+\usepackage[hidelinks, hyperfootnotes=false]{hyperref}
+
+\title{dummy}
+\author{ROBERT BORGES}
+\date{}
+
+\begin{document}
+    \maketitle
+    \input{citation.tex}
+    \printbibliography
+\end{document}

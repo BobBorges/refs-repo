@@ -1,0 +1,28 @@
+* decm
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@misc{decm,
+  doi = {10.6084/M9.FIGSHARE.12366734.V1},
+  url = {https://github.com/patymurrieta/Digging-into-Early-Colonial-Mexico},
+  author = {Murrieta-Flores,  Patricia and Jiménez-Badillo,  Diego and Martins,  Bruno Emanuel Da Gra\c{c}a and Favila-Vázquez,  Mariana and Liceras-Garrido,  Raquel},
+  keywords = {History,  210308 Latin American History,  FOS: History and archaeology,  FOS: History and archaeology,  210108 Historical Archaeology (incl. Industrial Archaeology),  Digital Humanities,  Archaeology,  210103 Archaeology of Asia,  Africa and the Americas},
+  title = {DECM Gold Standard Corpus},
+  publisher = {figshare},
+  year = {2020},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

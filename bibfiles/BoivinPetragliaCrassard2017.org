@@ -1,0 +1,28 @@
+* BoivinPetragliaCrassard2017
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{BoivinPetragliaCrassard2017,
+	title={Tracing the initial diffusion of maize in North America},
+	url={http://dx.doi.org/10.1017/9781316686942.014},
+	DOI={10.1017/9781316686942.014},
+	booktitle={Human Dispersal and Species Movement},
+	publisher={Cambridge University Press},
+	author={Smith, Bruce D.},
+	year={2017},
+	pages={332–348}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

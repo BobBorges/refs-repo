@@ -1,0 +1,28 @@
+* adamou2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{adamou2016,
+	title={A Corpus-Driven Approach to Language Contact: Endangered Languages in a Comparative Perspective},
+	ISBN={9781614516576},
+	url={http://dx.doi.org/10.1515/9781614516576},
+	DOI={10.1515/9781614516576},
+	publisher={De Gruyter},
+	author={Adamou, Evangelia},
+	year={2016}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

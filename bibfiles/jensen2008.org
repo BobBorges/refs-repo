@@ -1,0 +1,32 @@
+* jensen2008
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{jensen2008,
+  AUTHOR = {Jensen, Anne},
+  EDITOR = {Stolz, Thomas and Bakker, Dik and Salas Palomo, Rosa},
+  LOCATION = {Berlin ; New York},
+  PUBLISHER = {Mouton de Gruyter},
+  BOOKTITLE = {Hispanisation: the impact of {Spanish} on the lexicon and grammar of the indigenous languages of {Austronesia} and the {Americas}},
+  DATE = {2008},
+  KEYWORDS = {Spanish language,Influence on foreign languages,Indians,Languages Foreign elements Spanish,Languages Foreign words and phrases Spanish,Austronesian languages,Foreign elements Spanish,Foreign words and phrases Spanish},
+  NUMBER = {39},
+  PAGES = {3--25},
+  SERIES = {Empirical approaches to language typology},
+  TITLE = {Hispanisation in {Colonial} {Nahuatl}?},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

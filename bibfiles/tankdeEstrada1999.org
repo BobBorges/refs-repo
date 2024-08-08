@@ -1,0 +1,28 @@
+* tankdeEstrada1999
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{tankdeEstrada1999,
+    ISBN = {9789681209094},
+    URL = {http://www.jstor.org/stable/j.ctv3f8qv0},
+    abstract = {Un análisis basado en documentos de orden financiero correspondientes al periodo entre 1750 y 1821 y abarcando las doce intendencias del virreinato, que muestra cómo a partir de la orden impuesta por Carlos III de establecer un sistema para la administración municipal en La Nueva España, se produce un importante cambio. El giro que toman las decisiones con motivo de dicha orden, se refleja en todos los aspectos de la vida cotidiana: la relación de los gobernantes indígenas con las autoridades eclesiásticas y civiles del virreinato; las actividades locales; el establecimiento de escuelas primarias y la subsistencia de los maestros, son los aspectos centrales de este estudio en este periodo de la historia de México.},
+    author = {Dorothy Tanck de Estrada},
+    edition = {1},
+    publisher = {El Colegio de Mexico},
+    title = {Pueblos de indios y educación en el México colonial, 1750 - 1821},
+    year = {1999}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

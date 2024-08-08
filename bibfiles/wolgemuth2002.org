@@ -1,0 +1,30 @@
+* wolgemuth2002
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{wolgemuth2002,
+  AUTHOR = {Wolgemuth, Carl and Stark, Sharon and Bickford, Albert},
+  LANGUAGE = {Spanish},
+  LOCATION = {México},
+  PUBLISHER = {Instituto Lingüístico de Verano},
+  DATE = {2002},
+  ISBN = {978-968-31-0315-4},
+  NOTE = {OCLC: 51555383},
+  SHORTTITLE = {Gramática náhuatl (mela'tájto̲l)},
+  TITLE = {Gramática náhuatl (mela'tájto̲l): de los municipios de {Mecayapan} y {Tatahuicapan} de {Juárez}, {Veracruz}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

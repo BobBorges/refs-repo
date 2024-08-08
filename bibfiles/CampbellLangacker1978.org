@@ -1,0 +1,28 @@
+* CampbellLangacker1978
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{CampbellLangacker1978,
+  AUTHOR = {Campbell, Lyle and Langacker, Ronald W.},
+  DATE = {1978},
+  JOURNALTITLE = {International Journal of American Linguistics},
+  NUMBER = {2},
+  PAGES = {85--102},
+  TITLE = {Proto-{Aztecan} vowels: {Part} {I}},
+  VOLUME = {44},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

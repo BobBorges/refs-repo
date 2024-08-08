@@ -1,0 +1,26 @@
+* labov1966
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{labov1966,
+  AUTHOR = {Labov, William},
+  LOCATION = {Washington DC},
+  PUBLISHER = {Center for Applied Linguistics},
+  DATE = {1966},
+  TITLE = {The {Social} {Stratification} of {English} in {New} {York} {City}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

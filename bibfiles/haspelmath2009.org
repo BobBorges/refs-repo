@@ -1,0 +1,29 @@
+* haspelmath2009
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{haspelmath2009,
+	title={Lexical borrowing: Concepts and issues},
+	ISBN={9783110218435},
+	url={http://dx.doi.org/10.1515/9783110218442.35},
+	DOI={10.1515/9783110218442.35},
+	booktitle={Loanwords in the World’s Languages},
+	publisher={Walter de Gruyter},
+	author={Haspelmath, Martin},
+	year={2009},
+	pages={35–54}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

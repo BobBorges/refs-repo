@@ -1,0 +1,32 @@
+* kuzmicki2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{kumicki2016,
+  title = {Neutralization in Aztec Phonology – The Case of Classical Nahuatl Nasals},
+  volume = {14},
+  ISSN = {1731-7533},
+  url = {http://dx.doi.org/10.1515/rela-2016-0015},
+  DOI = {10.1515/rela-2016-0015},
+  number = {3},
+  journal = {Research in Language},
+  publisher = {Uniwersytet Lodzki (University of Lodz)},
+  author = {Kuźmicki,  Michał},
+  year = {2016},
+  month = sep,
+  pages = {263–295}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

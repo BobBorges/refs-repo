@@ -1,0 +1,29 @@
+* DeumertDurrleman2006
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{DeumertDurrleman2006,
+  AUTHOR = {Good, Jeff},
+  EDITOR = {Deumert, Ana and Durrleman, Stephanie},
+  LOCATION = {Amsterdam},
+  PUBLISHER = {John Benjamins},
+  BOOKTITLE = {Structure and variation in language contact},
+  DATE = {2006},
+  PAGES = {9--28},
+  TITLE = {The phonetics of tone in {Saramaccan}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

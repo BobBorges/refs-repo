@@ -1,0 +1,30 @@
+* rockwell2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{rockwell2011,
+    title={¿Cómo lograron los regímenes posrevolucionarios de México excluir a los niños indígenas que pretendían incorporar a la nación mediante las escuelas? },
+    author={Rockwell, Elise},
+    booktitle={Grupos marginados de la educación (siglos XIX y XX)},
+    location={Ciudad de México},
+    editor={de Lourdes Alvarado, María and Ríos Zúñiga, Rosalina},
+    publisher= {Bonilla Artigas Editores},
+    year=2011,
+    pages={469--499}
+}
+
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

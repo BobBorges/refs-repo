@@ -1,0 +1,25 @@
+* BourhisEA1981
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{BourhisEA1981,
+  AUTHOR = {Bourhis, Richard Yvon and Giles, Howard and Rosenthal, Doreen},
+  DATE = {1981},
+  FILE = {Snapshot:/home/bob/Literature/Zotero/storage/5UTJZ3JC/01434632.1981.html:text/html},
+  TITLE = {Notes on the construction of a ‘subjective vitality questionnaire’for ethnolinguistic groups},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,28 @@
+* StolzStolz2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{StolzStolz2001,
+	title={110. Mesoamerica as a linguistic area},
+	url={http://dx.doi.org/10.1515/9783110194265-047},
+	DOI={10.1515/9783110194265-047},
+	booktitle={Language Typology and Language Universals},
+	publisher={De Gruyter},
+	author={Stolz, Christel and Stolz, Thomas},
+	year={2001},
+	pages={1539–1553}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

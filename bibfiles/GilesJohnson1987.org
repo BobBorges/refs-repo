@@ -1,0 +1,27 @@
+* GilesJohnson1987
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{GilesJohnson1987,
+  AUTHOR = {Giles, Howard and Johnson, Patricia},
+  DATE = {1987},
+  JOURNALTITLE = {International Journal of the Sociology of Language},
+  PAGES = {69--99},
+  TITLE = {Ethnolinguistic identity theory: a social psychological approach to language maintenance},
+  VOLUME = {68},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,34 @@
+* rolstad2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{rolstad2001,
+  ABSTRACT = {The article argues that Nahuatl, the most widely spoken indigenous language in Mexico, is at risk of replacement by Spanish, the language of greater economic power, education, and social prestige. Both to promote Mexico's cultural and linguistic diversity and improve education for indigenous children, the Mexican Ministry of Education has proposed the implementation of bilingual maintenance programs. An analysis of the likelihood of the survival of Nahuatl, based in part on Fishman's (1991) model for language revitalization, and a critique of the new bilingual programs with respect to the role they may play in promoting the revitalization of Nahuatl are provided. It is concluded that current programs will assist in revitalizing Nahuatl if they obtain grassroots support in Nahuatl-speaking communities.},
+  AUTHOR = {Rolstad, Kellie},
+  URL = {https://www.jstor.org/stable/25745734},
+  DATE = {2001},
+  ISSN = {0094-5366},
+  JOURNALTITLE = {Bilingual Review / La Revista Bilingüe},
+  NOTE = {Publisher: Bilingual Press / Editorial Bilingüe},
+  NUMBER = {1},
+  PAGES = {3--18},
+  SHORTTITLE = {Language {Death} in {Central} {Mexico}},
+  TITLE = {Language {Death} in {Central} {Mexico}: {The} {Decline} of {Nahuatl} and the {New} {Bilingual} {Maintenance} {Programs}},
+  URLDATE = {2021-04-16},
+  VOLUME = {26},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

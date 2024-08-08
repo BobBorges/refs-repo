@@ -1,0 +1,26 @@
+* vanYoung2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{vanYoung2001,
+	title={The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821},
+	publisher={Stanford University Press},
+	address={Stanford},
+	author={van Young, Eric},
+	year={2001},
+	pages={151–153}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

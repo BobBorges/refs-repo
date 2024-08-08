@@ -1,0 +1,29 @@
+* BrewerRobinson1969
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{BrewerRobinson1969,
+  EDITOR = {Brewer, Forrest and Robinson, Dow F.},
+  LANGUAGE = {eng},
+  LOCATION = {Norman, Okla},
+  DATE = {1969},
+  KEYWORDS = {Nahuatl (språk)},
+  NUMBER = {19},
+  SERIES = {Summer {Institute} of {Linguistics} publications in linguistics and related fields},
+  TITLE = {Aztec studies. 1, {Phonological} and grammatical studies in modern {Nahuatl} dialects},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

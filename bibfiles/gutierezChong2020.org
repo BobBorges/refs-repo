@@ -1,0 +1,31 @@
+* gutierezChong2020
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{gutierezChong2020,
+	title={Forging Common Origin in the Making of the Mexican Nation},
+	volume={4},
+	ISSN={2313-5778},
+	url={http://dx.doi.org/10.3390/genealogy4030077},
+	DOI={10.3390/genealogy4030077},
+	number={3},
+	journal={Genealogy},
+	publisher={MDPI AG},
+	author={Gutiérrez Chong, Natividad},
+	year={2020},
+	pages={77}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

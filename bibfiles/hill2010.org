@@ -1,0 +1,31 @@
+* hill2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{hill2010,
+	title={New evidence for a Mesoamerican homeland for Proto-Uto-Aztecan},
+	volume={107},
+	ISSN={1091-6490},
+	url={http://dx.doi.org/10.1073/pnas.0914473107},
+	DOI={10.1073/pnas.0914473107},
+	number={11},
+	journal={Proceedings of the National Academy of Sciences},
+	publisher={Proceedings of the National Academy of Sciences},
+	author={Hill, Jane H.},
+	year={2010},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

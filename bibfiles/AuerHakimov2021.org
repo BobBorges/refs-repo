@@ -1,0 +1,31 @@
+* AuerHakimov2021
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{AuerHakimov2021,
+	title={From language mixing to fused lects: The process and its outcomes},
+	volume={25},
+	ISSN={1756-6878},
+	url={http://dx.doi.org/10.1177/1367006920924943},
+	DOI={10.1177/1367006920924943},
+	number={2},
+	journal={International Journal of Bilingualism},
+	publisher={SAGE Publications},
+	author={Auer, Peter and Hakimov, Nikolay},
+	year={2021},
+	pages={361–368}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,31 @@
+* merrill2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{merrill2013,
+	title={The Genetic Unity of Southern Uto-Aztecan},
+	volume={3},
+	ISSN={2210-5832},
+	url={http://dx.doi.org/10.1163/22105832-13030102},
+	DOI={10.1163/22105832-13030102},
+	number={1},
+	journal={Language Dynamics and Change},
+	publisher={Brill},
+	author={Merrill, William L.},
+	year={2013},
+	pages={68–-104}
+ }
+
+#+END_SRC
+
+
+
+
+** Notes
+

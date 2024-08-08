@@ -1,0 +1,28 @@
+* lacadena2008
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{lacadena2008,
+  AUTHOR = {Lacadena, Alfonso},
+  DATE = {2008},
+  JOURNALTITLE = {PARI Journal},
+  NUMBER = {4},
+  PAGES = {1--22},
+  TITLE = {Regional scribal traditions: {Methodological} implications for the decipherment of {Nahuatl} writing},
+  VOLUME = {8},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

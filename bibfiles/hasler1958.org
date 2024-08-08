@@ -1,0 +1,27 @@
+* hasler1958
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{hasler1958,
+  AUTHOR = {Hasler, Juan},
+  DATE = {1958},
+  JOURNALTITLE = {América Indígena},
+  PAGES = {333--339},
+  TITLE = {La posición dialectológica del {Pipil} como parte del {Nahua} del este},
+  VOLUME = {18},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

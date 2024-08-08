@@ -1,0 +1,30 @@
+* hohenhaus2005
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@inbook{hohenhaus2005,
+	title={Lexicalization and Institutionalization},
+	ISBN={9781402035968},
+	ISSN={0924-4670},
+	url={http://dx.doi.org/10.1007/1-4020-3596-9_15},
+	DOI={10.1007/1-4020-3596-9_15},
+	booktitle={Handbook of Word-Formation},
+	publisher={Springer Netherlands},
+	author={Hohenhaus, Peter},
+	year={2005},
+	pages={353–373}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

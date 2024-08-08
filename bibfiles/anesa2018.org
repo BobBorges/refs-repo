@@ -1,0 +1,28 @@
+* anesa2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{anesa2018,
+	title={Lexical Innovation in World Englishes: Cross-fertilization and Evolving Paradigms},
+	ISBN={9781351109352},
+	url={http://dx.doi.org/10.4324/9781351109352},
+	DOI={10.4324/9781351109352},
+	publisher={Routledge},
+	author={Anesa, Patrizia},
+	year={2018}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+
