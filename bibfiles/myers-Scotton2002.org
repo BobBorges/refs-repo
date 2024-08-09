@@ -1,0 +1,32 @@
+* myers-Scotton2002
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{myers-Scotton2002,
+  ABSTRACT = {Contact Linguistics is a critical investigation of what happens to the grammars of languages when bilingual speakers use both their languages in the same clause. It consolidates earlier insights and presents the new theoretical and empirical work of a scholar whose ideas have had a fundamental impact on the field. It also shows that bilingual data offer a revealing window on the structure of the language faculty. Carol Myers-Scotton examines the nature of major contact phenomena, especially lexical borrowing, grammatical convergence, codeswitching, first language attrition, mixed languages, and the development of creoles. She argues forcefully that types of contact phenomena often seen as separate in fact result from the same processes and can be explained by the same principles. Her discussion centers around two new models derived from the Matrix Language Frame model, previously applied only to codeswitching. One model recognizes four types of morphemes based on their different patterns of distribution across contact phenomena; its key hypothesis is that distribution depends on differential access to the morphemes in the production process. The other analyzes three levels of abstract lexical structure whose splitting and recombination across languages in bilingual speech explains many contact outcomes. This is an important volume, of unusual relevance for theories of competence and performance and vital for all those concerned with language contact. Carol Myers-Scotton is a Carolina Distinguished Professor of Linguistics at the University of South Carolina. She is a specialist in language contact phenomena and sociolinguistics and has a special interest in East and Southern African linguistics. In 1993, she published two volumes on codeswitching, Social Motivations for Codeswitching: Evidence from Africa, and Duelling Languages: Grammatical Structure in Codeswitching (both OUP). She has also edited a volume of essays on language and literature (OUP 1998) and published many articles in her areas of interest.},
+  AUTHOR = {Myers-Scotton, Carol and Myers-Scotton, Distinguished Professor of Linguistics Carol},
+  LANGUAGE = {en},
+  LOCATION = {Oxford},
+  PUBLISHER = {Oxford University Press},
+  DATE = {2002},
+  ISBN = {978-0-19-829953-0},
+  KEYWORDS = {Language Arts \& Disciplines / Linguistics / Sociolinguistics,Language Arts \& Disciplines / Linguistics / General},
+  NOTE = {Google-Books-ID: krRcXJlJaMcC},
+  SHORTTITLE = {Contact {Linguistics}},
+  TITLE = {Contact {Linguistics}: {Bilingual} {Encounters} and {Grammatical} {Outcomes}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

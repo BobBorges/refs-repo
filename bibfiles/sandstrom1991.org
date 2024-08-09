@@ -1,0 +1,32 @@
+* sandstrom1991
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{sandstrom1991,
+  AUTHOR = {Sandstrom, Alan R.},
+  LANGUAGE = {eng},
+  LOCATION = {Norman, Okla.},
+  PUBLISHER = {University of Oklahoma Press},
+  DATE = {1991},
+  ISBN = {978-0-8061-2403-2 978-0-8061-2399-8},
+  NOTE = {OCLC: 24246917},
+  NUMBER = {206},
+  SERIES = {The civilization of the {American} {Indian} series},
+  SHORTTITLE = {Corn is our blood},
+  TITLE = {Corn is our blood: culture and ethnic identity in a contemporary {Aztec} {Indian} village},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

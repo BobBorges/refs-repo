@@ -1,0 +1,33 @@
+* auer2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{auer2014,
+  AUTHOR = {Auer, Peter},
+  EDITOR = {Besters-Dilger, Juliane and Dermarkar, Cynthia and Pfänder, Stefan and Rabus, Achim},
+  LOCATION = {Berlin, Boston},
+  PUBLISHER = {DE GRUYTER},
+  URL = {https://www.degruyter.com/document/doi/10.1515/9783110338454.294/html},
+  BOOKTITLE = {Congruence in {Contact}-{Induced} {Language} {Change}},
+  DATE = {2014-01},
+  DOI = {10.1515/9783110338454.294},
+  ISBN = {978-3-11-033845-4},
+  SHORTTITLE = {Language mixing and language fusion},
+  TITLE = {Language mixing and language fusion: when bilingual talk becomes monolingual},
+  URLDATE = {2021-04-16},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

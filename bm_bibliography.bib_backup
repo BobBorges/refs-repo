@@ -1,31 +1,18 @@
 This file was created by bibmanager
 https://bibmanager.readthedocs.io/en/latest/
 
-@BOOK{vantHooft2007,
-  AUTHOR = {van 't Hooft, Anuschka Johanna Maria},
-  LANGUAGE = {eng},
-  LOCATION = {Leiden},
-  PUBLISHER = {Leiden University Press},
-  DATE = {2007},
-  ISBN = {978-90-8728-010-9},
-  NOTE = {OCLC: 837257319},
-  SERIES = {{LUP} dissertations},
-  SHORTTITLE = {The ways of the water},
-  TITLE = {The ways of the water: a reconstruction of {Huastecan} {Nahua} society through its oral tradition},
-}
-
-@article{AchilliEA2013,
-    title={Reconciling migration models to the Americas with the variation of North American native mitogenomes},
-    volume={110},
-    ISSN={1091-6490},
-    url={http://dx.doi.org/10.1073/pnas.1306290110},
-    DOI={10.1073/pnas.1306290110},
-    number={35},
-    journal={Proceedings of the National Academy of Sciences},
-    publisher={Proceedings of the National Academy of Sciences},
-    author={Achilli, Alessandro and Perego, Ugo A. and Lancioni, Hovirag and Olivieri, Anna and Gandini, Francesca and Hooshiar Kashani, Baharak and Battaglia, Vincenza and Grugni, Viola and Angerhofer, Norman and Rogers, Mary P. and Herrera, Rene J. and Woodward, Scott R. and Labuda, Damian and Smith, David Glenn and Cybulski, Jerome S. and Semino, Ornella and Malhi, Ripan S. and Torroni, Antonio},
-    year={2013},
-    pages={14308–14313}
+@article{AchelliEA2013,
+	title={Reconciling migration models to the Americas with the variation of North American native mitogenomes},
+	volume={110},
+	ISSN={1091-6490},
+	url={http://dx.doi.org/10.1073/pnas.1306290110},
+	DOI={10.1073/pnas.1306290110},
+	number={35},
+	journal={Proceedings of the National Academy of Sciences},
+	publisher={Proceedings of the National Academy of Sciences},
+	author={Achilli, Alessandro and Perego, Ugo A. and Lancioni, Hovirag and Olivieri, Anna and Gandini, Francesca and Hooshiar Kashani, Baharak and Battaglia, Vincenza and Grugni, Viola and Angerhofer, Norman and Rogers, Mary P. and Herrera, Rene J. and Woodward, Scott R. and Labuda, Damian and Smith, David Glenn and Cybulski, Jerome S. and Semino, Ornella and Malhi, Ripan S. and Torroni, Antonio},
+	year={2013},
+	pages={14308–14313}
 }
 
 @incollection{adamou2013,
@@ -41,13 +28,13 @@ https://bibmanager.readthedocs.io/en/latest/
 }
 
 @book{adamou2016,
-    title={A Corpus-Driven Approach to Language Contact: Endangered Languages in a Comparative Perspective},
-    ISBN={9781614516576},
-    url={http://dx.doi.org/10.1515/9781614516576},
-    DOI={10.1515/9781614516576},
-    publisher={De Gruyter},
-    author={Adamou, Evangelia},
-    year={2016}
+	title={A Corpus-Driven Approach to Language Contact: Endangered Languages in a Comparative Perspective},
+	ISBN={9781614516576},
+	url={http://dx.doi.org/10.1515/9781614516576},
+	DOI={10.1515/9781614516576},
+	publisher={De Gruyter},
+	author={Adamou, Evangelia},
+	year={2016}
 }
 
 @INCOLLECTION{aikhenvald2006,
@@ -74,18 +61,6 @@ https://bibmanager.readthedocs.io/en/latest/
   editor={Isabelle L{\'{e}}glise and Claudine Chamoreau}
 }
 
-@BOOK{alexander2004,
-  ABSTRACT = {In this collaboratively authored work, five distinguished sociologists develop an ambitious theoretical model of "cultural trauma"—and on this basis build a new understanding of how social groups interact with emotion to create new and binding understandings of social responsibility. Looking at the "meaning making process" as an open-ended social dialogue in which strikingly different social narratives vie for influence, they outline a strongly constructivist approach to trauma and apply this theoretical model in a series of extensive case studies, including the Nazi Holocaust, slavery in the United States, and September 11, 2001.},
-  AUTHOR = {Alexander, Jeffrey C. and Eyerman, Ron and Giesen, Bernard and Smelser, Neil J. and Sztompka, Piotr},
-  LANGUAGE = {English},
-  LOCATION = {Berkeley, Calif},
-  PUBLISHER = {University of California Press},
-  DATE = {2004-03},
-  FILE = {Cultural Trauma and Collective Identity.pdf:/home/bob/Literature/Zotero/storage/SAE235JH/Cultural Trauma and Collective Identity.pdf:application/pdf},
-  ISBN = {978-0-520-23595-3},
-  TITLE = {Cultural {Trauma} and {Collective} {Identity}},
-}
-
 @book{AndersonEA1976,
   title     = {Beyond the Codices: The Nahua View of Colonial Mexico},
   author    = {Anderson, A.J.O. and Berdan, F. and Lockhart, J. and Langacker, R.W.},
@@ -99,39 +74,39 @@ https://bibmanager.readthedocs.io/en/latest/
 }
 
 @article{andrason2013,
-    year = {2013},
-    number = {130},
-    title = {The semantics of the Vilamovicean verbal system},
-    author = {Alexander Andrason},
-    journal = {Studia Linguistica Universitatis Iagellonicae Cracoviensis},
-    pages = {7--39}
+	year = {2013},
+	number = {130},
+	title = {The semantics of the Vilamovicean verbal system},
+	author = {Alexander Andrason},
+	journal = {Studia Linguistica Universitatis Iagellonicae Cracoviensis},
+	pages = {7--39}
 }
 
 @article{andrason2014,
-    author = {Andrason, Alexander},
-    title = {The Polish component in the Vilamovicean language},
-    journal = {Glossos},
-    number = {12},
-    year = {2014},
-    pages = {1--38}
+	author = {Andrason, Alexander},
+	title = {The Polish component in the Vilamovicean language},
+	journal = {Glossos},
+	number = {12},
+	year = {2014},
+	pages = {1--38}
 }
 
 @article{AndrasonKrol2014,
-    author = {Alexander Andrason and Tymoteusz Król},
-    title = {Description of the Pronominal system of modern Vilamovicean},
-    year = {2014},
-    journal = {Brünner Beiträge zur Germanistik und Nordistik},
-    number = {28},
-    pages = {93--122}
+	author = {Alexander Andrason and Tymoteusz Król},
+	title = {Description of the Pronominal system of modern Vilamovicean},
+	year = {2014},
+	journal = {Brünner Beiträge zur Germanistik und Nordistik},
+	number = {28},
+	pages = {93--122}
 }
 
 @article{andrason2015,
-    title = {Vilamovicean},
-    author = {Alexander Andrason},
-    journal = {Studies in Polish Linguistics},
-    number = {10},
-    year = {2015},
-    pages = {57--85}
+	title = {Vilamovicean},
+	author = {Alexander Andrason},
+	journal = {Studies in Polish Linguistics},
+	number = {10},
+	year = {2015},
+	pages = {57--85}
 }
 
 pdf: Andrason2016.pdf
@@ -146,13 +121,13 @@ year  = {2016},
 publisher = {Routledge},
 doi = {10.1080/00787191.2016.1156851},
 
-URL = {
+URL = { 
         https://doi.org/10.1080/00787191.2016.1156851
-
+    
 },
-eprint = {
+eprint = { 
         https://doi.org/10.1080/00787191.2016.1156851
-
+    
 }
 
 }
@@ -176,24 +151,10 @@ eprint = {
 }
 
 @phdthesis{andrason2021,
-    author = {Alexander Andrason},
-    title = {Polish Borrowings in Wymysorys. A Formal Linguistic Analysis of Germano-Slavonic Language Contact in Wilamowice},
-    year = {2021},
-    school = {University of Iceland, School of Humanities, Faculty of Icelandic and Comparative Cultural Studies}
-}
-
-@article{AndrasonSullivanOlko2023,
-    title={Language simplification in endangered languages?: Inflectional categories of nouns and verbs in Eastern Huasteca Nahuatl and Wymysorys},
-    volume={47},
-    ISSN={1569-9978},
-    url={http://dx.doi.org/10.1075/sl.20082.and},
-    DOI={10.1075/sl.20082.and},
-    number={1},
-    journal={Studies in Language},
-    publisher={John Benjamins Publishing Company},
-    author={Andrason, Alexander and Sullivan, John and Olko, Justyna},
-    year={2023},
-    pages={190-–241}
+	author = {Alexander Andrason},
+	title = {Polish Borrowings in Wymysorys. A Formal Linguistic Analysis of Germano-Slavonic Language Contact in Wilamowice},
+	year = {2021},
+	school = {University of Iceland, School of Humanities, Faculty of Icelandic and Comparative Cultural Studies}
 }
 
 @BOOK{andrews2003,
@@ -205,13 +166,13 @@ eprint = {
 }
 
 @book{anesa2018,
-    title={Lexical Innovation in World Englishes: Cross-fertilization and Evolving Paradigms},
-    ISBN={9781351109352},
-    url={http://dx.doi.org/10.4324/9781351109352},
-    DOI={10.4324/9781351109352},
-    publisher={Routledge},
-    author={Anesa, Patrizia},
-    year={2018}
+	title={Lexical Innovation in World Englishes: Cross-fertilization and Evolving Paradigms},
+	ISBN={9781351109352},
+	url={http://dx.doi.org/10.4324/9781351109352},
+	DOI={10.4324/9781351109352},
+	publisher={Routledge},
+	author={Anesa, Patrizia},
+	year={2018}
 }
 
 @article{ArchibaldEA2019,
@@ -249,31 +210,31 @@ eprint = {
 }
 
 @article{armistead1996,
-    title={Pichingli: An English-Spanish Pidgin from the Canary Islands},
-    volume={11},
-    ISSN={1569-9870},
-    url={http://dx.doi.org/10.1075/jpcl.11.1.08sam},
-    DOI={10.1075/jpcl.11.1.08sam},
-    number={1},
-    journal={Journal of Pidgin and Creole Languages},
-    publisher={John Benjamins Publishing Company},
-    author={Armistead, Samuel G.},
-    year={1996},
-    pages={85–87}
+	title={Pichingli: An English-Spanish Pidgin from the Canary Islands},
+	volume={11},
+	ISSN={1569-9870},
+	url={http://dx.doi.org/10.1075/jpcl.11.1.08sam},
+	DOI={10.1075/jpcl.11.1.08sam},
+	number={1},
+	journal={Journal of Pidgin and Creole Languages},
+	publisher={John Benjamins Publishing Company},
+	author={Armistead, Samuel G.},
+	year={1996},
+	pages={85–87}
 }
 
 @article{AuerHakimov2021,
-    title={From language mixing to fused lects: The process and its outcomes},
-    volume={25},
-    ISSN={1756-6878},
-    url={http://dx.doi.org/10.1177/1367006920924943},
-    DOI={10.1177/1367006920924943},
-    number={2},
-    journal={International Journal of Bilingualism},
-    publisher={SAGE Publications},
-    author={Auer, Peter and Hakimov, Nikolay},
-    year={2021},
-    pages={361–368}
+	title={From language mixing to fused lects: The process and its outcomes},
+	volume={25},
+	ISSN={1756-6878},
+	url={http://dx.doi.org/10.1177/1367006920924943},
+	DOI={10.1177/1367006920924943},
+	number={2},
+	journal={International Journal of Bilingualism},
+	publisher={SAGE Publications},
+	author={Auer, Peter and Hakimov, Nikolay},
+	year={2021},
+	pages={361–368}
 }
 
 @ARTICLE{auer1999,
@@ -292,31 +253,16 @@ eprint = {
   VOLUME = {3},
 }
 
-@INCOLLECTION{auer2014,
-  AUTHOR = {Auer, Peter},
-  EDITOR = {Besters-Dilger, Juliane and Dermarkar, Cynthia and Pfänder, Stefan and Rabus, Achim},
-  LOCATION = {Berlin, Boston},
-  PUBLISHER = {DE GRUYTER},
-  URL = {https://www.degruyter.com/document/doi/10.1515/9783110338454.294/html},
-  BOOKTITLE = {Congruence in {Contact}-{Induced} {Language} {Change}},
-  DATE = {2014-01},
-  DOI = {10.1515/9783110338454.294},
-  ISBN = {978-3-11-033845-4},
-  SHORTTITLE = {Language mixing and language fusion},
-  TITLE = {Language mixing and language fusion: when bilingual talk becomes monolingual},
-  URLDATE = {2021-04-16},
-}
-
 @inbook{backus2013,
-    title={A usage-based approach to borrowability},
-    ISBN={9781614515913},
-    url={http://dx.doi.org/10.1515/9781614514305.19},
-    DOI={10.1515/9781614514305.19},
-    booktitle={New Perspectives on Lexical Borrowing},
-    publisher={De Gruyter},
-    author={Backus, Ad},
-    year={2013},
-    pages={19–-40}
+	title={A usage-based approach to borrowability},
+	ISBN={9781614515913},
+	url={http://dx.doi.org/10.1515/9781614514305.19},
+	DOI={10.1515/9781614514305.19},
+	booktitle={New Perspectives on Lexical Borrowing},
+	publisher={De Gruyter},
+	author={Backus, Ad},
+	year={2013},
+	pages={19–-40}
 }
 
 pdf: backus2021.pdf
@@ -365,10 +311,10 @@ pdf: backus2021.pdf
 }
 
 @unpublished{bandur2022,
-    title  = {Vowel alternations in New Speakers’ Kashubian in diachronic perspective},
-    author = {Maciej Bandur},
-    year   = {2022},
-    note   = {Paper presented at "Regional Languages in Education: from Literature towards Literacy" Rezekne, Latvia}
+	title  = {Vowel alternations in New Speakers’ Kashubian in diachronic perspective},
+	author = {Maciej Bandur},
+	year   = {2022},
+	note   = {Paper presented at "Regional Languages in Education: from Literature towards Literacy" Rezekne, Latvia}
 }
 
 @article{BarkingMosBackus2023,
@@ -385,31 +331,31 @@ pdf: backus2021.pdf
 }
 
 @article{campbell1997,
-    title={American Indian Languages: The Historical Linguistics of Native America},
-    volume={75},
-    ISSN={0097-8507},
-    url={http://dx.doi.org/10.2307/417069},
-    DOI={10.2307/417069},
-    number={3},
-    journal={Language},
-    publisher={JSTOR},
-    author={Bartholomew,
-    Doris and Campbell,
-    Lyle},
-    year={1999},
-    month=sep,
-    pages={596}
+	title={American Indian Languages: The Historical Linguistics of Native America},
+	volume={75},
+	ISSN={0097-8507},
+	url={http://dx.doi.org/10.2307/417069},
+	DOI={10.2307/417069},
+	number={3},
+	journal={Language},
+	publisher={JSTOR},
+	author={Bartholomew,
+	Doris and Campbell,
+	Lyle},
+	year={1999},
+	month=sep,
+	pages={596}
  }
 
 @incollection{bardhal2009,
-    address = {Amsterdam},
-    title = {The development of {Case} in {Germanic}},
-    booktitle = {The {Role} of {Semantic}, {Pragmatic}, and discourse factors in the development of case},
-    publisher = {John Benamins},
-    author = {Barðal, Jóhanna},
-    editor = {Barðal, Jóhanna and Chelliah, S.L.},
-    year = {2009},
-    pages = {123--159},
+	address = {Amsterdam},
+	title = {The development of {Case} in {Germanic}},
+	booktitle = {The {Role} of {Semantic}, {Pragmatic}, and discourse factors in the development of case},
+	publisher = {John Benamins},
+	author = {Barðal, Jóhanna},
+	editor = {Barðal, Jóhanna and Chelliah, S.L.},
+	year = {2009},
+	pages = {123--159},
 }
 
 @ARTICLE{becker2014,
@@ -426,56 +372,15 @@ pdf: backus2021.pdf
   VOLUME = {35},
 }
 
-@INCOLLECTION{BerdanSmith1996,
-  AUTHOR = {Berdan, Frances and Smith, Michael E},
-  EDITOR = {Berdan, Frances},
-  LOCATION = {Washington, D.C},
-  PUBLISHER = {Dumbarton Oaks Research Library and Collection},
-  BOOKTITLE = {Aztec {Imperial} {Strategies}},
-  DATE = {1996},
-  PAGES = {209--217},
-  TITLE = {Imperial strategies and core-periphery relations.},
-}
-
-@INCOLLECTION{BerdanSmith2003,
-  AUTHOR = {Berdan, Frances and Smith, Michael E},
-  EDITOR = {Smith, Michael E and Berdan, Frances},
-  LOCATION = {Salt Lake City},
-  PUBLISHER = {University of Utah Press},
-  BOOKTITLE = {The {Postclassic} {Mesoamerican} {World}},
-  DATE = {2003},
-  PAGES = {67--72},
-  TITLE = {The {Aztex} {Empire}},
-}
-
-@INCOLLECTION{berdan2006,
-  AUTHOR = {Berdan, Frances},
-  EDITOR = {Elson, Christina and Covey, R. Alan},
-  LOCATION = {Tuscon},
-  PUBLISHER = {University of Arizona Press},
-  BOOKTITLE = {Pre-{Columbian} {States} and {Empires}},
-  DATE = {2006},
-  PAGES = {154--165},
-  TITLE = {The role of provincial elites in the {Aztec} {Empire}},
-}
-
 @inbook{Bergier2016,
     title={In Search of Community-Driven Research Methodology on Indigenous Linguistic-Cultural Heritage: a Principled Ally Approach },
     year={2016},
-    address={Warsaw},
-    publisher={University of Warsaw Press},
-    pages={581--606},
-    booktitle={Integral Strategies for Language Revitalization},
-    author={Aleksandra Bergier},
-    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}
-}
-
-@book{betz1949,
-  title={Deutsch und Lateinisch: die Lehnbildungen der althochdeutschen Benediktinerregel},
-  author={Betz, W.},
-  year={1949},
-  location={Bonn},
-  publisher={H. Bouvier}
+    address={Warsaw},                                                           
+    publisher={University of Warsaw Press},                                
+    pages={581--606},                                       
+    booktitle={Integral Strategies for Language Revitalization},   
+    author={Aleksandra Bergier},    
+    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}   
 }
 
 @article{bialystok2011,
@@ -494,28 +399,28 @@ pdf: backus2021.pdf
 }
 
 pdf: BickelNichols2007.pdf
-@inbook{BickelNichols2007,
-    place={Cambridge},
-    edition={2},
-    title={Inflectional morphology},
-    volume={3},
-    DOI={10.1017/CBO9780511618437.003},
-    booktitle={Language Typology and Syntactic Description},
-    publisher={Cambridge University Press},
-    author={Bickel, Balthasar and Nichols, Johanna},
-    editor={Shopen, TimothyEditor},
-    year={2007},
-    pages={169–240}
+@inbook{BickelNichols2007, 
+	place={Cambridge}, 
+	edition={2}, 
+	title={Inflectional morphology}, 
+	volume={3}, 
+	DOI={10.1017/CBO9780511618437.003}, 
+	booktitle={Language Typology and Syntactic Description}, 
+	publisher={Cambridge University Press}, 
+	author={Bickel, Balthasar and Nichols, Johanna}, 
+	editor={Shopen, TimothyEditor}, 
+	year={2007}, 
+	pages={169–240}
 }
 
 @book{bierhorst1985,
-    address = {Stanford, Calif},
-    title = {A {Nahuatl}-{English} dictionary and concordance to the {Cantares} mexicanos: with an analytic transcription and grammatical notes},
-    isbn = {978-0-8047-1183-8},
-    shorttitle = {A {Nahuatl}-{English} dictionary and concordance to the {Cantares} mexicanos},
-    publisher = {Stanford Univ. Press},
-    author = {Bierhorst, John},
-    year = {1985},
+	address = {Stanford, Calif},
+	title = {A {Nahuatl}-{English} dictionary and concordance to the {Cantares} mexicanos: with an analytic transcription and grammatical notes},
+	isbn = {978-0-8047-1183-8},
+	shorttitle = {A {Nahuatl}-{English} dictionary and concordance to the {Cantares} mexicanos},
+	publisher = {Stanford Univ. Press},
+	author = {Bierhorst, John},
+	year = {1985},
 }
 
 @book{bishop2003,
@@ -528,15 +433,15 @@ pdf: BickelNichols2007.pdf
 
 pdf: bittner2006.pdf
 @article{bittner2006,
-    url = {https://doi.org/10.1515/flin.40.1-2.115},
-    title = {Case Before Gender in the Acquisition of German},
-    author = {Dagmar Bittner},
-    pages = {115--134},
-    volume = {40},
-    number = {1-2},
-    journal = {Folia Linguistica},
-    doi = {doi:10.1515/flin.40.1-2.115},
-    year = {2006},
+	url = {https://doi.org/10.1515/flin.40.1-2.115},
+	title = {Case Before Gender in the Acquisition of German},
+	author = {Dagmar Bittner},
+	pages = {115--134},
+	volume = {40},
+	number = {1-2},
+	journal = {Folia Linguistica},
+	doi = {doi:10.1515/flin.40.1-2.115},
+	year = {2006},
 
 }
 
@@ -569,19 +474,19 @@ pdf: blake1994.pdf
 
 pdf: BobbWodnieckaKroll2013.pdf
 @article{BobbWodnieckaKroll2013,
-    title = {What bilinguals tell us about cognitive control: {Overview} to the special issue},
-    volume = {25},
-    issn = {2044-5911, 2044-592X},
-    shorttitle = {What bilinguals tell us about cognitive control},
-    url = {http://www.tandfonline.com/doi/abs/10.1080/20445911.2013.822724},
-    doi = {10.1080/20445911.2013.822724},
-    number = {5},
-    urldate = {2017-10-10},
-    journal = {Journal of Cognitive Psychology},
-    author = {Bobb, Susan C. and Wodniecka, Zofia and Kroll, Judith},
-    month = aug,
-    year = {2013},
-    pages = {493--496},
+	title = {What bilinguals tell us about cognitive control: {Overview} to the special issue},
+	volume = {25},
+	issn = {2044-5911, 2044-592X},
+	shorttitle = {What bilinguals tell us about cognitive control},
+	url = {http://www.tandfonline.com/doi/abs/10.1080/20445911.2013.822724},
+	doi = {10.1080/20445911.2013.822724},
+	number = {5},
+	urldate = {2017-10-10},
+	journal = {Journal of Cognitive Psychology},
+	author = {Bobb, Susan C. and Wodniecka, Zofia and Kroll, Judith},
+	month = aug,
+	year = {2013},
+	pages = {493--496},
 }
 
 @incollection{BohnemeyerBowermanBrown2001,
@@ -605,17 +510,6 @@ pdf: BoltokovaEA2022.pdf
     journal = {Language Documentation and Conservation},
     volume  = {16},
     pages   = {145--167},
-}
-
-@BOOK{borah1983,
-  AUTHOR = {Borah, Woodrow Wilson},
-  LOCATION = {Berkeley},
-  PUBLISHER = {University of California Press},
-  DATE = {1983},
-  ISBN = {978-0-520-04845-4},
-  KEYWORDS = {History,Indian courts,Indians of Mexico,Juzgado General de Indios,Legal status,laws,etc. History,Mexico,New Spain},
-  SHORTTITLE = {Justice by insurance},
-  TITLE = {Justice by insurance: the {General} {Indian} {Court} of {Colonial} {Mexico} and the legal aides of the half-real},
 }
 
 @article{borges2014elid,
@@ -649,23 +543,23 @@ pdf: BoltokovaEA2022.pdf
 }
 
 @ARTICLE{borges2014VPCsInSu,
-    author = {Robert Borges},
-    title = {Particle Verbs in the Surinamese Creoles},
-    journal = {Journal of Germanic Linguistics},
-    year = {2014},
-    issue = {3},
-    volume = {26},
-    pages = {223--247}
+	author = {Robert Borges},
+	title = {Particle Verbs in the Surinamese Creoles},
+	journal = {Journal of Germanic Linguistics},
+	year = {2014},
+	issue = {3},
+	volume = {26},
+	pages = {223--247}
 }
 
 @article{borges2016kumanti,
-    author = {Robert Borges},
+	author = {Robert Borges},
     year = {2016},
-    title = {Ritual Language Formation and African Retentions in Suriname},
-    journal = {OSO Tijdschrift Voor Surinamistiek},
-    volume = {35},
-    number = {1},
-    pages = {225--245}
+	title = {Ritual Language Formation and African Retentions in Suriname},
+	journal = {OSO Tijdschrift Voor Surinamistiek},
+	volume = {35},
+	number = {1},
+	pages = {225--245}
 }
 
 @inbook{borges2017people,
@@ -733,33 +627,33 @@ pages = {311--362}
 }
 
 @UNPUBLISHED{borges2019papiamentoCorpus,
-    author = {Robert Borges},
-    title = {A Corpus of Papiamento},
-    note = {\\https://github.com/BobBorges/papiamento{\_}corpus},
+	author = {Robert Borges},
+	title = {A Corpus of Papiamento},
+	note = {\\https://github.com/BobBorges/papiamento{\_}corpus},
     year = {2019}
 }
 
 @misc{borges2021emergent,
-    author = {Robert Borges},
-    year = {2021},
-    title = {New Speakers of Minority Languages: emergent grammar and linguistic entrenchment as a catalyst for language change},
-    note = {Paper given at the Institute of Slavic Studies lecture series in Linguistics. Warsaw, Poland}
+	author = {Robert Borges},
+	year = {2021},
+	title = {New Speakers of Minority Languages: emergent grammar and linguistic entrenchment as a catalyst for language change},
+	note = {Paper given at the Institute of Slavic Studies lecture series in Linguistics. Warsaw, Poland}
 }
 
 @ARTICLE{borges2022awll,
-    author = {Robert Borges},
-    title = {Impressions of Aruba's Linguistic Landscape},
-    journal = {The BLOG (at) robertborges.net},
-    year = {2022}
+	author = {Robert Borges},
+	title = {Impressions of Aruba's Linguistic Landscape},
+	journal = {The BLOG (at) robertborges.net},
+	year = {2022}
 }
 
 @CONFERENCE{borges2022moredat,
-    author = {Robert Borges},
-    title = {MoReDaT -- A Modular Remote Data Collection Toolkit for Linguistics +},
-    note = {Digital Humanities in the Nordic and Baltic Countries 2022 Conference},
-    organization = {Uppsala University},
+	author = {Robert Borges},
+	title = {MoReDaT -- A Modular Remote Data Collection Toolkit for Linguistics +},
+	note = {Digital Humanities in the Nordic and Baltic Countries 2022 Conference},
+	organization = {Uppsala University},
     url = {https://ispan.waw.pl/nespomila/static/assets/Borges_20220317-DHNB_MOREDAT.pdf},
-    year = {2022}
+	year = {2022}
 }
 
 @misc{borges2022csbwiki,
@@ -782,11 +676,11 @@ Universities of Wrocław, Poznań, Kraków, Rome, and Bucharest.}
 }
 
 @article{borges2022meertaligheid,
-    author = {Robert Borges},
-    title  = {Meertaligheid op het strand: Wat borden en posters zeggen over taalvitaliteit op Aruba},
-    year = {2022},
-    journal = {Stemmen van Afrika},
-    note = {\url {https://stemmenvanafrika.nl/meertaligheid-op-het-strand-wat-borden-en-posters-zeggen-over-taalvitaliteit-op-aruba/} (visited: 2023-01-31)}
+	author = {Robert Borges},
+	title  = {Meertaligheid op het strand: Wat borden en posters zeggen over taalvitaliteit op Aruba},
+	year = {2022},
+	journal = {Stemmen van Afrika},
+	note = {\url {https://stemmenvanafrika.nl/meertaligheid-op-het-strand-wat-borden-en-posters-zeggen-over-taalvitaliteit-op-aruba/} (visited: 2023-01-31)}
 }
 
 @software{borges2023nwymc010,
@@ -801,21 +695,13 @@ Universities of Wrocław, Poznań, Kraków, Rome, and Bucharest.}
 }
 
 @INCOLLECTION{BorgesVDBerg2023,
-    author = {Robert Borges and Margot van den Berg},
-    editor = {Korhonen Minna and Haidee Kotze and Jukka Tyrkkö},
-    title = {Language variation in parliamentary speech in Suriname},
-    booktitle = {Exploring Language and Society with Big Data: Parliamentary discourse across time and space},
-    publisher = {John Benjamins},
-    address = {Amsterdam},
-    year = {2023}
-}
-
-@BOOK{bourdieu1991,
-  AUTHOR = {Bourdieu, Pierre},
-  LOCATION = {Harvard},
-  PUBLISHER = {Harvard University Press},
-  DATE = {1991},
-  TITLE = {Language and symbolic power},
+	author = {Robert Borges and Margot van den Berg},
+	editor = {Korhonen Minna and Haidee Kotze and Jukka Tyrkkö},
+	title = {Language variation in parliamentary speech in Suriname},
+	booktitle = {Exploring Language and Society with Big Data: Parliamentary discourse across time and space},
+	publisher = {John Benjamins},
+	address = {Amsterdam},
+	year = {2023}
 }
 
 @ARTICLE{BourhisEA1981,
@@ -826,15 +712,15 @@ Universities of Wrocław, Poznań, Kraków, Rome, and Bucharest.}
 }
 
 pdf: BrehmerRothweiler2012.pdf
-@inbook{BrehmerRothweiler2012,
-    title={The acquisition of gender agreement in Polish: a study of bilingual Polish-German-speaking children},
-    author={Bernhard Brehmer and Monika Rothweiler},
-    editor={Kurt Braunmüller and Christoph Gabriel},
-    address={Amsterdam, Netherlands},
-    booktitle={Multilingual individuals and multilingual societies},
-    publisher={John Benjamins Publishing},
-    year={2012},
-    pages={81--100}
+@inbook{BrehmerRothweiler2012, 
+	title={The acquisition of gender agreement in Polish: a study of bilingual Polish-German-speaking children},
+	author={Bernhard Brehmer and Monika Rothweiler},
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	address={Amsterdam, Netherlands}, 
+	booktitle={Multilingual individuals and multilingual societies},  
+	publisher={John Benjamins Publishing}, 
+	year={2012},
+	pages={81--100}
 }
 
 @book{BrezaTreder1981,
@@ -901,57 +787,26 @@ pdf: BrehmerRothweiler2012.pdf
 }
 
 @article{burkhart2016,
-    title={2014 Presidential Address: Christian Salvation as Ethno-Ethnohistory: Two Views from 1714},
-    volume={63},
-    ISSN={1527-5477},
-    url={http://dx.doi.org/10.1215/00141801-3455267},
-    DOI={10.1215/00141801-3455267},
-    number={2},
-    journal={Ethnohistory},
-    publisher={Duke University Press},
-    author={Burkhart, Louise M.},
-    year={2016},
-    pages={215–235}
-}
-
-@BOOK{burkhart1989,
-  AUTHOR = {Burkhart, Louise M.},
-  LOCATION = {Tucson},
-  PUBLISHER = {University of Arizona Press},
-  DATE = {1989},
-  ISBN = {978-0-8165-1088-7},
-  KEYWORDS = {16th century,Christianity and culture,History,Missions History,Nahuas,Religion},
-  SHORTTITLE = {The slippery earth},
-  TITLE = {The slippery earth: {Nahua}-{Christian} moral dialogue in sixteenth-century {Mexico}},
+	title={2014 Presidential Address: Christian Salvation as Ethno-Ethnohistory: Two Views from 1714},
+	volume={63},
+	ISSN={1527-5477},
+	url={http://dx.doi.org/10.1215/00141801-3455267},
+	DOI={10.1215/00141801-3455267},
+	number={2},
+	journal={Ethnohistory},
+	publisher={Duke University Press},
+	author={Burkhart, Louise M.},
+	year={2016},
+	pages={215–235}
 }
 
 pdf: bybee2010.pdf
-@book{bybee2010,
-    place={Cambridge},
-    title={Language, Usage and Cognition},
-    DOI={10.1017/CBO9780511750526},
-    publisher={Cambridge University Press},
+@book{bybee2010, 
+    place={Cambridge}, 
+    title={Language, Usage and Cognition}, 
+    DOI={10.1017/CBO9780511750526}, 
+    publisher={Cambridge University Press}, 
     author={Bybee, Joan}, year={2010}
-}
-
-@BOOK{calderonMolgora2018,
-  title    = "Educaci{\'o}n rural, experimentales sociales y estado en M{\'e}xico, 1910-1933",
-  author   = "Calder{\'o}n M{\'o}lgora, Marco Antonio",
-  year     =  2018,
-  location =  "Zamora",
-  publisher= "Colegio de Michoacán/Fideicomiso Teixidor"
-}
-
-@incollection{campbell2022,
-  address            = {Oxford},
-  author             = {Lyle Campbell},
-  booktitle          = {Examining the farming/language dispersal hypothesis},
-  editor             = {Peter Bellwood and Colin Renfrew},
-  pages              = {49--63},
-  publisher          = {McDonald Institute for Archaeological Research},
-  series             = {McDonald Institute Monographs},
-  title              = {What Drives Linguistic Diversification and Language Spread?},
-  year               = {2002},
 }
 
 @misc{CambpellEA2022,
@@ -975,78 +830,55 @@ pdf: bybee2010.pdf
   VOLUME = {44},
 }
 
-@ARTICLE{CampbellKaufman1976,
-  AUTHOR = {Campbell, Lyle and Kaufman, Terrence},
-  URL = {http://www.jstor.org/stable/279044?origin=crossref},
-  DATE = {1976-01},
-  DOI = {10.2307/279044},
-  ISSN = {00027316},
-  JOURNALTITLE = {American Antiquity},
-  NUMBER = {1},
-  PAGES = {80},
-  TITLE = {A {Linguistic} {Look} at the {Olmecs}},
-  URLDATE = {2018-01-10},
-  VOLUME = {41},
-}
-
 @book{campbell1985morphDictNahuatl,
-    address = {Madison},
-    title = {A morphological dictionary of classical {Nahuatl}: a morpheme index to the {Vocabulario} en lengua mexicana y castellana of {Fray} {Alonso} de {Molina}},
-    isbn = {978-0-942260-52-6},
-    shorttitle = {A morphological dictionary of classical {Nahuatl}},
-    publisher = {Hispanic Seminary of Medieval Studies},
-    author = {Campbell, R. Joe},
-    year = {1985},
+	address = {Madison},
+	title = {A morphological dictionary of classical {Nahuatl}: a morpheme index to the {Vocabulario} en lengua mexicana y castellana of {Fray} {Alonso} de {Molina}},
+	isbn = {978-0-942260-52-6},
+	shorttitle = {A morphological dictionary of classical {Nahuatl}},
+	publisher = {Hispanic Seminary of Medieval Studies},
+	author = {Campbell, R. Joe},
+	year = {1985},
 }
 
 @book{canger1980,
-    address = {Copenhagen},
-    series = {Travaux du {Cercle} linguistique de {Copenhague}},
-    title = {Five studies inspired by {Nahuatl} verbs in -oa},
-    isbn = {978-87-7421-254-6},
-    number = {19},
-    publisher = {Linguistic Circle of Copenhagen},
-    author = {Canger, Una},
-    year = {1980},
-    keywords = {Nahuatl (språk)},
+	address = {Copenhagen},
+	series = {Travaux du {Cercle} linguistique de {Copenhague}},
+	title = {Five studies inspired by {Nahuatl} verbs in -oa},
+	isbn = {978-87-7421-254-6},
+	number = {19},
+	publisher = {Linguistic Circle of Copenhagen},
+	author = {Canger, Una},
+	year = {1980},
+	keywords = {Nahuatl (språk)},
 }
 
 @article{CangerDakin1985,
-    title = {An {Inconspicuous} {Basic} {Split} in {Nahuatl}},
-    volume = {51},
-    issn = {0020-7071, 1545-7001},
-    url = {https://www.journals.uchicago.edu/doi/10.1086/465892},
-    doi = {10.1086/465892},
-    language = {en},
-    number = {4},
-    urldate = {2021-04-16},
-    journal = {International Journal of American Linguistics},
-    author = {Canger, Una and Dakin, Karen},
-    month = oct,
-    year = {1985},
-    pages = {358--361},
+	title = {An {Inconspicuous} {Basic} {Split} in {Nahuatl}},
+	volume = {51},
+	issn = {0020-7071, 1545-7001},
+	url = {https://www.journals.uchicago.edu/doi/10.1086/465892},
+	doi = {10.1086/465892},
+	language = {en},
+	number = {4},
+	urldate = {2021-04-16},
+	journal = {International Journal of American Linguistics},
+	author = {Canger, Una and Dakin, Karen},
+	month = oct,
+	year = {1985},
+	pages = {358--361},
 }
 
 @incollection{CangerJensen2007,
-    address = {Berlin},
-    title = {Grammatical borrowing in {Nahuatl}},
-    isbn = {978-3-11-019628-3},
-    booktitle = {Grammatical {Borrowing} in {Cross}-{Linguistic} {Perspective}},
-    publisher = {Mouton de Gruyter},
-    author = {Canger, Una and Jensen, Anne},
-    editor = {Matras, Yaron and Sakel, Jeanette},
-    year = {2007},
-    keywords = {Faculty of Humanities},
-    pages = {403--418},
-}
-
-@article{canger2021,
-    title={El nauatl urbano de Tlatelolco/Tenochtitlan, resultado de convergencia entre dialectos. Con un esbozo brevísimo de la historia de los dialectos},
-    volume={42},
-    url={https://nahuatl.historicas.unam.mx/index.php/ecn/article/view/26560},
-    journal={Estudios de Cultura Náhuatl},
-    author={Canger, Una},
-    year={2021}
+	address = {Berlin},
+	title = {Grammatical borrowing in {Nahuatl}},
+	isbn = {978-3-11-019628-3},
+	booktitle = {Grammatical {Borrowing} in {Cross}-{Linguistic} {Perspective}},
+	publisher = {Mouton de Gruyter},
+	author = {Canger, Una and Jensen, Anne},
+	editor = {Matras, Yaron and Sakel, Jeanette},
+	year = {2007},
+	keywords = {Faculty of Humanities},
+	pages = {403--418},
 }
 
 @ARTICLE{canger1988,
@@ -1097,45 +929,31 @@ pdf: bybee2010.pdf
   URLDATE = {2021-04-16},
 }
 
-@ARTICLE{canger2011,
-  AUTHOR = {Canger, Una},
-  LANGUAGE = {Spanish},
-  DATE = {2011},
-  FILE = {26560-51134-1-PB.pdf:/Users/Bob/Documents/Publications/26560-51134-1-PB.pdf:application/pdf},
-  ISSN = {0071-1675},
-  JOURNALTITLE = {ecn Estudios de cultura náhuatl},
-  NOTE = {OCLC: 5728414825},
-  PAGES = {243--258},
-  SHORTTITLE = {El nauatl urbano de {Tlatelolco}/{Tenochtitlan}, resultado de convergencia entre dialectos},
-  TITLE = {El nauatl urbano de {Tlatelolco}/{Tenochtitlan}, resultado de convergencia entre dialectos: {Con} un esbozo brevísimo de la historia de los dialectos},
-  VOLUME = {42},
-}
-
 @book{CarochiLeon-Portilla1983,
-    address = {México},
-    edition = {1. ed},
-    series = {Facsímiles de lingüística y filología nahuas},
-    title = {Arte de la lengua mexicana: con la de [sic] declaración de los adverbios della},
-    isbn = {978-968-5805-86-5},
-    shorttitle = {Arte de la lengua mexicana},
-    number = {2},
-    publisher = {Univ. Nacional Autónoma de México},
-    author = {Carochi, Horacio and León-Portilla, Miguel},
-    year = {1983},
+	address = {México},
+	edition = {1. ed},
+	series = {Facsímiles de lingüística y filología nahuas},
+	title = {Arte de la lengua mexicana: con la de [sic] declaración de los adverbios della},
+	isbn = {978-968-5805-86-5},
+	shorttitle = {Arte de la lengua mexicana},
+	number = {2},
+	publisher = {Univ. Nacional Autónoma de México},
+	author = {Carochi, Horacio and León-Portilla, Miguel},
+	year = {1983},
 }
 
 @book{CarochiLockhart2001,
-    address = {Stanford, Calif. : Cambridge},
-    series = {Nahuatl studies series},
-    title = {Grammar of the {Mexican} language with an explanation of its adverbs (1645)},
-    isbn = {978-0-8047-4281-8},
-    language = {eng spa},
-    number = {7},
-    publisher = {Stanford University Press ; Cambridge University Press},
-    author = {Carochi, Horacio},
-    translator = {Lockhart, James},
-    year = {2001},
-    keywords = {Nahuatl language: Grammar, Nahuatl language: Adverbs},
+	address = {Stanford, Calif. : Cambridge},
+	series = {Nahuatl studies series},
+	title = {Grammar of the {Mexican} language with an explanation of its adverbs (1645)},
+	isbn = {978-0-8047-4281-8},
+	language = {eng spa},
+	number = {7},
+	publisher = {Stanford University Press ; Cambridge University Press},
+	author = {Carochi, Horacio},
+	translator = {Lockhart, James},
+	year = {2001},
+	keywords = {Nahuatl language: Grammar, Nahuatl language: Adverbs},
 }
 
 @booklet{GAC2014,
@@ -1145,12 +963,12 @@ pdf: bybee2010.pdf
   year         = "2014"
 }
 
-@book{chafe1980,
-    title={The pear stories: Cognitive, cultural, and linguistic aspects of narrative production},
-    address = {Norwood, NJ},
-    publisher = {Ablex},
-    author={Wallace L. Chafe},
-    year={1980}
+@book{chafe1980, 
+	title={The pear stories: Cognitive, cultural, and linguistic aspects of narrative production},
+	address = {Norwood, NJ},
+	publisher = {Ablex},
+	author={Wallace L. Chafe}, 
+	year={1980}
 }
 
 @BOOK{ChamoreauLeglise2012,
@@ -1161,7 +979,7 @@ pdf: bybee2010.pdf
   TITLE = {Dynamics of {Contact}-{Induced} {Language} {Change}},
 }
 
-@article{christensen2010,
+@article{christiansen2010,
     author = {Mark Z. Christensen},
     journal = {The Americas},
     number = {3},
@@ -1170,18 +988,6 @@ pdf: bybee2010.pdf
     title = {The Tales of Two Cultures: Ecclesiastical Texts and Nahua and Maya Catholicisms},
     volume = {66},
     year = {2010}
-}
-
-@BOOK{chuchiak2012,
-  AUTHOR = {Chuchiak, John F},
-  LANGUAGE = {English},
-  LOCATION = {Baltimore},
-  PUBLISHER = {Johns Hopkins University Press},
-  DATE = {2012},
-  ISBN = {978-1-4214-0449-3},
-  NOTE = {OCLC: 939758343},
-  SHORTTITLE = {The {Inquisition} in {New} {Spain}, 1536-1820},
-  TITLE = {The {Inquisition} in {New} {Spain}, 1536-1820: a documentary history},
 }
 
 @book{ClinePortilla1984,
@@ -1194,49 +1000,49 @@ pdf: bybee2010.pdf
 }
 
 @article{cline1993,
-    title={The Spiritual Conquest Reexamined: Baptism and Christian Marriage in Early Sixteenth-Century Mexico},
-    volume={73},
-    ISSN={1527-1900},
-    url={http://dx.doi.org/10.1215/00182168-73.3.453},
-    DOI={10.1215/00182168-73.3.453},
-    number={3},
-    journal={Hispanic American Historical Review},
-    publisher={Duke University Press},
-    author={Cline, Sarah},
-    year={1993},
-    pages={453–480}
+	title={The Spiritual Conquest Reexamined: Baptism and Christian Marriage in Early Sixteenth-Century Mexico},
+	volume={73},
+	ISSN={1527-1900},
+	url={http://dx.doi.org/10.1215/00182168-73.3.453},
+	DOI={10.1215/00182168-73.3.453},
+	number={3},
+	journal={Hispanic American Historical Review},
+	publisher={Duke University Press},
+	author={Cline, Sarah},
+	year={1993},
+	pages={453–480}
 }
 
 @article{barry2002,
-    title={Nahua Confraternities in Early Colonial Mexico: The 1552 Ordinances of Fray Alonso de Molina, OFM},
-    volume={87},
-    ISSN={1527-1900},
-    url={http://dx.doi.org/10.1215/00182168-2006-108},
-    DOI={10.1215/00182168-2006-108},
-    number={1},
-    journal={Hispanic American Historical Review},
-    publisher={Duke University Press},
-    author={Cline, Sarah},
-    year={2002},
-    pages={183–-185}
+	title={Nahua Confraternities in Early Colonial Mexico: The 1552 Ordinances of Fray Alonso de Molina, OFM},
+	volume={87},
+	ISSN={1527-1900},
+	url={http://dx.doi.org/10.1215/00182168-2006-108},
+	DOI={10.1215/00182168-2006-108},
+	number={1},
+	journal={Hispanic American Historical Review},
+	publisher={Duke University Press},
+	author={Cline, Sarah},
+	year={2002},
+	pages={183–-185}
 }
 
 @incollection{CognolaBidese2016,
-    address = {Amsterdam},
-    title = {On language acquisition and language change: {Is} transmission failure favoured in multilingual heritage contexts?},
-    volume = {234},
-    isbn = {978-90-272-5717-8 978-90-272-6631-6},
-    shorttitle = {On language acquisition and language change},
-    url = {https://benjamins.com/catalog/la.234.13cog},
-    urldate = {2019-03-17},
-    booktitle = {Linguistik {Aktuell}/{Linguistics} {Today}},
-    publisher = {John Benjamins Publishing Company},
-    author = {Cognola, Federica and Bidese, Ermenegildo},
-    editor = {Bidese, Ermenegildo and Cognola, Federica and Moroni, Manuela Caterina},
-    month = nov,
-    year = {2016},
-    doi = {10.1075/la.234.13cog},
-    pages = {337--370},
+	address = {Amsterdam},
+	title = {On language acquisition and language change: {Is} transmission failure favoured in multilingual heritage contexts?},
+	volume = {234},
+	isbn = {978-90-272-5717-8 978-90-272-6631-6},
+	shorttitle = {On language acquisition and language change},
+	url = {https://benjamins.com/catalog/la.234.13cog},
+	urldate = {2019-03-17},
+	booktitle = {Linguistik {Aktuell}/{Linguistics} {Today}},
+	publisher = {John Benjamins Publishing Company},
+	author = {Cognola, Federica and Bidese, Ermenegildo},
+	editor = {Bidese, Ermenegildo and Cognola, Federica and Moroni, Manuela Caterina},
+	month = nov,
+	year = {2016},
+	doi = {10.1075/la.234.13cog},
+	pages = {337--370},
 }
 
 @incollection{wals-98,
@@ -1251,17 +1057,17 @@ pdf: bybee2010.pdf
 }
 
 pdf: corbett2007.pdf
-@inbook{corbett2007,
-    place={Cambridge},
-    edition={2},
-    title={Gender and noun classes},
-    volume={3},
-    DOI={10.1017/CBO9780511618437.004},
-    booktitle={Language Typology and Syntactic Description},
-    publisher={Cambridge University Press},
-    author={Corbett, Greville G.},
-    editor={Shopen, TimothyEditor},
-    year={2007}, pages={241–279}
+@inbook{corbett2007, 
+	place={Cambridge}, 
+	edition={2}, 
+	title={Gender and noun classes}, 
+	volume={3}, 
+	DOI={10.1017/CBO9780511618437.004}, 
+	booktitle={Language Typology and Syntactic Description}, 
+	publisher={Cambridge University Press}, 
+	author={Corbett, Greville G.}, 
+	editor={Shopen, TimothyEditor}, 
+	year={2007}, pages={241–279}
 }
 
 @book{costa2020,
@@ -1273,45 +1079,31 @@ pdf: corbett2007.pdf
   publisher={Penguin Books Limited}
 }
 
-@mastersthesis{delaCruz2016,
-    author={de la Cruz, Eduardo},
-    title={Moncencuiltihualtoc mopatla tequitiloni, campeca huan tlaneltoquilli tlen quimanextia toquiztli pan macehualtlallamiccayotl},
-    school={Universidad Autónoma de Zacadecas, México},
-    year={2016}
-}
-
-@mastersthesis{delaCruzCruz2016,
-    author={de la Cruz Cruz, Abelardo},
-    title={Tlacencuiliztli huan tlayancuiliztli ica tlaneltoquilli tlen macehualli iixtenno yancuic tlaneltoquilli},
-    school={Universidad Autónoma de Zacadecas, México},
-    year={2016}
-}
-
 @book{dakin1982,
-    address = {México},
-    edition = {1. ed},
-    series = {Colección {Lingüística} indígena},
-    title = {La evolución fonológica del protonáhuatl},
-    isbn = {978-968-5802-92-5},
-    number = {2},
-    publisher = {Univ. Nacional Autónoma de México},
-    author = {Dakin, Karen},
-    year = {1982},
+	address = {México},
+	edition = {1. ed},
+	series = {Colección {Lingüística} indígena},
+	title = {La evolución fonológica del protonáhuatl},
+	isbn = {978-968-5802-92-5},
+	number = {2},
+	publisher = {Univ. Nacional Autónoma de México},
+	author = {Dakin, Karen},
+	year = {1982},
 }
 
 @inbook{dakin2021,
-    title={La Diversificación de la lengua Nahua: Isoglosas Tempranas en Contexto},
-    ISBN={9786075642048},
-    url={http://dx.doi.org/10.2307/jj.6852977.7},
-    DOI={10.2307/jj.6852977.7},
-    booktitle={Historia sociolingüística de México Volumen 4},
-    publisher={Colegio de Mexico},
-    author={Dakin, Karen},
-    year={2021},
-    pages={2173–-2204}
+	title={La Diversificación de la lengua Nahua: Isoglosas Tempranas en Contexto},
+	ISBN={9786075642048},
+	url={http://dx.doi.org/10.2307/jj.6852977.7},
+	DOI={10.2307/jj.6852977.7},
+	booktitle={Historia sociolingüística de México Volumen 4},
+	publisher={Colegio de Mexico},
+	author={Dakin, Karen},
+	year={2021},
+	pages={2173–-2204}
 }
 
-@ARTICLE{DakinWichmann2000,
+@ARTICLE{dakin2000,
   ABSTRACT = {The origin of the words \$lsquo;cacao\$rsquo; and \$lsquo;chocolate\$rsquo; and their use in the reconstruction of the early history of Mesoamerica, remain very controversial issues. Cambell and Kaufman (1976, American Antiquity 41:80–89), for example, proposed that the word \$lsquo;cacao\$rsquo; originated from Mixe–Zoque languages, thus possibly representing Olmec traditions. According to this argument, other Mesoamerican languages, including Nahuatl, borrowed the word as a symbol of prestige and Olmec influence. Other researchers claim the word \$lsquo;chocolate\$rsquo; represents a more recent neologism, a possible Maya–Nahuatl hybrid, due to the late appearance of the word in central Mexico's Colonial sources. We refute the putative Mixe–Zoque origin of \$lsquo;cacao\$rsquo; and provide linguistic evidence to propose that \$lsquo;cacao,\$rsquo; like \$lsquo;chocolate,\$rsquo; is a Uto-Aztecan term. Analysis of these words highlights general and particular evolutionary trends that originate from the Uto-Aztecan language family. In addition, we show that these two words were initially used as descriptive terms to refer to the shape of the plant's bean and the techniques of drink preparation. Etymological evidence verifies the use of a Mayan term for cacao as early as the Classic period (fourth century a.d.). This early appearance of the term in Mayan and the later diffusion of the Nahua word throughout all of Mesoamerica correlate with additional data to support the conclusion that Teotihuacanos spoke Nahuatl.},
   AUTHOR = {Dakin, Karen and Wichmann, Søren},
   LANGUAGE = {en},
@@ -1336,14 +1128,6 @@ pdf: corbett2007.pdf
   url={https://books.google.se/books?id=RWxkNwAACAAJ},
   year={1999},
   publisher={City University of New York}
-}
-
-@phdthesis{delaCruzdelaCruz2022,
-    author={De La Cruz De La Cruz, Abelardo},
-    title={Motiochihuanih : catechists and prayer specialists as religious leaders brokering 'El costumbre' Nahua in Chicontepec, Veracruz},
-    year={2022},
-    url={https://scholarsarchive.library.albany.edu/legacy-etd/2889},
-    school={State University of New York at Albany}
 }
 
 @article{DediuCysouw2013,
@@ -1374,34 +1158,34 @@ doi = {10.1111/j.1469-8129.2011.00540.x}
 
 @ARTICLE{EATaalInOnderwijs,
     author = {Departamento{\ }di{\ }Enseñansa{\ }Aruba},
-    title = {Taal in het onderwijs: Strategisch Plan Taalbeleid},
-    journal = {Publikashonnan di Departamento di Enseñansa Aruba},
-    year = {2011},
-    url = {https://www.ea.aw/pages/taal-in-het-onderwijs/}
+	title = {Taal in het onderwijs: Strategisch Plan Taalbeleid},
+	journal = {Publikashonnan di Departamento di Enseñansa Aruba},
+	year = {2011},
+	url = {https://www.ea.aw/pages/taal-in-het-onderwijs/}
 }
 
 @article{bonfilBatalla1990,
-    title={MÉXICO PROFUNDO: uma civilização negada},
-    volume={3},
-    ISSN={2526-6675},
-    url={http://dx.doi.org/10.26512/abya-yala.v3i3.31037},
-    DOI={10.26512/abya-yala.v3i3.31037},
-    number={3},
-    journal={Abya-yala: Revista sobre Acesso à Justiça e Direitos nas Américas},
-    publisher={Biblioteca Central da UNB},
-    author={Dias Rampin, Talita Tatiana},
-    year={1990}
+	title={MÉXICO PROFUNDO: uma civilização negada},
+	volume={3},
+	ISSN={2526-6675},
+	url={http://dx.doi.org/10.26512/abya-yala.v3i3.31037},
+	DOI={10.26512/abya-yala.v3i3.31037},
+	number={3},
+	journal={Abya-yala: Revista sobre Acesso à Justiça e Direitos nas Américas},
+	publisher={Biblioteca Central da UNB},
+	author={Dias Rampin, Talita Tatiana},
+	year={1990}
 }
 
 @incollection{diessel2012,
-    address = {Berlin},
-    title = {New perspectives, theories and methods: diachronic change and language acquisition},
-    booktitle = {Historical linguistics of {English}},
-    publisher = {De Gruyter},
-    author = {Diessel, Holder},
-    editor = {Bergs, A. and Brinton, L},
-    year = {2012},
-    pages = {1599--1613},
+	address = {Berlin},
+	title = {New perspectives, theories and methods: diachronic change and language acquisition},
+	booktitle = {Historical linguistics of {English}},
+	publisher = {De Gruyter},
+	author = {Diessel, Holder},
+	editor = {Bergs, A. and Brinton, L},
+	year = {2012},
+	pages = {1599--1613},
 }
 
 @misc{DjerfEA2013,
@@ -1474,22 +1258,6 @@ pdf: EllisEA2013.pdf
     year = {1999}
 }
 
-@ARTICLE{ferguson1959,
-  AUTHOR = {Ferguson, Charles A.},
-  LANGUAGE = {en},
-  URL = {http://www.tandfonline.com/doi/full/10.1080/00437956.1959.11659702},
-  DATE = {1959-01},
-  DOI = {10.1080/00437956.1959.11659702},
-  FILE = {Ferguson - 1959 - Diglossia.pdf:/home/bob/Literature/Zotero/storage/LCFGFYP3/Ferguson - 1959 - Diglossia.pdf:application/pdf},
-  ISSN = {0043-7956, 2373-5112},
-  JOURNALTITLE = {\textit{WORD}},
-  NUMBER = {2},
-  PAGES = {325--340},
-  TITLE = {Diglossia},
-  URLDATE = {2019-02-07},
-  VOLUME = {15},
-}
-
 pdf: FernandezSouzaCarando2016.pdf
 @article{FernandezSouzaCarando2016,
   doi = {10.1017/s1366728916000924},
@@ -1505,7 +1273,7 @@ pdf: FernandezSouzaCarando2016.pdf
   journal = {Bilingualism: Language and Cognition}
 }
 
-@book{field2002,
+@book{field2002borrowing,
     author = "Field, Fredric",
     pages = "",
     title = "Linguistic Borrowing in Bilingual Contexts",
@@ -1515,59 +1283,51 @@ pdf: FernandezSouzaCarando2016.pdf
     abstract = "A number of previous approaches to linguistic borrowing and contact phenomena in general have concluded that there are no formal boundaries whatsoever to the kinds of material that can pass from one language into another. At the same time, various hierarchies illustrate that some things are indeed more likely to be borrowed than others. &lt;i&gt;Linguistic Borrowing in Bilingual Contexts&lt;/i&gt; addresses both, by examining claims of no absolute limits and synthesizing various hierarchies.  It observes that all contact phenomena are systematic, and borrowing is no exception. Regarding forms, the determining factors lie in the nature of the morphological systems in contact and how they relate to one another. Two principles are proposed to determine the nature of the systematicity and interaction: the Principle of System Compatibility (PSC), and its corollary, the Principle of System Incompatibility (PSI). Together, these principles provide a consistent  account of the possibilities and limits to borrowing.",
 }
 
-@book{FigueroaSaavaderaEA2023,
-    author={Figueroa Saavedra, Miguel and Martinez, Jose and Sandoval, Carlos and Dietz, Gunther and Lorenzo, Daisy and Vite, Rafael and Torres, Jacinta and Melo, Jaime and Martínez, Jesús},
-    year=2023,
-    title ={In nawatlahtolli ipan interkoltoral tlamachtilistli itech},
-    location={Veracruz},
-    publisher = {Owihkayotl iwan chikawakayotl}
+@book{farfan1999,
+	address = {Tlalpan, D.F.},
+	title = {Cuatreros somos y toindioma hablamos: contactos y conflictos entre el náhuatl y el español en el sur de {México}},
+	isbn = {978-607-486-161-7},
+	shorttitle = {Cuatreros somos y toindioma hablamos},
+	language = {es},
+	publisher = {CIESAS},
+	author = {Flores Farfán, José Antonio},
+	year = {1999},
 }
 
-@book{floresFarfan1999,
-    address = {Tlalpan, D.F.},
-    title = {Cuatreros somos y toindioma hablamos: contactos y conflictos entre el náhuatl y el español en el sur de {México}},
-    isbn = {978-607-486-161-7},
-    shorttitle = {Cuatreros somos y toindioma hablamos},
-    language = {es},
-    publisher = {CIESAS},
-    author = {Flores Farfán, José Antonio},
-    year = {1999},
+@incollection{farfan2008,
+	address = {Berlin ; New York},
+	series = {Empirical approaches to language typology},
+	title = {The {Hispanization} of modern {Nahuatl} varieties},
+	isbn = {978-3-11-019793-8},
+	number = {39},
+	booktitle = {Hispanisation: the impact of {Spanish} on the lexicon and grammar of the indigenous languages of {Austronesia} and the {Americas}},
+	publisher = {Mouton de Gruyter},
+	author = {Flores Farfán, José Antonio},
+	editor = {Stolz, Thomas and Bakker, Dik and Salas Palomo, Rosa},
+	year = {2008},
+	keywords = {Spanish language, Influence on foreign languages, Indians, Languages Foreign elements Spanish, Languages Foreign words and phrases Spanish, Austronesian languages, Foreign elements Spanish, Foreign words and phrases Spanish},
+	pages = {27--48},
 }
 
-@incollection{floresFarfan2008,
-    address = {Berlin ; New York},
-    series = {Empirical approaches to language typology},
-    title = {The {Hispanization} of modern {Nahuatl} varieties},
-    isbn = {978-3-11-019793-8},
-    number = {39},
-    booktitle = {Hispanisation: the impact of {Spanish} on the lexicon and grammar of the indigenous languages of {Austronesia} and the {Americas}},
-    publisher = {Mouton de Gruyter},
-    author = {Flores Farfán, José Antonio},
-    editor = {Stolz, Thomas and Bakker, Dik and Salas Palomo, Rosa},
-    year = {2008},
-    keywords = {Spanish language, Influence on foreign languages, Indians, Languages Foreign elements Spanish, Languages Foreign words and phrases Spanish, Austronesian languages, Foreign elements Spanish, Foreign words and phrases Spanish},
-    pages = {27--48},
+@article{farfan2011,
+	title = {Ritual and conversational discourse in {Nahuatl}: from '{There} is no drink as sweet and fragrant as this' to 'eat your meal!'},
+	volume = {5},
+	copyright = {Copyright Equinox Publishing Ltd 2011},
+	issn = {17508649},
+	shorttitle = {Ritual and conversational discourse in {Nahuatl}},
+	url = {https://search-proquest-com.ezproxy.its.uu.se/docview/1030958205?pq-origsite=summon},
+	abstract = {Linked to a series of sociolinguistic differentials (e.g. power, cultural, conversational) materialized in specific linguistic phenomena, this paper analyzes a couple of discourse markers in Nahuatl linguistics; namely, the presence/absence of epenthetic /i/, its metathesis, and the marked use of pronominal prefixes. All these resources indexicalize different discourse genres and types of interaction together with different social positions in ritual and conversational discourse. Epenthetic /i/ has mostly been described as an obligatory segment to maintain the structure of the Nahuatl syllable, which according to existent grammatical descriptions does not allow consonant clusters. Yet as documented by this and few other works this restriction only holds for written discourse. As an overall trend, in actual oral practice the presence or absence of epenthetic /i/ manifests two different types of discourse, ranging from a highly formal (i.e. ritual) to an informal (i.e. extemporaneous) discourse. Metathesis of epenthetic /i/ is also interpreted by speakers as a marked choice towards a Nahuatl de iksaan, 'ancient Nahuatl', especially with the imperative, xi-/ ix-, whereas its deletion is conceived as the unmarked choice indexing more conversational, informal (referential or not) practices. Regarding pronouns, the shiftbetween the first person singular bound morphemes ni- to the second person singular ti-, while addressing a second person singular, mits-, which from an external point of view could be thought as ungrammatical, also indexes different interactional treatments and power differentials, such as those concomitant to generational and gender differences and different types of discourse and interaction. All this is succinctly analyzed in this paper for the first time, theoretically advancing an interpretation that goes beyond quantitative paradigms in sociolinguistics, postulating more than, for example, an audience oriented (Bell 1984) conversational and power approaches to the variable use of language, particularly in the case of Nahuatl. [PUBLICATION ABSTRACT]},
+	language = {English},
+	number = {2},
+	journal = {Sociolinguistic Studies; Galicia},
+	author = {Flores Farfán, José Antonio},
+	year = {2011},
+	keywords = {Linguistics, Sociolinguistics, Dialects, Rites \& ceremonies},
+	pages = {181--199},
+	file = {Full Text PDF:/home/bob/Literature/Zotero/storage/S5GDBSZ9/Farfán - 2011 - Ritual and conversational discourse in Nahuatl fr.pdf:application/pdf},
 }
 
-@article{floresFarfan2011,
-    title = {Ritual and conversational discourse in {Nahuatl}: from '{There} is no drink as sweet and fragrant as this' to 'eat your meal!'},
-    volume = {5},
-    copyright = {Copyright Equinox Publishing Ltd 2011},
-    issn = {17508649},
-    shorttitle = {Ritual and conversational discourse in {Nahuatl}},
-    url = {https://search-proquest-com.ezproxy.its.uu.se/docview/1030958205?pq-origsite=summon},
-    abstract = {Linked to a series of sociolinguistic differentials (e.g. power, cultural, conversational) materialized in specific linguistic phenomena, this paper analyzes a couple of discourse markers in Nahuatl linguistics; namely, the presence/absence of epenthetic /i/, its metathesis, and the marked use of pronominal prefixes. All these resources indexicalize different discourse genres and types of interaction together with different social positions in ritual and conversational discourse. Epenthetic /i/ has mostly been described as an obligatory segment to maintain the structure of the Nahuatl syllable, which according to existent grammatical descriptions does not allow consonant clusters. Yet as documented by this and few other works this restriction only holds for written discourse. As an overall trend, in actual oral practice the presence or absence of epenthetic /i/ manifests two different types of discourse, ranging from a highly formal (i.e. ritual) to an informal (i.e. extemporaneous) discourse. Metathesis of epenthetic /i/ is also interpreted by speakers as a marked choice towards a Nahuatl de iksaan, 'ancient Nahuatl', especially with the imperative, xi-/ ix-, whereas its deletion is conceived as the unmarked choice indexing more conversational, informal (referential or not) practices. Regarding pronouns, the shiftbetween the first person singular bound morphemes ni- to the second person singular ti-, while addressing a second person singular, mits-, which from an external point of view could be thought as ungrammatical, also indexes different interactional treatments and power differentials, such as those concomitant to generational and gender differences and different types of discourse and interaction. All this is succinctly analyzed in this paper for the first time, theoretically advancing an interpretation that goes beyond quantitative paradigms in sociolinguistics, postulating more than, for example, an audience oriented (Bell 1984) conversational and power approaches to the variable use of language, particularly in the case of Nahuatl. [PUBLICATION ABSTRACT]},
-    language = {English},
-    number = {2},
-    journal = {Sociolinguistic Studies; Galicia},
-    author = {Flores Farfán, José Antonio},
-    year = {2011},
-    keywords = {Linguistics, Sociolinguistics, Dialects, Rites \& ceremonies},
-    pages = {181--199},
-    file = {Full Text PDF:/home/bob/Literature/Zotero/storage/S5GDBSZ9/Farfán - 2011 - Ritual and conversational discourse in Nahuatl fr.pdf:application/pdf},
-}
-
-@INCOLLECTION{FloresFarfanRamallo2010,
+@INCOLLECTION{FarfanRamallo2010,
   AUTHOR = {Flores Farfán, José Antonio and Ramallo, Fernando F.},
   EDITOR = {Flores Farfán, José Antonio and Ramallo, Fernando F.},
   LANGUAGE = {en},
@@ -1585,41 +1345,31 @@ pdf: FernandezSouzaCarando2016.pdf
   VOLUME = {1},
 }
 
-@INCOLLECTION{floresFarfan2001,
-  AUTHOR = {Flores Farfán, José Antonio},
-  EDITOR = {Zimmermann, K. and Stolz, Th.},
-  BOOKTITLE = {Lo propio y lo ajeno en las lenguas austronésicas y amerindias - {Procesos} interculturales en el contacto de lenguas indígenas con el español en el {Pacífico} e {Hispanoamérica}},
-  DATE = {2001},
-  NOTE = {tex.lgcode: Spanish [spa] (computerized assignment from "spanish") tex.src: zurich tex.zurichcode: Nahuatl [1]},
-  PAGES = {179--198},
-  TITLE = {Spanish in the nahuatl of the balsas river basin during the {XXth} century: from language shift to language appropriation and resistance},
-}
-
 @article{ForkelHammarstrom2022,
-    title={Glottocodes: Identifiers linking families, languages and dialects to comprehensive reference information},
-    volume={13},
-    ISSN={1570-0844},
-    url={http://dx.doi.org/10.3233/sw-212843},
-    DOI={10.3233/sw-212843},
-    number={6},
-    journal={Semantic Web},
-    publisher={IOS Press},
-    author={Forkel, Robert and Hammarström, Harald},
-    editor={Bosque-Gil, Julia and Dojchinovski, Milan and Cimiano, Philipp and Bosque-Gil, Julia and Cimiano, Philipp and Dojchinovski, Milan},
-    year={2022},
-    pages={917–-924}
+	title={Glottocodes: Identifiers linking families, languages and dialects to comprehensive reference information},
+	volume={13},
+	ISSN={1570-0844},
+	url={http://dx.doi.org/10.3233/sw-212843},
+	DOI={10.3233/sw-212843},
+	number={6},
+	journal={Semantic Web},
+	publisher={IOS Press},
+	author={Forkel, Robert and Hammarström, Harald},
+	editor={Bosque-Gil, Julia and Dojchinovski, Milan and Cimiano, Philipp and Bosque-Gil, Julia and Cimiano, Philipp and Dojchinovski, Milan},
+	year={2022},
+	pages={917–-924}
 }
 
 @book{garibay1961,
-    address = {México},
-    edition = {2. ed., rev. y augm},
-    title = {Llave del nahuatl: colección de trozos clásicos, con gramática y vocabulario, para utilidad de los principiantes},
-    shorttitle = {Llave del nahuatl},
-    language = {spa},
-    publisher = {Editorial Porrua},
-    author = {Garibay K., Ángel María},
-    year = {1961},
-    keywords = {Centralamerikanska språk, Nahuatl (språk)},
+	address = {México},
+	edition = {2. ed., rev. y augm},
+	title = {Llave del nahuatl: colección de trozos clásicos, con gramática y vocabulario, para utilidad de los principiantes},
+	shorttitle = {Llave del nahuatl},
+	language = {spa},
+	publisher = {Editorial Porrua},
+	author = {Garibay K., Ángel María},
+	year = {1961},
+	keywords = {Centralamerikanska språk, Nahuatl (språk)},
 }
 
 @misc{GastBorges2022compounds,
@@ -1655,13 +1405,13 @@ year  = {2003},
 publisher = {Routledge},
 doi = {10.1080/09695940301696},
 
-URL = {
+URL = { 
         https://doi.org/10.1080/09695940301696
-
+    
 },
-eprint = {
+eprint = { 
         https://doi.org/10.1080/09695940301696
-
+    
 }
 
 }
@@ -1689,13 +1439,13 @@ eprint = {
 }
 
 @book{gibson1964,
-    title={The Aztecs Under Spanish Rule: A History of the Indians of the Valley of Mexico, 1519-1810},
-    ISBN={9781503621114},
-    url={http://dx.doi.org/10.1515/9781503621114},
-    DOI={10.1515/9781503621114},
-    publisher={Stanford University Press},
-    author={Gibson, Charles},
-    year={1964}
+	title={The Aztecs Under Spanish Rule: A History of the Indians of the Valley of Mexico, 1519-1810},
+	ISBN={9781503621114},
+	url={http://dx.doi.org/10.1515/9781503621114},
+	DOI={10.1515/9781503621114},
+	publisher={Stanford University Press},
+	author={Gibson, Charles},
+	year={1964}
 }
 
 @ARTICLE{GilesJohnson1987,
@@ -1716,17 +1466,31 @@ eprint = {
 }
 
 @article{GonzalezKnospe2019,
-    title={The variation of calques in European languages,     with particular reference to Spanish and German: Main patterns and trends},
-    volume={53},
-    ISSN={1614-7308},
-    url={http://dx.doi.org/10.1515/flin-2019-2009},
-    DOI={10.1515/flin-2019-2009},
-    number={1},
-    journal={Folia Linguistica},
-    publisher={Walter de Gruyter GmbH},
-    author={González, Félix Rodríguez and Knospe, Sebastian},
-    year={2019},
-    pages={233–276}
+	title={The variation of calques in European languages, 	with particular reference to Spanish and German: Main patterns and trends},
+	volume={53},
+	ISSN={1614-7308},
+	url={http://dx.doi.org/10.1515/flin-2019-2009},
+	DOI={10.1515/flin-2019-2009},
+	number={1},
+	journal={Folia Linguistica},
+	publisher={Walter de Gruyter GmbH},
+	author={González, Félix Rodríguez and Knospe, Sebastian},
+	year={2019},
+	pages={233–276}
+}
+
+@article{gutierezChong2015,
+	title={El indigenismo del PAN y el festejo del bicentenario del Estado mexicano},
+	volume={35},
+	ISSN={0185-4186},
+	url={http://dx.doi.org/10.24201/es.2017v35n105.1479},
+	DOI={10.24201/es.2017v35n105.1479},
+	number={105},
+	journal={Estudios Sociológicos de El Colegio de México},
+	publisher={El Colegio de Mexico, A.C.},
+	author={González Salinas, Omar Fabián},
+	year={2017},
+	pages={696–700}
 }
 
 @INCOLLECTION{DeumertDurrleman2006,
@@ -1740,28 +1504,18 @@ eprint = {
   TITLE = {The phonetics of tone in {Saramaccan}},
 }
 
-@phdthesis{granicka2018,
-    type={DoctoralThesis},
-    title={Confronting Cultural Difference. The 1548 Doctrina as a vehicle for contact-induced change in Nahua language and culture},
-    url={https://repozytorium.uw.edu.pl//handle/item/2724},
-    abstractNote={Niniejsza rozprawa rozprawa poświęcona jest opublikowanej w 1548 roku Doctrina Christiana en Lengua Española y Mexicana, przygotowanej przez Dominikanów na potrzeby chrystianizacji Indian Nahua. Jest to jedno z najwcześniejszych źródeł religijnych drukowanych w nahuatl (poprzedzone jedynie krótkim katechizmem z 1546), zdecydowanie bardziej obszerne od innych tekstów religijnych powstałych w podobnym okresie. Dwie cechy wyróżniają tę Doctrinę szczególnie. Po pierwsze zawiera ona bardzo szczegółowe wyjaśnienia dotyczące wiary chrześcijańskiej, co pozwoliło prześledzić, jakiej argumentacji i jakiego dyskursu używali misjonarze, aby nawracać Indian. Po drugie – Doctrina Christiana jest dwujęzyczna, powstała jako tłumaczenie tekstu hiszpańskiego na nahuatl i oba odpowiadające sobie teksty umieszczone są w niej w dwóch kolumnach. To umożliwiło zbadanie, w jaki sposób autorzy nahuatlańskiej wersji tekstu wybierali, a czasem także i tworzyli słownictwo konieczne do przetłumaczenia terminologii opisującej chrześcijańskie koncepty, jak go używali, w jaki sposób tłumaczenie służyło celom chrystianizacji.},
-    author={Granicka, Katarzyna},
-    year={2018},
-    language={pl}
-}
-
 @article{granicka2023,
-    title={His Body Will Appear in All of the Mirrors: Explaining Christian Doctrine to the Nahuas in the 1548 Doctrina Christiana},
-    volume={14},
-    ISSN={2077-1444},
-    url={http://dx.doi.org/10.3390/rel14121487},
-    DOI={10.3390/rel14121487},
-    number={12},
-    journal={Religions},
-    publisher={MDPI AG},
-    author={Granicka, Katarzyna},
-    year={2023},
-    pages={1487}
+	title={His Body Will Appear in All of the Mirrors: Explaining Christian Doctrine to the Nahuas in the 1548 Doctrina Christiana},
+	volume={14},
+	ISSN={2077-1444},
+	url={http://dx.doi.org/10.3390/rel14121487},
+	DOI={10.3390/rel14121487},
+	number={12},
+	journal={Religions},
+	publisher={MDPI AG},
+	author={Granicka, Katarzyna},
+	year={2023},
+	pages={1487}
 }
 
 @article{GreenAbutalebi2013,
@@ -1844,52 +1598,45 @@ pdf: GrzechTisalemaShaca2022.pdf
 }
 
 @inbook{GullbergIndefreyMuysken2009,
-    title = "Research techniques for the study of code-switching",
-    abstract = "The aim of this chapter is to provide researchers with a tool kit of semi-experimental and experimental techniques for studying code-switching. It presents an overview of the current off-line and on-line research techniques, ranging from analyses of published bilingual texts of spontaneous conversations, to tightly controlled experiments. A multi-task approach used for studying code-switched sentence production in Papiamento-Dutch bilinguals is also exemplified",
-    keywords = "method, bilingualism, code-switching",
-    author = "Marianne Gullberg and Peter Indefrey and Pieter Muysken",
-    year = "2009",
-    isbn = "9780521875912",
-    pages = "21--39",
-    editor = "Bullock, {B. E.} and Toribio, {J. A.}",
-    booktitle = "The Cambridge Handbook of linguistic code-switching",
-    publisher = "Cambridge University Press",
-    address = "United Kingdom",
-}
-
-@book{gutierrezChong2015,
-    title={El indigenismo del PAN y el festejo del bicentenario del Estado mexicano},
-    publisher={Bonilla Artigas Editores},
-    author={Gutiérrez Chong, Natividad},
-    year={2015},
+	title = "Research techniques for the study of code-switching",
+	abstract = "The aim of this chapter is to provide researchers with a tool kit of semi-experimental and experimental techniques for studying code-switching. It presents an overview of the current off-line and on-line research techniques, ranging from analyses of published bilingual texts of spontaneous conversations, to tightly controlled experiments. A multi-task approach used for studying code-switched sentence production in Papiamento-Dutch bilinguals is also exemplified",
+	keywords = "method, bilingualism, code-switching",
+	author = "Marianne Gullberg and Peter Indefrey and Pieter Muysken",
+	year = "2009",
+	isbn = "9780521875912",
+	pages = "21--39",
+	editor = "Bullock, {B. E.} and Toribio, {J. A.}",
+	booktitle = "The Cambridge Handbook of linguistic code-switching",
+	publisher = "Cambridge University Press",
+	address = "United Kingdom",
 }
 
 @article{gutierezChong2020,
-    title={Forging Common Origin in the Making of the Mexican Nation},
-    volume={4},
-    ISSN={2313-5778},
-    url={http://dx.doi.org/10.3390/genealogy4030077},
-    DOI={10.3390/genealogy4030077},
-    number={3},
-    journal={Genealogy},
-    publisher={MDPI AG},
-    author={Gutiérrez Chong, Natividad},
-    year={2020},
-    pages={77}
+	title={Forging Common Origin in the Making of the Mexican Nation},
+	volume={4},
+	ISSN={2313-5778},
+	url={http://dx.doi.org/10.3390/genealogy4030077},
+	DOI={10.3390/genealogy4030077},
+	number={3},
+	journal={Genealogy},
+	publisher={MDPI AG},
+	author={Gutiérrez Chong, Natividad},
+	year={2020},
+	pages={77}
 }
 
 @article{HaimovichMarquezMora2021,
-    title={Value of communication, value of language: Nahuatl speakers and public health services in Sierra Norte de Puebla},
-    volume={40},
-    ISSN={0167-8507},
-    url={http://dx.doi.org/10.1515/multi-2020-0027},
-    DOI={10.1515/multi-2020-0027},
-    number={3},
-    journal={Multilingua},
-    publisher={Walter de Gruyter GmbH},
-    author={Haimovich, Gregory and Márquez Mora, Herlinda},
-    year={2020},
-    pages={277–301}
+	title={Value of communication, value of language: Nahuatl speakers and public health services in Sierra Norte de Puebla},
+	volume={40},
+	ISSN={0167-8507},
+	url={http://dx.doi.org/10.1515/multi-2020-0027},
+	DOI={10.1515/multi-2020-0027},
+	number={3},
+	journal={Multilingua},
+	publisher={Walter de Gruyter GmbH},
+	author={Haimovich, Gregory and Márquez Mora, Herlinda},
+	year={2020},
+	pages={277–301}
 }
 
 @misc{HammarstromEA2022,
@@ -1901,6 +1648,38 @@ pdf: GrzechTisalemaShaca2022.pdf
     month={Dec}
 }
 
+@article{hansen2010,
+	title = {Nahuatl among {Jehovah}'s {Witnesses} of {Hueyapan}, {Morelos}: a case of spontaneous revitalization},
+	volume = {2010},
+	issn = {1613-3668},
+	shorttitle = {Nahuatl among {Jehovah}'s {Witnesses} of {Hueyapan}, {Morelos}},
+	url = {https://www-degruyter-com.ezproxy.its.uu.se/view/j/ijsl.2010.2010.issue-203/ijsl.2010.026/ijsl.2010.026.xml},
+	doi = {10.1515/ijsl.2010.026},
+	abstract = {The sociolinguistic situation of Hueyapan, Morelos, is similar to those described in other studies of modern Nahua communities: the language is in a rapid process of decline. This article describes the situation within one particular subcommunity of the town: the congregation of Jehovah's Witnesses. Here the Nahuatl language has experienced a revival within the last five years, to a degree where congregational meetings are now held mostly in Nahuatl, and where young Witnesses are probably the only group of youths in Hueyapan to communicate daily in Nahuatl. It is argued that this situation arose as a result of the combination of the general sociolinguistic background in Hueyapan and the specific value system and social dynamics that exist in the community of Jehovah's Witnesses.},
+	number = {203},
+	journal = {International Journal of the Sociology of Language},
+	author = {Hansen, Magnus Pharao},
+	year = {2010},
+	pages = {125--137},
+	file = {Full Text PDF:/home/bob/Literature/Zotero/storage/HSZCR42I/Hansen - 2010 - Nahuatl among Jehovah's Witnesses of Hueyapan, Mor.pdf:application/pdf},
+}
+
+@ARTICLE{hansen2012,
+  ABSTRACT = {This article presents data showing that the syntax of the Nahuatl dialect spoken in Hueyapan, Morelos, Mexico has traits of nonconfigurationality: free word order and free pro-drop, with predicate-initial word order being pragmatically neutral. It permits discontinuous noun phrases and has no naturally occurring true quantifiers, suggesting that noun phrases in Hueyapan Nahuatl are adjuncts rather than actual arguments. These findings are contrasted with those of an earlier study by Jeffrey MacSwan, who concludes that Nahuatl syntax has relatively fixed subject-verb-object word order. It is suggested that the differences observed between the two Nahuatl varieties may be a result of methodological problems in MacSwan's collection of data, skewing it in the direction of a more rigid syntax.},
+  AUTHOR = {Hansen, Magnus Pharao},
+  URL = {https://muse-jhu-edu.ezproxy.its.uu.se/article/462412},
+  DATE = {2012-01},
+  DOI = {10.1353/anl.2010.0017},
+  ISSN = {1944-6527},
+  JOURNALTITLE = {Anthropological Linguistics},
+  NUMBER = {3},
+  PAGES = {274--299},
+  SHORTTITLE = {Polysynthesis in {Hueyapan} {Nahuatl}},
+  TITLE = {Polysynthesis in {Hueyapan} {Nahuatl}: {The} {Status} of {Noun} {Phrases}, {Basic} {Word} {Order}, and {Other} {Concerns}},
+  URLDATE = {2017-07-15},
+  VOLUME = {52},
+}
+
 @misc{HammarstromEA2024,
   doi = {10.5281/ZENODO.10804357},
   url = {https://zenodo.org/doi/10.5281/zenodo.10804357},
@@ -1910,14 +1689,6 @@ pdf: GrzechTisalemaShaca2022.pdf
   publisher = {Zenodo},
   year = {2024},
   copyright = {Creative Commons Attribution 4.0 International}
-}
-
-@book{hartzenbusch1866,
-  title={Comedias escogidas de fray Gabriel Tellez (el maestro Tirso de Molina): juntas en coleccion {\'e} ilustradas},
-  author={Hartzenbusch, J.E.},
-  series={Biblioteca de autores espa{\~n}oles},
-  year={1866},
-  publisher={Impr. da la Publicidad, {\'a} cargo de M. Rivadeneyra}
 }
 
 @BOOK{hasler1961,
@@ -1938,15 +1709,15 @@ pdf: GrzechTisalemaShaca2022.pdf
 }
 
 @inbook{haspelmath2009,
-    title={Lexical borrowing: Concepts and issues},
-    ISBN={9783110218435},
-    url={http://dx.doi.org/10.1515/9783110218442.35},
-    DOI={10.1515/9783110218442.35},
-    booktitle={Loanwords in the World’s Languages},
-    publisher={Walter de Gruyter},
-    author={Haspelmath, Martin},
-    year={2009},
-    pages={35–54}
+	title={Lexical borrowing: Concepts and issues},
+	ISBN={9783110218435},
+	url={http://dx.doi.org/10.1515/9783110218442.35},
+	DOI={10.1515/9783110218442.35},
+	booktitle={Loanwords in the World’s Languages},
+	publisher={Walter de Gruyter},
+	author={Haspelmath, Martin},
+	year={2009},
+	pages={35–54}
 }
 
 @article{HasseBachmannGlaser2021,
@@ -1962,41 +1733,41 @@ pdf: GrzechTisalemaShaca2022.pdf
 }
 
 @incollection{heath1972,
-    title = {Uto-Aztecan relative clause},
-    author = {Jeffrey Heath},
-    year = {1972},
-    editor = {Paul M. Peranteau and Judith N. Levi and Gloria C. Phares},
-    booktitle = {The Chicago Which Hunt: Papers from the Relative Clause Festival April 13, 1972},
-    pages = {230--245},
-    address = {Chicago},
-    publisher = {Chicago Linguistic Society}
+	title = {Uto-Aztecan relative clause},
+	author = {Jeffrey Heath},
+	year = {1972},
+	editor = {Paul M. Peranteau and Judith N. Levi and Gloria C. Phares},
+	booktitle = {The Chicago Which Hunt: Papers from the Relative Clause Festival April 13, 1972},
+	pages = {230--245},
+	address = {Chicago},
+	publisher = {Chicago Linguistic Society}
 }
 
 @book{HeineKuteva2005,
-    title = {Language {Contact} and {Grammatical} {Change}},
-    isbn = {978-0-521-60828-2},
-    abstract = {The phenomenon of language contact, and how it affects the structure of languages, has been of great interest to linguists in recent years. This pioneering new study looks at how grammatical forms and structures evolve when speakers of two languages come into contact, and offers interesting new insight into the mechanism that induces people to transfer grammatical structures from one language to another. Engaging and informative, this book will be of great interest to sociolinguists, linguistic anthropologists, and all those working on grammaticalization, language contact, and language change.},
-    publisher = {Cambridge University Press},
-    author = {Heine, Bernd and Kuteva, Tania},
-    month = jan,
-    year = {2005},
-    keywords = {Language Arts \& Disciplines / Linguistics / Sociolinguistics, Language Arts \& Disciplines / Linguistics / General},
+	title = {Language {Contact} and {Grammatical} {Change}},
+	isbn = {978-0-521-60828-2},
+	abstract = {The phenomenon of language contact, and how it affects the structure of languages, has been of great interest to linguists in recent years. This pioneering new study looks at how grammatical forms and structures evolve when speakers of two languages come into contact, and offers interesting new insight into the mechanism that induces people to transfer grammatical structures from one language to another. Engaging and informative, this book will be of great interest to sociolinguists, linguistic anthropologists, and all those working on grammaticalization, language contact, and language change.},
+	publisher = {Cambridge University Press},
+	author = {Heine, Bernd and Kuteva, Tania},
+	month = jan,
+	year = {2005},
+	keywords = {Language Arts \& Disciplines / Linguistics / Sociolinguistics, Language Arts \& Disciplines / Linguistics / General},
 }
 
 pdf: vanHellTanner2012.pdf
 @article{vanHellTanner2012,
-    title = {Second {Language} {Proficiency} and {Cross}-{Language} {Lexical} {Activation}},
-    volume = {62},
-    issn = {1467-9922},
-    url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9922.2012.00710.x/abstract},
-    doi = {10.1111/j.1467-9922.2012.00710.x},
-    abstract = {Although research has consistently shown that a bilingual's two languages interact on multiple levels, it is also well-established that bilinguals can vary considerably in their proficiency in the second language (L2). In this paper we review empirical studies that have examined how differences in L2 proficiency modulate cross-language co-activation and interaction during bilingual lexical processing. We review studies investigating cognate and homograph processing in visual word perception and word production, auditory word perception using the visual world paradigm, and cross-language priming, focusing specifically on how differences in proficiency modulate co-activation during lexical access. We further discuss differences in L2 proficiency in relation to immersion and age of L2 acquisition, how differences in L2 proficiency relate to neurocognitive aspects of cognitive control, and how changes in L2 proficiency relative to L1 proficiency may affect lexical processing.},
-    urldate = {2017-08-14},
-    journal = {Language Learning},
-    author = {van Hell, Janet G. and Tanner, Darren},
-    month = sep,
-    year = {2012},
-    pages = {148--171},
+	title = {Second {Language} {Proficiency} and {Cross}-{Language} {Lexical} {Activation}},
+	volume = {62},
+	issn = {1467-9922},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9922.2012.00710.x/abstract},
+	doi = {10.1111/j.1467-9922.2012.00710.x},
+	abstract = {Although research has consistently shown that a bilingual's two languages interact on multiple levels, it is also well-established that bilinguals can vary considerably in their proficiency in the second language (L2). In this paper we review empirical studies that have examined how differences in L2 proficiency modulate cross-language co-activation and interaction during bilingual lexical processing. We review studies investigating cognate and homograph processing in visual word perception and word production, auditory word perception using the visual world paradigm, and cross-language priming, focusing specifically on how differences in proficiency modulate co-activation during lexical access. We further discuss differences in L2 proficiency in relation to immersion and age of L2 acquisition, how differences in L2 proficiency relate to neurocognitive aspects of cognitive control, and how changes in L2 proficiency relative to L1 proficiency may affect lexical processing.},
+	urldate = {2017-08-14},
+	journal = {Language Learning},
+	author = {van Hell, Janet G. and Tanner, Darren},
+	month = sep,
+	year = {2012},
+	pages = {148--171},
 }
 
 @incollection{HellwigLupke2001,
@@ -2013,57 +1784,57 @@ pdf: vanHellTanner2012.pdf
 }
 
 @article{hernandez2010,
-    title={From Conquest to Colonization:Indiosand Colonization Policies after Mexican Independence},
-    volume={26},
-    ISSN={1533-8320},
-    url={http://dx.doi.org/10.1525/msem.2010.26.2.291},
-    DOI={10.1525/msem.2010.26.2.291},
-    number={2},
-    journal={Mexican Studies/Estudios Mexicanos},
-    publisher={University of California Press},
-    author={Hernández, José Angel},
-    year={2010},
-    pages={291–322}
+	title={From Conquest to Colonization:Indiosand Colonization Policies after Mexican Independence},
+	volume={26},
+	ISSN={1533-8320},
+	url={http://dx.doi.org/10.1525/msem.2010.26.2.291},
+	DOI={10.1525/msem.2010.26.2.291},
+	number={2},
+	journal={Mexican Studies/Estudios Mexicanos},
+	publisher={University of California Press},
+	author={Hernández, José Angel},
+	year={2010},
+	pages={291–322}
 }
 
 @book{HillHill1986,
-    title = {Speaking {Mexicano}: {Dynamics} of {Syncretic} {Language} in {Central} {Mexico}},
-    isbn = {978-0-8165-0898-3},
-    shorttitle = {Speaking {Mexicano}},
-    abstract = {The Hills confront far more than what is \&\#39;sayable\&\#39; in terms of Mexicano grammar; they deal with what is actually said, with the relationship between Spanish and Mexicano as resources in the community\&\#39;s linguistic repertoire. . . . One of the major studies of language contact produced within the past forty years.ÑLanguage  \&quot;The genius of this work is the integration of the linguistic analysis with the cultural and political analysis.\&quot;ÑLatin American Anthropology Review},
-    language = {en},
-    publisher = {University of Arizona Press},
-    author = {Hill, Jane H. and Hill, Kenneth C.},
-    year = {1986},
-    note = {Google-Books-ID: 05iKuAcBvBUC},
-    keywords = {Social Science / Anthropology / General, Foreign Language Study / Native American Languages},
+	title = {Speaking {Mexicano}: {Dynamics} of {Syncretic} {Language} in {Central} {Mexico}},
+	isbn = {978-0-8165-0898-3},
+	shorttitle = {Speaking {Mexicano}},
+	abstract = {The Hills confront far more than what is \&\#39;sayable\&\#39; in terms of Mexicano grammar; they deal with what is actually said, with the relationship between Spanish and Mexicano as resources in the community\&\#39;s linguistic repertoire. . . . One of the major studies of language contact produced within the past forty years.ÑLanguage  \&quot;The genius of this work is the integration of the linguistic analysis with the cultural and political analysis.\&quot;ÑLatin American Anthropology Review},
+	language = {en},
+	publisher = {University of Arizona Press},
+	author = {Hill, Jane H. and Hill, Kenneth C.},
+	year = {1986},
+	note = {Google-Books-ID: 05iKuAcBvBUC},
+	keywords = {Social Science / Anthropology / General, Foreign Language Study / Native American Languages},
 }
 
 @article{hill2010,
-    title={New evidence for a Mesoamerican homeland for Proto-Uto-Aztecan},
-    volume={107},
-    ISSN={1091-6490},
-    url={http://dx.doi.org/10.1073/pnas.0914473107},
-    DOI={10.1073/pnas.0914473107},
-    number={11},
-    journal={Proceedings of the National Academy of Sciences},
-    publisher={Proceedings of the National Academy of Sciences},
-    author={Hill, Jane H.},
-    year={2010},
+	title={New evidence for a Mesoamerican homeland for Proto-Uto-Aztecan},
+	volume={107},
+	ISSN={1091-6490},
+	url={http://dx.doi.org/10.1073/pnas.0914473107},
+	DOI={10.1073/pnas.0914473107},
+	number={11},
+	journal={Proceedings of the National Academy of Sciences},
+	publisher={Proceedings of the National Academy of Sciences},
+	author={Hill, Jane H.},
+	year={2010},
 }
 
 @article{HillMerrill2017,
-    title={Uto-Aztecan Maize Agriculture: A Linguistic Puzzle from Southern California},
-    volume={59},
-    ISSN={1944-6527},
-    url={http://dx.doi.org/10.1353/anl.2017.0000},
-    DOI={10.1353/anl.2017.0000},
-    number={1},
-    journal={Anthropological Linguistics},
-    publisher={Project MUSE},
-    author={Hill, Jane H. and Merrill, William L.},
-    year={2017},
-    pages={1–23}
+	title={Uto-Aztecan Maize Agriculture: A Linguistic Puzzle from Southern California},
+	volume={59},
+	ISSN={1944-6527},
+	url={http://dx.doi.org/10.1353/anl.2017.0000},
+	DOI={10.1353/anl.2017.0000},
+	number={1},
+	journal={Anthropological Linguistics},
+	publisher={Project MUSE},
+	author={Hill, Jane H. and Merrill, William L.},
+	year={2017},
+	pages={1–23}
 }
 
 @ARTICLE{hill2001,
@@ -2084,15 +1855,15 @@ pdf: vanHellTanner2012.pdf
 
 pdf: hiltunen2014.pdf
 @inbook{hiltunen2014,
-    title = "Choice of national variety in the English-language Wikipedia",
-    keywords = "6121 Languages",
-    author = "Turo Hiltunen",
-    year = "2014",
-    series = "Studies in Variation, Contacts and Change in English",
-    publisher = "Varieng",
-    editor = "Jukka Tyrkk{\"o} and Sirpa Lepp{\"a}nen",
-    booktitle = "Texts and Discourses of New Media",
-    address = "Finland",
+	title = "Choice of national variety in the English-language Wikipedia",
+	keywords = "6121 Languages",
+	author = "Turo Hiltunen",
+	year = "2014",
+	series = "Studies in Variation, Contacts and Change in English",
+	publisher = "Varieng",
+	editor = "Jukka Tyrkk{\"o} and Sirpa Lepp{\"a}nen",
+	booktitle = "Texts and Discourses of New Media",
+	address = "Finland",
 }
 
 pdf: HiltunenJukka2019.pdf
@@ -2127,29 +1898,29 @@ pdf: HiltunenJukka2019.pdf
 }
 
 @article{hohenhaus2004,
-    title={Identical Constituent Compounding – a Corpus-based Study},
-    volume={38},
-    ISSN={1614-7308},
-    url={http://dx.doi.org/10.1515/flin.2004.38.3-4.297},
-    DOI={10.1515/flin.2004.38.3-4.297},
-    number={3–-4},
-    journal={Folia Linguistica},
-    publisher={Walter de Gruyter GmbH},
-    author={Hohenhaus, Peter},
-    year={2004}
+	title={Identical Constituent Compounding – a Corpus-based Study},
+	volume={38},
+	ISSN={1614-7308},
+	url={http://dx.doi.org/10.1515/flin.2004.38.3-4.297},
+	DOI={10.1515/flin.2004.38.3-4.297},
+	number={3–-4},
+	journal={Folia Linguistica},
+	publisher={Walter de Gruyter GmbH},
+	author={Hohenhaus, Peter},
+	year={2004}
 }
 
 @inbook{hohenhaus2005,
-    title={Lexicalization and Institutionalization},
-    ISBN={9781402035968},
-    ISSN={0924-4670},
-    url={http://dx.doi.org/10.1007/1-4020-3596-9_15},
-    DOI={10.1007/1-4020-3596-9_15},
-    booktitle={Handbook of Word-Formation},
-    publisher={Springer Netherlands},
-    author={Hohenhaus, Peter},
-    year={2005},
-    pages={353–373}
+	title={Lexicalization and Institutionalization},
+	ISBN={9781402035968},
+	ISSN={0924-4670},
+	url={http://dx.doi.org/10.1007/1-4020-3596-9_15},
+	DOI={10.1007/1-4020-3596-9_15},
+	booktitle={Handbook of Word-Formation},
+	publisher={Springer Netherlands},
+	author={Hohenhaus, Peter},
+	year={2005},
+	pages={353–373}
 }
 
 @mastersthesis{holt2021,
@@ -2214,45 +1985,34 @@ pdf: hopper2013.pdf
   publisher={Universidad Iberoamericana}
 }
 
-@BOOK{horn1997,
-  AUTHOR = {Horn, Rebecca},
-  LOCATION = {Stanford, Calif},
-  PUBLISHER = {Stanford University Press},
-  DATE = {1997},
-  ISBN = {978-0-8047-2773-0},
-  KEYWORDS = {Coyoacán (Mexico City,Mexico),Ethnic relations,Government relations,History,Mexico City (Mexico),Mexico Mexico City,Nahuas},
-  SHORTTITLE = {Postconquest {Coyoacan}},
-  TITLE = {Postconquest {Coyoacan}: {Nahua}-{Spanish} relations in {Central} {Mexico}, 1519-1650},
-}
-
-@article{vanHoutMuysken1994,
-    title={Modeling lexical borrowability},
-    volume={6},
-    DOI={10.1017/S0954394500001575},
-    number={1},
-    journal={Language Variation and Change},
-    publisher={Cambridge University Press},
-    author={van Hout, Roeland and Muysken, Pieter},
-    year={1994},
-    pages={39–62}
+@article{vanHoutMuysken1994, 
+	title={Modeling lexical borrowability}, 
+	volume={6}, 
+	DOI={10.1017/S0954394500001575}, 
+	number={1}, 
+	journal={Language Variation and Change}, 
+	publisher={Cambridge University Press}, 
+	author={van Hout, Roeland and Muysken, Pieter}, 
+	year={1994}, 
+	pages={39–62}
 }
 
 @article{hroarsdottir2004,
-    title = {Language {Change} and {Language} {Acquisition}},
-    volume = {31},
-    copyright = {Copyright (c) 2003 Thorbjörg Hróarsdóttir},
-    issn = {1503-8599},
-    url = {https://septentrio.uit.no/index.php/nordlyd/article/view/21},
-    doi = {10.7557/12.21},
-    abstract = {The aim of this paper is to present diachronic changes in terms of the conditions of first language acquisition.
+	title = {Language {Change} and {Language} {Acquisition}},
+	volume = {31},
+	copyright = {Copyright (c) 2003 Thorbjörg Hróarsdóttir},
+	issn = {1503-8599},
+	url = {https://septentrio.uit.no/index.php/nordlyd/article/view/21},
+	doi = {10.7557/12.21},
+	abstract = {The aim of this paper is to present diachronic changes in terms of the conditions of first language acquisition.
 Grammars, seen as mental organs, may change between two generations.  A change is initiated when (a population of) learners converge on a grammatical system which differs in at least one parameter value from the system internalized by the speakers of the previous generation.  Learnability issues then connect to both language acquisition and language change, and understanding language changes depends on understanding how children acquire their native language.  Acquisition is a process in which Universal Grammar (UG) interacts with a context-specific set of Primary Linguistic Data (PLD: the linguistic input to the child-learner) and uses these PLD as the source for triggers or cues that map the innate (preexperience) knowledge to a mature grammar.
 If a certain phenomenon has survived through many generations, it must have been reflected clearly in the PLD.  Then, if we note that it has changed, something in the language performance of the previous generation must have changed, and thereby paved the way for a new interpretation.  Innovation leading to linguistic variation in the PLD and gradual changes in PLD play a central role in the explanation here: the immediate cause of a grammar change must lie in some alternation in the PLD.  We will look at how the language spoken in a certain community (E-language) may gradually become different from the language that originally served as the triggering experience.  These changes in the E-language also mean changes in the input available to the child-learners of the next generation and a motivation for a different parameter setting has arisen.},
-    number = {1},
-    urldate = {2019-01-23},
-    journal = {Nordlyd},
-    author = {Hróarsdóttir, Thorbjörg},
-    year = {2004},
-    keywords = {Language Acquisition, Language Change, Learnability}
+	number = {1},
+	urldate = {2019-01-23},
+	journal = {Nordlyd},
+	author = {Hróarsdóttir, Thorbjörg},
+	year = {2004},
+	keywords = {Language Acquisition, Language Change, Learnability}
 }
 
 @incollection{wals-49,
@@ -2290,10 +2050,10 @@ If a certain phenomenon has survived through many generations, it must have been
 
 pdf: janssen2016.pdf
 @phdthesis{janssen2016,
-    author={Bibi Janssen},
-    title={The acquisition of gender and case in Polish and Russian: A study of monolingual and bilingual children},
-    year={2016},
-    school={University of Amsterdam}
+	author={Bibi Janssen},
+	title={The acquisition of gender and case in Polish and Russian: A study of monolingual and bilingual children},
+	year={2016},
+	school={University of Amsterdam}
 }
 
 @INCOLLECTION{jensen2008,
@@ -2311,41 +2071,41 @@ pdf: janssen2016.pdf
 }
 
 @article{JiangEtAl2021,
-    doi = {10.1371/journal.pone.0245984},
-    url = {https://doi.org/10.1371%2Fjournal.pone.0245984},
-    year = 2021,
-    month = {feb},
-    publisher = {Public Library of Science ({PLoS})},
-    volume = {16},
-    number = {2},
-    pages = {e0245984},
-    author = {Menghan Jiang and Xiang Ying Shen and Kathleen Ahrens and Chu-Ren Huang},
-    editor = {Joshua Snell},
-    title = {Neologisms are epidemic: Modeling the life cycle of neologisms in China 2008-2016},
-    journal = {{PLOS} {ONE}}
+	doi = {10.1371/journal.pone.0245984},
+	url = {https://doi.org/10.1371%2Fjournal.pone.0245984},
+	year = 2021,
+	month = {feb},
+	publisher = {Public Library of Science ({PLoS})},
+	volume = {16},
+	number = {2},
+	pages = {e0245984},
+	author = {Menghan Jiang and Xiang Ying Shen and Kathleen Ahrens and Chu-Ren Huang},
+	editor = {Joshua Snell},
+	title = {Neologisms are epidemic: Modeling the life cycle of neologisms in China 2008-2016},
+	journal = {{PLOS} {ONE}}
 }
 
 @book{KarttunenLockhart1976,
-    title = {Nahuatl in the {Middle} {Years}: {Language} {Contact} {Phenomena} in {Texts} of the {Colonial} {Period}},
-    isbn = {978-0-520-09561-8},
-    shorttitle = {Nahuatl in the {Middle} {Years}},
-    language = {en},
-    publisher = {University of California Press},
-    author = {Karttunen, Frances E. and Lockhart, James},
-    year = {1976},
-    note = {Google-Books-ID: cQV9ZH1Bds0C},
+	title = {Nahuatl in the {Middle} {Years}: {Language} {Contact} {Phenomena} in {Texts} of the {Colonial} {Period}},
+	isbn = {978-0-520-09561-8},
+	shorttitle = {Nahuatl in the {Middle} {Years}},
+	language = {en},
+	publisher = {University of California Press},
+	author = {Karttunen, Frances E. and Lockhart, James},
+	year = {1976},
+	note = {Google-Books-ID: cQV9ZH1Bds0C},
 }
 
 @book{karttunen1983,
-    address = {Austin},
-    edition = {1st ed},
-    series = {Texas linguistics series},
-    title = {An analytical dictionary of {Nahuatl}},
-    isbn = {978-0-292-70365-0},
-    language = {eng},
-    publisher = {University of Texas Press},
-    author = {Karttunen, Frances E.},
-    year = {1983},
+	address = {Austin},
+	edition = {1st ed},
+	series = {Texas linguistics series},
+	title = {An analytical dictionary of {Nahuatl}},
+	isbn = {978-0-292-70365-0},
+	language = {eng},
+	publisher = {University of Texas Press},
+	author = {Karttunen, Frances E.},
+	year = {1983},
 }
 
 @article{KasstanMueller2018,
@@ -2362,17 +2122,17 @@ year = {2018}
 }
 
 @article{KaufmanJusteson2009,
-    title={Historical Linguistics and pre-Columbian Mesoamerica},
-    volume={20},
-    ISSN={1469-1787},
-    url={http://dx.doi.org/10.1017/s0956536109990113},
-    DOI={10.1017/s0956536109990113},
-    number={2},
-    journal={Ancient Mesoamerica},
-    publisher={Cambridge University Press (CUP)},
-    author={Kaufman, Terrence and Justeson, John},
-    year={2009},
-    pages={221–231}
+	title={Historical Linguistics and pre-Columbian Mesoamerica},
+	volume={20},
+	ISSN={1469-1787},
+	url={http://dx.doi.org/10.1017/s0956536109990113},
+	DOI={10.1017/s0956536109990113},
+	number={2},
+	journal={Ancient Mesoamerica},
+	publisher={Cambridge University Press (CUP)},
+	author={Kaufman, Terrence and Justeson, John},
+	year={2009},
+	pages={221–231}
 }
 
 @MISC{kaufman2001,
@@ -2380,15 +2140,6 @@ year = {2018}
   URL = {http://tushik.org/wp-content/uploads/KAU-nawa.pdf},
   DATE = {2001},
   TITLE = {The history of the {Nawa} language group from earliest times to the sixteenth century: some initial results},
-}
-
-@ARTICLE{KempEA2005,
-  AUTHOR = {Kemp, Brian M. and Reséndez, Andrés and Berrelleza, Juan Alberto Román and Malhi, Ripan S. and Smith, David Glenn},
-  DATE = {2005},
-  JOURNALTITLE = {Biomolecular Archaeology: Genetic Approaches to the Past},
-  PAGES = {22--46},
-  TITLE = {An analysys of ancient {Aztec} {mtDNA} from {Tlatelolco}: pre-{Columbian} relations and the spread of {Uto}-{Aztecan}},
-  VOLUME = {Occasional Paper No. 32},
 }
 
 @article{kent1983,
@@ -2403,17 +2154,17 @@ year = {2018}
 }
 
 @article{kerremans2015,
-    title={A Web of New Words. A Corpus-Based Study of the Conventionalization Process of English Neologisms},
-    volume={2015},
-    ISSN={0071-0490},
-    url={http://dx.doi.org/10.1515/east-2016-0007},
-    DOI={10.1515/east-2016-0007},
-    number={1},
-    journal={English and American Studies in German},
-    publisher={Walter de Gruyter GmbH},
-    author={Kerremans, Daphné},
-    year={2015},
-    pages={8–10}
+	title={A Web of New Words. A Corpus-Based Study of the Conventionalization Process of English Neologisms},
+	volume={2015},
+	ISSN={0071-0490},
+	url={http://dx.doi.org/10.1515/east-2016-0007},
+	DOI={10.1515/east-2016-0007},
+	number={1},
+	journal={English and American Studies in German},
+	publisher={Walter de Gruyter GmbH},
+	author={Kerremans, Daphné},
+	year={2015},
+	pages={8–10}
 }
 
 @ARTICLE{kimball1990,
@@ -2442,14 +2193,14 @@ pdf: king2015.pdf
 }
 
 @inbook{Kirschenbaum2012,
-    author = {Kirschenbaum, Matthew},
-    title = {{What Is Digital Humanities and What{'}s It Doing in English Departments?}},
+	author = {Kirschenbaum, Matthew},
+	title = {{What Is Digital Humanities and What{'}s It Doing in English Departments?}},
     year = 2012,
-    booktitle = {{Debates in the Digital Humanities}},
-    isbn = {978-1-45294837-9},
-    publisher = {University of Minnesota Press},
-    address = {Minneapolis, MN},
-    doi = {10.5749/minnesota/9780816677948.003.0001}
+	booktitle = {{Debates in the Digital Humanities}},
+	isbn = {978-1-45294837-9},
+	publisher = {University of Minnesota Press},
+	address = {Minneapolis, MN},
+	doi = {10.5749/minnesota/9780816677948.003.0001}
 }
 
 @book{kleczkowski1920,
@@ -2517,13 +2268,13 @@ doi = {10.1353/lan.2018.0050}
 
 pdf: Korecky-krollDressler2015.pdf
 @article{Korecky-krollDressler2015,
-    author={Kathatina Korecky-Kröll and Wolfgang U. Dressler},
-    title={The acquisition of case in German: A longitufinal study of two Viennese children},
-    year={2015},
-    journal={Studi e Saggi Linguistici},
-    volume={53},
-    number={1},
-    pages={9--36}
+	author={Kathatina Korecky-Kröll and Wolfgang U. Dressler},
+	title={The acquisition of case in German: A longitufinal study of two Viennese children},
+	year={2015},
+	journal={Studi e Saggi Linguistici},
+	volume={53},
+	number={1},
+	pages={9--36}
 }
 
 @article{kossmann2010,
@@ -2579,19 +2330,19 @@ pdf: KrollBialystok2013.pdf
 }
 
 @article{krol2022,
-    author={Tymoteusz Król},
-    title={Wieso wollen die Wilmesauer aus Flandern und die Alzner aus Alzenau gekommen sein? Die Legenden über die Herkunft der ersten Wilmesauer und Alzner},
-    journal={Bielitz Bialaer Rundbrief aus Hannover},
-    year={2022},
-    volume={63},
-    pages={27--41}
+	author={Tymoteusz Król},
+	title={Wieso wollen die Wilmesauer aus Flandern und die Alzner aus Alzenau gekommen sein? Die Legenden über die Herkunft der ersten Wilmesauer und Alzner},
+	journal={Bielitz Bialaer Rundbrief aus Hannover},
+	year={2022},
+	volume={63},
+	pages={27--41}
 }
 
 @book{krol2023,
-    author={Tymoteusz Król},
-    title={Wymysoü ej a• śejny, kliny śtot. Gyśihta fu Wymysiöejyn yr wymysiöeryśa śpröh – Wilamowice, to piękne, małe miasto. Wilamowskojęzyczne opowieści Wilamowian},
-    year={2023},
-    series={Archiwum Etnograficzne}
+	author={Tymoteusz Król},
+	title={Wymysoü ej a• śejny, kliny śtot. Gyśihta fu Wymysiöejyn yr wymysiöeryśa śpröh – Wilamowice, to piękne, małe miasto. Wilamowskojęzyczne opowieści Wilamowian},
+	year={2023},
+	series={Archiwum Etnograficzne}
 }
 
 pdf: kurschner2020.pdf
@@ -2623,25 +2374,25 @@ pdf: kurschner2020.pdf
 }
 
 @book{laGrasserie1968,
-    address = {Nendeln},
-    title = {Le nahuatl, langue des {Aztèques}, conquérants du {Mexique} précolombien: grammaire, vocabulaires, textes avec analyse et traduction interlinéaire},
-    shorttitle = {Le nahuatl, langue des {Aztèques}, conquérants du {Mexique} précolombien},
-    language = {fre},
-    author = {La Grasserie, Raoul de},
-    year = {1968},
+	address = {Nendeln},
+	title = {Le nahuatl, langue des {Aztèques}, conquérants du {Mexique} précolombien: grammaire, vocabulaires, textes avec analyse et traduction interlinéaire},
+	shorttitle = {Le nahuatl, langue des {Aztèques}, conquérants du {Mexique} précolombien},
+	language = {fre},
+	author = {La Grasserie, Raoul de},
+	year = {1968},
 }
 
 @article{labov1963,
-    author = {William Labov},
-    title = {The Social Motivation of a Sound Change},
-    journal = {WORD},
-    volume = {19},
-    number = {3},
-    pages = {273-309},
-    year  = {1963},
-    publisher = {Routledge},
-    doi = {10.1080/00437956.1963.11659799},
-    URL = {https://doi.org/10.1080/00437956.1963.11659799}
+	author = {William Labov},
+	title = {The Social Motivation of a Sound Change},
+	journal = {WORD},
+	volume = {19},
+	number = {3},
+	pages = {273-309},
+	year  = {1963},
+	publisher = {Routledge},
+	doi = {10.1080/00437956.1963.11659799},
+	URL = {https://doi.org/10.1080/00437956.1963.11659799}
 }
 
 @BOOK{labov2001,
@@ -2689,13 +2440,13 @@ pdf: kurschner2020.pdf
 }
 
 @article{langacker1975,
-    title = {Relative {Clauses} in {Classical} {Nahuatl}},
-    author = {Langacker, Ronald W.},
-    year = {1975},
-    journal =  {International Journal of American Linguistics},
-    number = {1},
-    volume = {41},
-    pages = {46--28}
+	title = {Relative {Clauses} in {Classical} {Nahuatl}},
+	author = {Langacker, Ronald W.},
+	year = {1975},
+	journal =  {International Journal of American Linguistics},
+	number = {1},
+	volume = {41},
+	pages = {46--28}
 }
 
 @book{langacker1987,
@@ -2718,47 +2469,47 @@ pdf: kurschner2020.pdf
 }
 
 @incollection{launey1979,
-    title = {Le {Datif} dans une langue sans cas ({Nahuatl} classique).},
-    language = {fr},
-    author = {Launey, Michel},
-    year = {1979},
-    note = {Google-Books-ID: xtZSYAAACAAJ},
-    editor = {C. Paris},
-    booktitle = {Relations prédicat-actant(s) dans des langues de types divers},
-    pages = {29--70},
-    publisher = {SELAF},
-    address = {Paris}
+	title = {Le {Datif} dans une langue sans cas ({Nahuatl} classique).},
+	language = {fr},
+	author = {Launey, Michel},
+	year = {1979},
+	note = {Google-Books-ID: xtZSYAAACAAJ},
+	editor = {C. Paris},
+	booktitle = {Relations prédicat-actant(s) dans des langues de types divers},
+	pages = {29--70},
+	publisher = {SELAF},
+	address = {Paris}
 }
 
 @phdthesis{LauneyPottier1986,
-    address = {Lieu d'édition inconnu},
-    title = {Catégories et opérations dans la grammaire nahuatl},
-    abstract = {Etude linguistique approfondie du nahuatl classique, où aztèque littéraire du XVIe et XVIIe siècles, à partir d'un corpus comprenant le codex de Florence et divers autres textes. En mettant en évidence certains phénomènes mal reconnus par la tradition grammaticale, l'auteur en montre l'importance typologique et théorique, et en particulier sur deux points. D'abord, la notion de relation prédicative semble plus apte que toute autre (et en particulier, que toute représentation bipartite) à traiter les phénomènes de hiérarchisation des arguments qui jouent un rôle morphosyntaxique capital. Ensuite, on doit poser comme base de toute la grammaire la notion de prédicativité, propriété qui s'applique à l'ensemble des items lexicaux (avec ses trois classes de verbes, noms et locatifs), de sorte que la construction des syntagmes nominaux (et d'une manière générale de tous les syntagmes) doit être décrite en termes d'opérations sur des schémas fondamentalement prédicatifs. A comprehensive linguistic study of classical nahuatl, the literary Aztec language of the 16th and 17th centuries, from a corpus including the Florentine codex and several other texts. The morphological and syntactic data reveal an underlying system of grammatical categories and semantico-syntactic operations which is of major interest both to typology and to a general theory of language. Two points are particularly important. The first is that the notion of predicative relation seems much more appropriate than any other (in particular, any kind of bipartition) to account for the hierarchy of arguments, which plays a prominent role in nahuatl morphosyntax. The second is that predicativity, a property shared by all lexical items (whose 3 classes are verbs, nouns and locatives) must be viewed as the center of the grammar, so that the construction of noun phrases (and more generally of all phrases) should be described in terms of operations applied to basically predicative patterns.},
-    language = {French},
-    school = {[éditeur inconnu]},
-    author = {Launey, Michel and Pottier, Bernard},
-    year = {1986},
-    note = {OCLC: 490594128},
+	address = {Lieu d'édition inconnu},
+	title = {Catégories et opérations dans la grammaire nahuatl},
+	abstract = {Etude linguistique approfondie du nahuatl classique, où aztèque littéraire du XVIe et XVIIe siècles, à partir d'un corpus comprenant le codex de Florence et divers autres textes. En mettant en évidence certains phénomènes mal reconnus par la tradition grammaticale, l'auteur en montre l'importance typologique et théorique, et en particulier sur deux points. D'abord, la notion de relation prédicative semble plus apte que toute autre (et en particulier, que toute représentation bipartite) à traiter les phénomènes de hiérarchisation des arguments qui jouent un rôle morphosyntaxique capital. Ensuite, on doit poser comme base de toute la grammaire la notion de prédicativité, propriété qui s'applique à l'ensemble des items lexicaux (avec ses trois classes de verbes, noms et locatifs), de sorte que la construction des syntagmes nominaux (et d'une manière générale de tous les syntagmes) doit être décrite en termes d'opérations sur des schémas fondamentalement prédicatifs. A comprehensive linguistic study of classical nahuatl, the literary Aztec language of the 16th and 17th centuries, from a corpus including the Florentine codex and several other texts. The morphological and syntactic data reveal an underlying system of grammatical categories and semantico-syntactic operations which is of major interest both to typology and to a general theory of language. Two points are particularly important. The first is that the notion of predicative relation seems much more appropriate than any other (in particular, any kind of bipartition) to account for the hierarchy of arguments, which plays a prominent role in nahuatl morphosyntax. The second is that predicativity, a property shared by all lexical items (whose 3 classes are verbs, nouns and locatives) must be viewed as the center of the grammar, so that the construction of noun phrases (and more generally of all phrases) should be described in terms of operations applied to basically predicative patterns.},
+	language = {French},
+	school = {[éditeur inconnu]},
+	author = {Launey, Michel and Pottier, Bernard},
+	year = {1986},
+	note = {OCLC: 490594128},
 }
 
 @book{launey1994,
-    title = {Une grammaire omniprédicative: essai sur la morphosyntaxe du nahuatl classique},
-    isbn = {978-2-271-05072-4},
-    shorttitle = {Une grammaire omniprédicative},
-    publisher = {CNRS Editions},
-    author = {Launey, Michel},
-    year = {1994}
+	title = {Une grammaire omniprédicative: essai sur la morphosyntaxe du nahuatl classique},
+	isbn = {978-2-271-05072-4},
+	shorttitle = {Une grammaire omniprédicative},
+	publisher = {CNRS Editions},
+	author = {Launey, Michel},
+	year = {1994}
 }
 
 @book{LauneyMackay2011,
-    address = {Cambridge},
-    title = {An introduction to classical {Nahuatl}},
-    isbn = {978-0-511-77800-1 978-0-521-51840-6},
-    language = {English},
-    publisher = {Cambridge University Press},
-    author = {Launey, Michel and Mackay, Christopher S},
-    year = {2011},
-    note = {OCLC: 819323219},
+	address = {Cambridge},
+	title = {An introduction to classical {Nahuatl}},
+	isbn = {978-0-511-77800-1 978-0-521-51840-6},
+	language = {English},
+	publisher = {Cambridge University Press},
+	author = {Launey, Michel and Mackay, Christopher S},
+	year = {2011},
+	note = {OCLC: 819323219},
 }
 
 @ARTICLE{launey1999,
@@ -2815,36 +2566,36 @@ pdf: kurschner2020.pdf
 }
 
 @CONFERENCE{levine2017,
-    author = {Ben Levine},
-    title = {Documentary Video Feedback: An Evolving Methodology for Endangered Language Documentation, Revival, and Community Evolution},
-    note = {Engaged Humanities \& Language Revitalization: shared experiences in search of efficient approaches (Workshop)},
-    organization = {University of Warsaw},
-    year = {2017}
+	author = {Ben Levine},
+	title = {Documentary Video Feedback: An Evolving Methodology for Endangered Language Documentation, Revival, and Community Evolution},
+	note = {Engaged Humanities \& Language Revitalization: shared experiences in search of efficient approaches (Workshop)},
+	organization = {University of Warsaw},
+	year = {2017}
 
 }
 
 @article{LeyMattiaceTrejo2019,
-    title={Indigenous Resistance to Criminal Governance: Why Regional Ethnic Autonomy Institutions Protect Communities from Narco Rule in Mexico},
-    volume={54},
-    ISSN={1542-4278},
-    url={http://dx.doi.org/10.25222/larr.377},
-    DOI={10.25222/larr.377},
-    number={1},
-    journal={Latin American Research Review},
-    publisher={Cambridge University Press (CUP)},
-    author={Ley, Sandra and Mattiace,  =Shannan and Trejo, Guillermo},
-    year={2019},
-    pages={181–200}
+	title={Indigenous Resistance to Criminal Governance: Why Regional Ethnic Autonomy Institutions Protect Communities from Narco Rule in Mexico},
+	volume={54},
+	ISSN={1542-4278},
+	url={http://dx.doi.org/10.25222/larr.377},
+	DOI={10.25222/larr.377},
+	number={1},
+	journal={Latin American Research Review},
+	publisher={Cambridge University Press (CUP)},
+	author={Ley, Sandra and Mattiace,  =Shannan and Trejo, Guillermo},
+	year={2019},
+	pages={181–200}
 }
 
 @article{lightfoot2007,
-    title = {Language acquisition and language change: inter-relationships},
-    volume = {1},
-    number = {5},
-    journal = {Language and Linguistics Compass},
-    author = {Lightfoot, David},
-    year = {2007},
-    pages = {396--415},
+	title = {Language acquisition and language change: inter-relationships},
+	volume = {1},
+	number = {5},
+	journal = {Language and Linguistics Compass},
+	author = {Lightfoot, David},
+	year = {2007},
+	pages = {396--415},
 }
 
 @article{LigozatEA2020,
@@ -2861,13 +2612,6 @@ pdf: kurschner2020.pdf
   pages = {e1008148}
 }
 
-@article{lipka1992,
-    title={Lexicalization and institutionalization in English and German},
-    DOI={10.5282/ubm/epub.5105},
-    author={Lipka, Leonhard},
-    year={1992}
-}
-
 @book{LockhartEA1986,
   title     = {The Tlaxcalan Actas: A Compendium of the Records of the Cabildo of Tlaxcala, 1545-1627},
   author    = {James Lockhart and Frances F. Berdan and Arthur James Outram Anderson},
@@ -2877,16 +2621,16 @@ pdf: kurschner2020.pdf
 }
 
 @book{lockhart1991,
-    address = {Stanford},
-    series = {Nahuatl studies series},
-    title = {Nahuas and {Spaniards}: postconquest central {Mexican} history and philology},
-    isbn = {978-0-8047-1953-7 978-0-8047-1954-4},
-    shorttitle = {Nahuas and {Spaniards}},
-    number = {3},
-    publisher = {Stanford University Press},
-    author = {Lockhart, James},
-    year = {1991},
-    keywords = {Nahuatl (språk), Nahuas: Historiography, Nahuas: Government relations, jämförande grammatik, Aztekerna, Nahuatl},
+	address = {Stanford},
+	series = {Nahuatl studies series},
+	title = {Nahuas and {Spaniards}: postconquest central {Mexican} history and philology},
+	isbn = {978-0-8047-1953-7 978-0-8047-1954-4},
+	shorttitle = {Nahuas and {Spaniards}},
+	number = {3},
+	publisher = {Stanford University Press},
+	author = {Lockhart, James},
+	year = {1991},
+	keywords = {Nahuatl (språk), Nahuas: Historiography, Nahuas: Government relations, jämförande grammatik, Aztekerna, Nahuatl},
 }
 
 @book{lockhart1992,
@@ -2899,29 +2643,17 @@ pdf: kurschner2020.pdf
 }
 
 @book{lockhart2001,
-    address = {Stanford, Calif. : Los Angeles, CA},
-    series = {{UCLA} {Latin} {American} studies},
-    title = {Nahuatl as written: lessons in older written {Nahuatl}, with copious examples and texts},
-    isbn = {978-0-8047-4282-5 978-0-8047-4458-4},
-    shorttitle = {Nahuatl as written},
-    language = {eng nah},
-    number = {88},
-    publisher = {Stanford University Press ; UCLA Latin American Center Publications},
-    author = {Lockhart, James},
-    year = {2001},
-    keywords = {Nahuatl language: Writing, Nahuatl language: Grammar},
-}
-
-@BOOK{LockhartBerdanAnderson1986,
-  AUTHOR = {Lockhart, James and Berdan, Frances and Anderson, Arthur J. O and {Tlaxcala de Xicohténcatl (Mexico)} and {Cabildo}},
-  LANGUAGE = {English},
-  LOCATION = {Salt Lake City},
-  PUBLISHER = {University of Utah Press},
-  DATE = {1986},
-  ISBN = {978-0-87480-253-5},
-  NOTE = {OCLC: 13009017},
-  SHORTTITLE = {The {Tlaxcalan} actas},
-  TITLE = {The {Tlaxcalan} actas: a compendium of the records of the {Cabildo} of {Tlaxcala}, (1545-1627)},
+	address = {Stanford, Calif. : Los Angeles, CA},
+	series = {{UCLA} {Latin} {American} studies},
+	title = {Nahuatl as written: lessons in older written {Nahuatl}, with copious examples and texts},
+	isbn = {978-0-8047-4282-5 978-0-8047-4458-4},
+	shorttitle = {Nahuatl as written},
+	language = {eng nah},
+	number = {88},
+	publisher = {Stanford University Press ; UCLA Latin American Center Publications},
+	author = {Lockhart, James},
+	year = {2001},
+	keywords = {Nahuatl language: Writing, Nahuatl language: Grammar},
 }
 
 @book{lorentz1919,
@@ -2980,23 +2712,6 @@ pdf: kurschner2020.pdf
   VOLUME = {16},
 }
 
-@ARTICLE{MacriLooper2003,
-  AUTHOR = {Macri, Martha J. and Looper, Matthew G.},
-  LANGUAGE = {en},
-  URL = {http://www.journals.cambridge.org/abstract_S0956536103142046},
-  DATE = {2003-10},
-  DOI = {10.1017/S0956536103142046},
-  ISSN = {0956-5361, 1469-1787},
-  JOURNALTITLE = {Ancient Mesoamerica},
-  KEYWORDS = {Classical,Topic(borrowing)},
-  NUMBER = {02},
-  PAGES = {285--297},
-  SHORTTITLE = {{NAHUA} {IN} {ANCIENT} {MESOAMERICA}},
-  TITLE = {{NAHUA} {IN} {ANCIENT} {MESOAMERICA}: {Evidence} from {Maya} inscriptions},
-  URLDATE = {2018-01-09},
-  VOLUME = {14},
-}
-
 @inbook{macwhinney2017,
 url = {https://doi.org/10.1515/9783110341423-016},
 title = {Entrenchment in Second-Language Learning},
@@ -3013,21 +2728,21 @@ year = {2017},
 lastchecked = {2023-03-06}
 }
 
-@article{MadajczakPharaoHansen2016,
-    title = {Teotamachilizti: an analysis of the language in a {Nahua} sermon from colonial {Guatemala}},
-    volume = {25},
-    issn = {1060-9164, 1466-1802},
-    shorttitle = {Teotamachilizti},
-    url = {https://www.tandfonline.com/doi/full/10.1080/10609164.2016.1205254},
-    doi = {10.1080/10609164.2016.1205254},
-    language = {en},
-    number = {2},
-    urldate = {2019-02-07},
-    journal = {Colonial Latin American Review},
-    author = {Madajczak, Julia and Pharao Hansen, Magnus},
-    month = apr,
-    year = {2016},
-    pages = {220--244},
+@article{madajczak2016,
+	title = {Teotamachilizti: an analysis of the language in a {Nahua} sermon from colonial {Guatemala}},
+	volume = {25},
+	issn = {1060-9164, 1466-1802},
+	shorttitle = {Teotamachilizti},
+	url = {https://www.tandfonline.com/doi/full/10.1080/10609164.2016.1205254},
+	doi = {10.1080/10609164.2016.1205254},
+	language = {en},
+	number = {2},
+	urldate = {2019-02-07},
+	journal = {Colonial Latin American Review},
+	author = {Madajczak, Julia and Hansen, Magnus Pharao},
+	month = apr,
+	year = {2016},
+	pages = {220--244},
 }
 
 @incollection{maddison2013consonantinventory,
@@ -3146,21 +2861,6 @@ url = "http://hdl.handle.net/2115/40153"
   year       = {2016}
 }
 
-@ARTICLE{MalhiEA2003,
-  AUTHOR = {Malhi, Ripan S. and Mortensen, Holly M. and Eshleman, Jason A. and Kemp, Brian M. and Lorenz, Joseph G. and Kaestle, Frederika A. and Johnson, John R. and Gorodezky, Clara and Smith, David Glenn},
-  LANGUAGE = {en},
-  URL = {http://doi.wiley.com/10.1002/ajpa.10138},
-  DATE = {2003-02},
-  DOI = {10.1002/ajpa.10138},
-  ISSN = {0002-9483, 1096-8644},
-  JOURNALTITLE = {American Journal of Physical Anthropology},
-  NUMBER = {2},
-  PAGES = {108--124},
-  TITLE = {Native {American} {mtDNA} prehistory in the {American} {Southwest}},
-  URLDATE = {2018-01-10},
-  VOLUME = {120},
-}
-
 @inproceedings{malmberg1964,
     author = {Bertil Malmberg},
     booktitle = {Presente y futuro de la lengua española : actas ... Vol. 2, La unidad del español : caracterización y perspectivas},
@@ -3203,8 +2903,8 @@ url = "http://hdl.handle.net/2115/40153"
   year = 2014
 }
 
-@article{MartinAlcarazEscalandeFernandez2017,
-    author={Martín Alcaraz, Alicia and Escalante Fernández, Carlos},
+@article{MartinAlcatrazEscalandeFernandez2017,
+    author={Martín Alcaraz, Alicia, & Escalante Fernández, Carlos},
     year={2017},
     titpe={Prácticas educativas, “el problema de la lengua” y usos indígenas de la lectura y la escritura en la historiografía de la educación del siglo XIX en México},
     journal={Revista mexicana de investigación educativa},
@@ -3265,39 +2965,12 @@ lastchecked = {2023-05-29}
 }
 
 @book{matras2009,
-    title = {Language {Contact}},
-    isbn = {978-1-139-48052-9},
-    abstract = {Most societies in today's world are multilingual. 'Language contact' occurs when speakers of different languages interact and their languages influence each other. This book is an introduction to the subject, covering individual and societal multilingualism, the acquisition of two or more languages from birth, second language acquisition in adulthood, language change, linguistic typology, language processing and the structure of the language faculty. It explains the effects of multilingualism on society and language policy, as well as the consequences that long-term bilingualism within communities can have for the structure of languages. Drawing on the author's own first-hand observations of child and adult bilingualism, the book provides a clear analysis of such phenomena as language convergence, grammatical borrowing, and mixed languages.},
-    publisher = {Cambridge University Press},
-    author = {Matras, Yaron},
-    year = {2009},
-}
-
-@BOOK{MatrasSakel2007,
-  ABSTRACT = {The book contains 30 descriptive chapters dealing with a specific language contact situation. The chapters follow a uniform organisation format, being the narrative version of a standard comprehensive questionnaire previously distributed to all authors. The questionnaire targets systematically the possibility of contact influence / grammatical borrowing in a full range of categories. The uniform structure facilitates a comparison among the chapters and the languages covered. The introduction describes the setup of the questionnaire and the methodology of the approach, along with a survey of the difficulties of sampling in contact linguistics. Two evaluative chapters, each authored by one of the co-editors, draws general conclusions from the volume as a whole (one in relation to borrowed grammatical categories and meaningful hierarchies, the other in relation to the distribution of Matter and Pattern replication).},
-  AUTHOR = {Matras, Yaron and Sakel, Jeanette},
-  LANGUAGE = {ENGL},
-  LOCATION = {Berlin, Boston},
-  PUBLISHER = {De Gruyter Mouton},
-  URL = {https://www-degruyter-com.ezproxy.its.uu.se/view/product/34187},
-  DATE = {2007},
-  DOI = {10.1515/9783110199192},
-  FILE = {matras-sakel_grammatical-borrowing2007.pdf:/home/bob/Literature/Zotero/storage/ZP7GN4NI/matras-sakel_grammatical-borrowing2007.pdf:application/pdf},
-  ISBN = {978-3-11-019919-2},
-  KEYWORDS = {Language Contact,Language Typology},
-  TITLE = {Grammatical {Borrowing} in {Cross}-{Linguistic} {Perspective}},
-}
-
-@BOOK{mcdonough2014,
-  AUTHOR = {McDonough, Kelly S.},
-  LOCATION = {Tucson},
-  PUBLISHER = {The University of Arizona Press},
-  DATE = {2014},
-  ISBN = {978-0-8165-1136-5},
-  KEYWORDS = {HISTORY / Latin America / Mexico,History,History and criticism,Intellectual life,LITERARY CRITICISM / Caribbean \& Latin American,Mexico,Nahua philosophy,Nahuas,Nahuatl literature,SOCIAL SCIENCE / Ethnic Studies / Native American Studies},
-  SERIES = {First {Peoples}: {New} {Directions} in {Indigenous} {Studies}},
-  SHORTTITLE = {The learned ones},
-  TITLE = {The learned ones: {Nahua} intellectuals in postconquest {Mexico}},
+	title = {Language {Contact}},
+	isbn = {978-1-139-48052-9},
+	abstract = {Most societies in today's world are multilingual. 'Language contact' occurs when speakers of different languages interact and their languages influence each other. This book is an introduction to the subject, covering individual and societal multilingualism, the acquisition of two or more languages from birth, second language acquisition in adulthood, language change, linguistic typology, language processing and the structure of the language faculty. It explains the effects of multilingualism on society and language policy, as well as the consequences that long-term bilingualism within communities can have for the structure of languages. Drawing on the author's own first-hand observations of child and adult bilingualism, the book provides a clear analysis of such phenomena as language convergence, grammatical borrowing, and mixed languages.},
+	publisher = {Cambridge University Press},
+	author = {Matras, Yaron},
+	year = {2009},
 }
 
 pdf: mcfadden2020.pdf
@@ -3314,18 +2987,18 @@ pdf: mcfadden2020.pdf
 }
 
 @book{meisel2011,
-    address = {Cambridge},
-    series = {Cambridge {Textbooks} in {Linguistics}},
-    title = {First and {Second} {Language} {Acquisition}: {Parallels} and {Differences}},
-    isbn = {978-0-521-55294-3 978-0-521-55764-1},
-    shorttitle = {First and {Second} {Language} {Acquisition}},
-    publisher = {Cambridge University Press},
-    author = {Meisel, Jürgen M.},
-    year = {2011},
-    keywords = {Language and languages, LANGUAGE ARTS \& DISCIPLINES / Linguistics / General, Second language acquisition, Study and teaching},
+	address = {Cambridge},
+	series = {Cambridge {Textbooks} in {Linguistics}},
+	title = {First and {Second} {Language} {Acquisition}: {Parallels} and {Differences}},
+	isbn = {978-0-521-55294-3 978-0-521-55764-1},
+	shorttitle = {First and {Second} {Language} {Acquisition}},
+	publisher = {Cambridge University Press},
+	author = {Meisel, Jürgen M.},
+	year = {2011},
+	keywords = {Language and languages, LANGUAGE ARTS \& DISCIPLINES / Linguistics / General, Second language acquisition, Study and teaching},
 }
 
-@THESIS{melton-Villanueva2012,
+@THESIS{meltonVillanueva2012,
   AUTHOR = {Melton-Villanueva, Miriam},
   LOCATION = {Los Angeles},
   DATE = {2012},
@@ -3333,43 +3006,32 @@ pdf: mcfadden2020.pdf
   TYPE = {{PhD} {Dissertation}},
 }
 
-@article{MerrillEA2010,
-    title={Reply to Hill and Brown: Maize and Uto-Aztecan cultural history},
-    volume={107},
-    ISSN={1091-6490},
-    url={http://dx.doi.org/10.1073/pnas.1000923107},
-    DOI={10.1073/pnas.1000923107},
-    number={11},
-    journal={Proceedings of the National Academy of Sciences}, author={Merrill, William L. and Hard, Robert J. and Mabry, Jonathan B. and Fritz, Gayle J. and Adams, Karen R. and Roney, John R. and MacWilliams, A. C.},
-    year={2010}
-}
-
 @article{merrill2012,
-    title={The Historical Linguistics of Uto-Aztecan Agriculture},
-    volume={54},
-    ISSN={1944-6527},
-    url={http://dx.doi.org/10.1353/anl.2012.0017},
-    DOI={10.1353/anl.2012.0017},
-    number={3},
-    journal={Anthropological Linguistics},
-    publisher={Project MUSE},
-    author={Merrill, William L.},
-    year={2012},
-    pages={203–260}
+	title={The Historical Linguistics of Uto-Aztecan Agriculture},
+	volume={54},
+	ISSN={1944-6527},
+	url={http://dx.doi.org/10.1353/anl.2012.0017},
+	DOI={10.1353/anl.2012.0017},
+	number={3},
+	journal={Anthropological Linguistics},
+	publisher={Project MUSE},
+	author={Merrill, William L.},
+	year={2012},
+	pages={203–260}
 }
 
 @article{merrill2013,
-    title={The Genetic Unity of Southern Uto-Aztecan},
-    volume={3},
-    ISSN={2210-5832},
-    url={http://dx.doi.org/10.1163/22105832-13030102},
-    DOI={10.1163/22105832-13030102},
-    number={1},
-    journal={Language Dynamics and Change},
-    publisher={Brill},
-    author={Merrill, William L.},
-    year={2013},
-    pages={68–-104}
+	title={The Genetic Unity of Southern Uto-Aztecan},
+	volume={3},
+	ISSN={2210-5832},
+	url={http://dx.doi.org/10.1163/22105832-13030102},
+	DOI={10.1163/22105832-13030102},
+	number={1},
+	journal={Language Dynamics and Change},
+	publisher={Brill},
+	author={Merrill, William L.},
+	year={2013},
+	pages={68–-104}
  }
 
 @article{messing2007,
@@ -3385,11 +3047,11 @@ pdf: mcfadden2020.pdf
 }
 
 @ARTICLE{mijts2019,
-    author = {Eric Mijts},
-    title = {De Caraïben zitten in de verdrukking tussen dekolonisatie en globalisering Over het dominante Nederlands en het belang van de thuistalen},
-    journal = {De Lage Landen},
-    year = {2019},
-    url = {https://www.de-lage-landen.com/article/in-de-verdrukking-tussen-dekolonisatie-en-globalisering.-thuistalen-en-hoger-onderwijs-in-kleine-eilandstaten}
+	author = {Eric Mijts},
+	title = {De Caraïben zitten in de verdrukking tussen dekolonisatie en globalisering Over het dominante Nederlands en het belang van de thuistalen},
+	journal = {De Lage Landen},
+	year = {2019},
+	url = {https://www.de-lage-landen.com/article/in-de-verdrukking-tussen-dekolonisatie-en-globalisering.-thuistalen-en-hoger-onderwijs-in-kleine-eilandstaten}
 }
 
 @phdthesis{mijts2021,
@@ -3422,11 +3084,11 @@ pdf: mcfadden2020.pdf
 }
 
 @book{mufwene2001,
-    address = {Cambridge},
-    title = {The ecology of language evolution},
-    publisher = {Cambridge University Press},
-    author = {Mufwene, Salikoko S.},
-    year = {2001},
+	address = {Cambridge},
+	title = {The ecology of language evolution},
+	publisher = {Cambridge University Press},
+	author = {Mufwene, Salikoko S.},
+	year = {2001},
 }
 
 @BOOK{mufwene2008,
@@ -3480,28 +3142,6 @@ pdf: mcfadden2020.pdf
   TITLE = {From {Linguistic} {Areas} to {Areal} {Linguistics}},
 }
 
-@BOOK{myers-Scotton2002,
-  ABSTRACT = {Contact Linguistics is a critical investigation of what happens to the grammars of languages when bilingual speakers use both their languages in the same clause. It consolidates earlier insights and presents the new theoretical and empirical work of a scholar whose ideas have had a fundamental impact on the field. It also shows that bilingual data offer a revealing window on the structure of the language faculty. Carol Myers-Scotton examines the nature of major contact phenomena, especially lexical borrowing, grammatical convergence, codeswitching, first language attrition, mixed languages, and the development of creoles. She argues forcefully that types of contact phenomena often seen as separate in fact result from the same processes and can be explained by the same principles. Her discussion centers around two new models derived from the Matrix Language Frame model, previously applied only to codeswitching. One model recognizes four types of morphemes based on their different patterns of distribution across contact phenomena; its key hypothesis is that distribution depends on differential access to the morphemes in the production process. The other analyzes three levels of abstract lexical structure whose splitting and recombination across languages in bilingual speech explains many contact outcomes. This is an important volume, of unusual relevance for theories of competence and performance and vital for all those concerned with language contact. Carol Myers-Scotton is a Carolina Distinguished Professor of Linguistics at the University of South Carolina. She is a specialist in language contact phenomena and sociolinguistics and has a special interest in East and Southern African linguistics. In 1993, she published two volumes on codeswitching, Social Motivations for Codeswitching: Evidence from Africa, and Duelling Languages: Grammatical Structure in Codeswitching (both OUP). She has also edited a volume of essays on language and literature (OUP 1998) and published many articles in her areas of interest.},
-  AUTHOR = {Myers-Scotton, Carol and Myers-Scotton, Distinguished Professor of Linguistics Carol},
-  LANGUAGE = {en},
-  LOCATION = {Oxford},
-  PUBLISHER = {Oxford University Press},
-  DATE = {2002},
-  ISBN = {978-0-19-829953-0},
-  KEYWORDS = {Language Arts \& Disciplines / Linguistics / Sociolinguistics,Language Arts \& Disciplines / Linguistics / General},
-  NOTE = {Google-Books-ID: krRcXJlJaMcC},
-  SHORTTITLE = {Contact {Linguistics}},
-  TITLE = {Contact {Linguistics}: {Bilingual} {Encounters} and {Grammatical} {Outcomes}},
-}
-
-@BOOK{myers-Scotton1998,
-  AUTHOR = {Myers-Scotton, C.},
-  LOCATION = {Oxford},
-  PUBLISHER = {Oxford University Press},
-  DATE = {1998},
-  TITLE = {Codes and {Consequences}: {Choosing} {Linguistic} {Varieties}},
-}
-
 @article{NanceEA2016,
   doi = {10.1111/josl.12173},
   url = {https://doi.org/10.1111/josl.12173},
@@ -3514,16 +3154,6 @@ pdf: mcfadden2020.pdf
   author = {Claire Nance and Wilson McLeod and Bernadette O{\textquotesingle}Rourke and Stuart Dunmore},
   title = {Identity,  accent aim,  and motivation in second language users: New Scottish Gaelic speakers' use of phonetic variation},
   journal = {Journal of Sociolinguistics}
-}
-
-@incollection{navaVite2015,
-    author={Nava Vite, Rafael},
-    title={Desafíos de la educación intercultural: el caso de la sierra de Zongolica}, i
-    editor={Gonzáles-Hernández, María de los Ángeles and Domínguez-Basurto, Maribel and García-Durán, Atanasio},
-    booktitle={Educación Ambiental desde la Innovación, la Transdisciplinariedad e Interculturalidad, Tópicos Selectos de Educación Ambiental},
-    publisher={ECORFAN},
-    location={Veracruz},
-    year=2015
 }
 
 pdf: NelkenYamangil2011.pdf
@@ -3551,33 +3181,6 @@ journal={AAAI}
     eprint = {https://doi.org/10.1080/07908310903075142}
 }
 
-@ARTICLE{nesvig2012,
-  AUTHOR = {Nesvig, Martin},
-  LANGUAGE = {English (US)},
-  URL = {https://miami.pure.elsevier.com/en/publications/spanish-men-indigenous-language-and-informal-interpreters-in-post},
-  DATE = {2012},
-  DOI = {10.1215/00141801-1642734},
-  FILE = {Snapshot:/home/bob/Literature/Zotero/storage/ER2KLWA2/spanish-men-indigenous-language-and-informal-interpreters-in-post.html:text/html},
-  ISSN = {0014-1801},
-  JOURNALTITLE = {Ethnohistory},
-  NOTE = {Publisher: Duke University Press},
-  NUMBER = {4},
-  PAGES = {739--764},
-  TITLE = {Spanish men, indigenous language, and informal interpreters in postcontact {Mexico}},
-  URLDATE = {2021-04-16},
-  VOLUME = {59},
-}
-
-@BOOK{NutiniBell1980,
-  AUTHOR = {Nutini, Hugo G. and Bell, Betty},
-  LOCATION = {Princeton, N.J},
-  PUBLISHER = {Princeton University Press},
-  DATE = {1980},
-  ISBN = {978-0-691-09382-6 978-0-691-07649-2 978-0-691-09383-3 978-0-691-10144-6},
-  KEYWORDS = {Indians of Mexico,Kinship,Mexico Tlaxcala (State),Nahuas,Social life and customs,Sponsors,Tlaxcala (Mexico : State)},
-  TITLE = {Ritual kinship},
-}
-
 @article{ORourkePujolarRamallo2015,
     author = {Bernadette O'Rourke and Joan Pujolar and Fernando Ramallo},
     doi = {doi:10.1515/ijsl-2014-0029},
@@ -3591,48 +3194,48 @@ journal={AAAI}
 }
 
 @book{montesdeOcaVega2013,
-    title={Los difrasismos en el náhuatl de los siglos XVI y XVII},
-    ISBN={9786070247972},
-    url={http://dx.doi.org/10.22201/iifl.9786070247972p.2013},
-    DOI={10.22201/iifl.9786070247972p.2013},
-    publisher={Instituto de Investigaciones Filológicas, Universidad Nacional Autónoma de México},
-    author={Montes de Oca Vega, Mercedes},
-    year={2013}
+	title={Los difrasismos en el náhuatl de los siglos XVI y XVII},
+	ISBN={9786070247972},
+	url={http://dx.doi.org/10.22201/iifl.9786070247972p.2013},
+	DOI={10.22201/iifl.9786070247972p.2013},
+	publisher={Instituto de Investigaciones Filológicas, Universidad Nacional Autónoma de México},
+	author={Montes de Oca Vega, Mercedes},
+	year={2013}
 }
 
 @inbook{montesdeOcaVega2017,
-    title={The impact of language contact in Nahuatl couplets},
-    ISBN={9789027265715},
-    ISSN={0165-7763},
-    url={http://dx.doi.org/10.1075/slcs.185.09deo},
-    DOI={10.1075/slcs.185.09deo},
-    booktitle={Language Contact and Change in Mesoamerica and Beyond},
-    publisher={John Benjamins Publishing Company},
-    author={Montes de Oca Vega, Mercedes},
-    year={2017},
-    pages={187-–208}
+	title={The impact of language contact in Nahuatl couplets},
+	ISBN={9789027265715},
+	ISSN={0165-7763},
+	url={http://dx.doi.org/10.1075/slcs.185.09deo},
+	DOI={10.1075/slcs.185.09deo},
+	booktitle={Language Contact and Change in Mesoamerica and Beyond},
+	publisher={John Benjamins Publishing Company},
+	author={Montes de Oca Vega, Mercedes},
+	year={2017},
+	pages={187-–208}
 }
 
 @inbook{OlkoWicherkiewiczBorges2016,
-    title={Introduction},
-    year={2016},
-    address={Warsaw},
-    publisher={University of Warsaw Press},
-    pages={9--16},
-    booktitle={Integral Strategies for Language Revitalization},
-    author={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
-    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}
+	title={Introduction},
+	year={2016},
+	address={Warsaw},
+	publisher={University of Warsaw Press},
+	pages={9--16},
+	booktitle={Integral Strategies for Language Revitalization},
+	author={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
+	editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}
 }
 
 @inbook{OlkoWicherkiewicz2016,
     title={Endangered Languages: in Search of a Comprehensive Model for Research and Revitalization},
     year={2016},
-    address={Warsaw},
-    publisher={University of Warsaw Press},
-    pages={649--676},
-    booktitle={Integral Strategies for Language Revitalization},
-    author={Justyna Olko and Tomasz Wicherkiewicz},
-    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}
+    address={Warsaw},                                                           
+    publisher={University of Warsaw Press},                                
+    pages={649--676},                                       
+    booktitle={Integral Strategies for Language Revitalization},   
+    author={Justyna Olko and Tomasz Wicherkiewicz},    
+    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges}   
 }
 
 @article{OlkoBorgesSullivan2018,
@@ -3645,27 +3248,6 @@ journal={AAAI}
     volume = {71},
     year = {2018},
     pages = {467--507}
-}
-
-@BOOK{olko2014,
-  ABSTRACT = {"This significant work reconstructs the repertory of insignia of rank and the contexts and symbolic meanings of their use, along with their original terminology, among the Nahuatl-speaking communities of Mesoamerica from the fifteenth through the seventeenth centuries. Attributes of rank carried profound symbolic meaning, encoding subtle messages about political and social status, ethnic and gender identity, regional origin, individual and community history, and claims to privilege.Olko engages with and builds upon extensive worldwide scholarship and skillfully illuminates this complex topic, creating a vital contribution to the fields of pre-Columbian and colonial Mexican studies. It is the first book to integrate pre- and post-contact perspectives, uniting concepts and epochs usually studied separately. A wealth of illustrations accompanies the contextual analysis and provides essential depth to this critical work. Insignia of Rank in the Nahua World substantially expands and elaborates on the themes of Olko's Turquoise Diadems and Staffs of Office, originally published in Poland and never released in North America"--},
-  AUTHOR = {Olko, Justyna},
-  LOCATION = {Boulder},
-  PUBLISHER = {University Press of Colorado},
-  DATE = {2014},
-  ISBN = {978-1-60732-240-5},
-  KEYWORDS = {Aztecs,Clothing,Clothing and dress,Jewelry,Mexico,SOCIAL SCIENCE / Anthropology / General,Symbolic aspects},
-  SHORTTITLE = {Insignia of rank in the {Nahua} world},
-  TITLE = {Insignia of rank in the {Nahua} world: from the fifteenth to the seventeenth century},
-}
-
-@book{pacheco2005,
-  title={Tierras de indios, tierras de espa{\~n}oles: confirmaci{\'o}n y composici{\'o}n de tierras y aguas en la jurisdicci{\'o}n de Cholula (siglos XVI-XVIII)},
-  author={Pacheco, M.C.T.},
-  isbn={9789688595886},
-  series={Colecci{\'o}n el pasado del presente},
-  year={2005},
-  publisher={Universidad Iberoamericana, Departamento de Historia}
 }
 
 @incollection{pakendorf2013,
@@ -3681,11 +3263,11 @@ journal={AAAI}
 }
 
 @book{paulston1994,
-    address = {Amsterdam},
-    title = {Linguistic minorities in multilingual settings: implications for langauge policies},
-    publisher = {John Benamins},
-    author = {Paulston, Cheistina},
-    year = {1994},
+	address = {Amsterdam},
+	title = {Linguistic minorities in multilingual settings: implications for langauge policies},
+	publisher = {John Benamins},
+	author = {Paulston, Cheistina},
+	year = {1994},
 }
 
 @book{penny2002,
@@ -3727,68 +3309,29 @@ journal={AAAI}
   publisher={University of Cura{\c{c}}ao, Rechearch Institute (UCRI)}
 }
 
-@article{pharaoHansen2010,
-    title = {Nahuatl among {Jehovah}'s {Witnesses} of {Hueyapan}, {Morelos}: a case of spontaneous revitalization},
-    volume = {2010},
-    issn = {1613-3668},
-    shorttitle = {Nahuatl among {Jehovah}'s {Witnesses} of {Hueyapan}, {Morelos}},
-    url = {https://www-degruyter-com.ezproxy.its.uu.se/view/j/ijsl.2010.2010.issue-203/ijsl.2010.026/ijsl.2010.026.xml},
-    doi = {10.1515/ijsl.2010.026},
-    abstract = {The sociolinguistic situation of Hueyapan, Morelos, is similar to those described in other studies of modern Nahua communities: the language is in a rapid process of decline. This article describes the situation within one particular subcommunity of the town: the congregation of Jehovah's Witnesses. Here the Nahuatl language has experienced a revival within the last five years, to a degree where congregational meetings are now held mostly in Nahuatl, and where young Witnesses are probably the only group of youths in Hueyapan to communicate daily in Nahuatl. It is argued that this situation arose as a result of the combination of the general sociolinguistic background in Hueyapan and the specific value system and social dynamics that exist in the community of Jehovah's Witnesses.},
-    number = {203},
-    journal = {International Journal of the Sociology of Language},
-    author = {Pharao Hansen, Magnus},
-    year = {2010},
-    pages = {125--137},
-    file = {Full Text PDF:/home/bob/Literature/Zotero/storage/HSZCR42I/Hansen - 2010 - Nahuatl among Jehovah's Witnesses of Hueyapan, Mor.pdf:application/pdf},
-}
-
-@misc{pharaoHansen2014,
-    author={Pharao Hansen, Magnus},
-    year=2014,
-    title={The East-West split in Nahuan Dialectology: Reviewing the Evidence and Consolidating the Grouping},
-    note={Paper presented at the Friends of Uto-Aztecan Workshop, at the Universidad Autónoma de Nayarit, Tepic, Nayarit, June 20th, 2014}
-}
-
-@ARTICLE{pharaoHansen2012,
-  ABSTRACT = {This article presents data showing that the syntax of the Nahuatl dialect spoken in Hueyapan, Morelos, Mexico has traits of nonconfigurationality: free word order and free pro-drop, with predicate-initial word order being pragmatically neutral. It permits discontinuous noun phrases and has no naturally occurring true quantifiers, suggesting that noun phrases in Hueyapan Nahuatl are adjuncts rather than actual arguments. These findings are contrasted with those of an earlier study by Jeffrey MacSwan, who concludes that Nahuatl syntax has relatively fixed subject-verb-object word order. It is suggested that the differences observed between the two Nahuatl varieties may be a result of methodological problems in MacSwan's collection of data, skewing it in the direction of a more rigid syntax.},
-  AUTHOR = {Pharao Hansen, Magnus},
-  URL = {https://muse-jhu-edu.ezproxy.its.uu.se/article/462412},
-  DATE = {2012-01},
-  DOI = {10.1353/anl.2010.0017},
-  ISSN = {1944-6527},
-  JOURNALTITLE = {Anthropological Linguistics},
-  NUMBER = {3},
-  PAGES = {274--299},
-  SHORTTITLE = {Polysynthesis in {Hueyapan} {Nahuatl}},
-  TITLE = {Polysynthesis in {Hueyapan} {Nahuatl}: {The} {Status} of {Noun} {Phrases}, {Basic} {Word} {Order}, and {Other} {Concerns}},
-  URLDATE = {2017-07-15},
-  VOLUME = {52},
-}
-
 @book{pizzigoni2007,
-    title = {Testaments of {Toluca}},
-    isbn = {978-0-8047-5607-5},
-    url = {https://trove.nla.gov.au/version/42958639},
-    abstract = {"Testaments written in their own language, Nahuatl, have been crucial for reconstructing the everyday life of the indigenous people of central Mexico after Spanish contact. Those published to date have largely been from the sixteenth and early seventeenth centuries. Testaments of Toluca presents a large body of Nahuatl wills (98) from 1652 to 1783 from an important valley not much studied, thus greatly enlarging our perspective on the evolution of indigenous society and culture in central Mexico. Each testament is transcribed, translated, and accompanied by a commentary on the testator's situation and on interesting terminology. A substantial introductory study fully analyzes the testamentary genre as seen in this corpus (a first) and summarizes the content of the documents in realms such as gender, kinship, household, and land. Wills are very human documents, and the apparatus draws out this aspect, telling us much about indigenous life in central Mexico in the third century after Spanish contact. All this makes the book of potential interest to a broad spectrum of readers."--BOOK JACKET.  xv, 250 p. : ill. ; 29 cm. Nahuas -- History -- Sources. Nahuas -- Mexico -- Toluca de Lerdo -- History -- Sources. Wills -- Mexico -- Toluca de Lerdo. Toluca de Lerdo (Mexico) -- History -- Sources.},
-    language = {English},
-    urldate = {2019-02-07},
-    publisher = {Stanford, Calif. : Stanford University Press ; [Los Angeles] : UCLA Latin American Center Publications},
-    author = {Pizzigoni, Caterina},
-    year = {2007},
+	title = {Testaments of {Toluca}},
+	isbn = {978-0-8047-5607-5},
+	url = {https://trove.nla.gov.au/version/42958639},
+	abstract = {"Testaments written in their own language, Nahuatl, have been crucial for reconstructing the everyday life of the indigenous people of central Mexico after Spanish contact. Those published to date have largely been from the sixteenth and early seventeenth centuries. Testaments of Toluca presents a large body of Nahuatl wills (98) from 1652 to 1783 from an important valley not much studied, thus greatly enlarging our perspective on the evolution of indigenous society and culture in central Mexico. Each testament is transcribed, translated, and accompanied by a commentary on the testator's situation and on interesting terminology. A substantial introductory study fully analyzes the testamentary genre as seen in this corpus (a first) and summarizes the content of the documents in realms such as gender, kinship, household, and land. Wills are very human documents, and the apparatus draws out this aspect, telling us much about indigenous life in central Mexico in the third century after Spanish contact. All this makes the book of potential interest to a broad spectrum of readers."--BOOK JACKET.  xv, 250 p. : ill. ; 29 cm. Nahuas -- History -- Sources. Nahuas -- Mexico -- Toluca de Lerdo -- History -- Sources. Wills -- Mexico -- Toluca de Lerdo. Toluca de Lerdo (Mexico) -- History -- Sources.},
+	language = {English},
+	urldate = {2019-02-07},
+	publisher = {Stanford, Calif. : Stanford University Press ; [Los Angeles] : UCLA Latin American Center Publications},
+	author = {Pizzigoni, Caterina},
+	year = {2007},
 }
 
 @article{perezVelascoPavn2014,
-    title={Economic behavior of indigenous peoples: the Mexican case},
-    volume={23},
-    ISSN={2196-436X},
-    url={http://dx.doi.org/10.1007/s40503-014-0012-4},
-    DOI={10.1007/s40503-014-0012-4},
-    number={1},
-    journal={Latin American Economic Review},
-    publisher={Springer Science and Business Media LLC},
-    author={Pérez Velasco Pavón, Juan Carlos},
-    year={2014}
+	title={Economic behavior of indigenous peoples: the Mexican case},
+	volume={23},
+	ISSN={2196-436X},
+	url={http://dx.doi.org/10.1007/s40503-014-0012-4},
+	DOI={10.1007/s40503-014-0012-4},
+	number={1},
+	journal={Latin American Economic Review},
+	publisher={Springer Science and Business Media LLC},
+	author={Pérez Velasco Pavón, Juan Carlos},
+	year={2014}
 }
 
 @book{ramult2017,
@@ -3804,28 +3347,6 @@ journal={AAAI}
   PUBLISHER = {Proceedings of the 2009 annual conference of the Canadian Linguistic Association.},
   DATE = {2009},
   TITLE = {Spanish and {Nahuatl} convergence: {The} case of pre- and post-positions},
-}
-
-@book{ReyesGarciaEA1996,
-    author = {Reyes García, Luis and Solís, Eustaquip Celestino and Valencia Ríos, Armando and Medina Lima, Constantino and Guerrero Díaz, Gregorio},
-    address = {México, D.F},
-    title = {Documentos nauas de la Ciudad de México del siglo XVI},
-    isbn = {9706280707},
-    keywords = {Nahuas -- Mexico -- Mexico City -- History -- Sources},
-    publisher = {CIESAS},
-    year = {1996}
-}
-
-@BOOK{reyesGarcia1988,
-  AUTHOR = {Reyes García, Luis},
-  LOCATION = {Mexico, D.F. u.a},
-  PUBLISHER = {CIESAS u.a},
-  DATE = {1988},
-  EDITION = {2. ed},
-  ISBN = {978-968-16-2904-5},
-  NOTE = {OCLC: 21767275},
-  SERIES = {Colección {Puebla}},
-  TITLE = {Documentos sobre tierras y señoríos en {Cuauhtinchan}},
 }
 
 @incollection{rockwell2011,
@@ -3856,30 +3377,16 @@ journal={AAAI}
 }
 
 @article{romero2014,
-    title = {Grammar, {Dialectal} {Variation}, and {Honorific} {Registers} in {Nahuatl} in {Seventeenth}-{Century} {Guatemala}},
-    volume = {56},
-    issn = {0003-5483},
-    url = {http://www.jstor.org.ezproxy.its.uu.se/stable/24367721},
-    abstract = {This article examines honorific registers in Central Mexican and Guatemalan varieties of Nahuatl in seventeenth-century Guatemala, highlighting the importance of sociolinguistic methods for the dialectology of Mesoamerican languages. A comparative study of two pastoral texts reveals that the differences between the honorific registers of the Nahuatl varieties were quantitative rather than categorical: the structure of honorifics is the same (for all syntactic categories), but significant differences appear in the frequency of honorific marking, especially on verbs. Metalinguistic comments in Spanish sources provide evidence of the impact of these differences on stylistic marking, ethnic boundary work, and indexing of social status.},
-    number = {1},
-    journal = {Anthropological Linguistics},
-    author = {Romero, Sergio F.},
-    year = {2014},
-    pages = {54--77},
-}
-
-@BOOK{sandstrom1991,
-  AUTHOR = {Sandstrom, Alan R.},
-  LANGUAGE = {eng},
-  LOCATION = {Norman, Okla.},
-  PUBLISHER = {University of Oklahoma Press},
-  DATE = {1991},
-  ISBN = {978-0-8061-2403-2 978-0-8061-2399-8},
-  NOTE = {OCLC: 24246917},
-  NUMBER = {206},
-  SERIES = {The civilization of the {American} {Indian} series},
-  SHORTTITLE = {Corn is our blood},
-  TITLE = {Corn is our blood: culture and ethnic identity in a contemporary {Aztec} {Indian} village},
+	title = {Grammar, {Dialectal} {Variation}, and {Honorific} {Registers} in {Nahuatl} in {Seventeenth}-{Century} {Guatemala}},
+	volume = {56},
+	issn = {0003-5483},
+	url = {http://www.jstor.org.ezproxy.its.uu.se/stable/24367721},
+	abstract = {This article examines honorific registers in Central Mexican and Guatemalan varieties of Nahuatl in seventeenth-century Guatemala, highlighting the importance of sociolinguistic methods for the dialectology of Mesoamerican languages. A comparative study of two pastoral texts reveals that the differences between the honorific registers of the Nahuatl varieties were quantitative rather than categorical: the structure of honorifics is the same (for all syntactic categories), but significant differences appear in the frequency of honorific marking, especially on verbs. Metalinguistic comments in Spanish sources provide evidence of the impact of these differences on stylistic marking, ethnic boundary work, and indexing of social status.},
+	number = {1},
+	journal = {Anthropological Linguistics},
+	author = {Romero, Sergio F.},
+	year = {2014},
+	pages = {54--77},
 }
 
 pdf: schmid2015.pdf
@@ -3921,33 +3428,33 @@ pdf: schmid2020.pdf
 }
 
 @article{schwaller2012,
-    title = {The {Expansion} of {Nahuatl} as a {Lingua} {Franca} among {Priests} in {Sixteenth}-{Century} {Mexico}},
-    volume = {59},
-    issn = {0014-1801, 1527-5477},
-    url = {http://ethnohistory.dukejournals.org.ezproxy.its.uu.se/content/59/4/675},
-    doi = {10.1215/00141801-1642707},
-    abstract = {This article examines the practice of ordaining young men because of their personal language ability, a process referred to as an ordination a título de lengua. As a result of reforms codified by the Catholic Church in the Council of Trent, prospective priests were required to support themselves without assistance from the Church, a requirement called a title. This requirement was satisfied if an ordinand enjoyed a benefice or a chantry. Because of the need to have as many priests who knew native languages as possible, the crown ordered that the ability to speak a native language could be used in lieu of a title. Starting in the 1560s the bishops of Mexico began to keep track of clergy according to their ability to speak a native language. When the system of oposiciones (competitive placement exams) began in the 1580s, candidates for benefices would be tested on their language ability. This article traces the development of a bilingual secular clergy in order to evaluate whether royal officials responded to the widespread use of Nahuatl at the time of contact or whether those same officials encouraged the spread of Nahuatl through their policies.},
-    language = {en},
-    number = {4},
-    urldate = {2017-07-15},
-    journal = {Ethnohistory},
-    author = {Schwaller, John F.},
-    month = sep,
-    year = {2012},
-    pages = {675--690},
-    file = {Full Text PDF:/home/bob/Literature/Zotero/storage/MNDMF5UV/Schwaller - 2012 - The Expansion of Nahuatl as a Lingua Franca among .pdf:application/pdf;Snapshot:/home/bob/Literature/Zotero/storage/N499J9D6/675.html:text/html},
+	title = {The {Expansion} of {Nahuatl} as a {Lingua} {Franca} among {Priests} in {Sixteenth}-{Century} {Mexico}},
+	volume = {59},
+	issn = {0014-1801, 1527-5477},
+	url = {http://ethnohistory.dukejournals.org.ezproxy.its.uu.se/content/59/4/675},
+	doi = {10.1215/00141801-1642707},
+	abstract = {This article examines the practice of ordaining young men because of their personal language ability, a process referred to as an ordination a título de lengua. As a result of reforms codified by the Catholic Church in the Council of Trent, prospective priests were required to support themselves without assistance from the Church, a requirement called a title. This requirement was satisfied if an ordinand enjoyed a benefice or a chantry. Because of the need to have as many priests who knew native languages as possible, the crown ordered that the ability to speak a native language could be used in lieu of a title. Starting in the 1560s the bishops of Mexico began to keep track of clergy according to their ability to speak a native language. When the system of oposiciones (competitive placement exams) began in the 1580s, candidates for benefices would be tested on their language ability. This article traces the development of a bilingual secular clergy in order to evaluate whether royal officials responded to the widespread use of Nahuatl at the time of contact or whether those same officials encouraged the spread of Nahuatl through their policies.},
+	language = {en},
+	number = {4},
+	urldate = {2017-07-15},
+	journal = {Ethnohistory},
+	author = {Schwaller, John F.},
+	month = sep,
+	year = {2012},
+	pages = {675--690},
+	file = {Full Text PDF:/home/bob/Literature/Zotero/storage/MNDMF5UV/Schwaller - 2012 - The Expansion of Nahuatl as a Lingua Franca among .pdf:application/pdf;Snapshot:/home/bob/Literature/Zotero/storage/N499J9D6/675.html:text/html},
 }
 
 pdf: SchoenenbergerEA2012.pdf
-@inbook{SchoenenbergerEA2012,
-    title={Case marking in child L1 and early child L2 German},
-    author={Manuela Schönenberger and Monika Rothweiler and Franziska Sterner},
-    editor={Kurt Braunmüller and Christoph Gabriel},
-    address={Amsterdam, Netherlands},
-    booktitle={Multilingual individuals and multilingual societies},
-    publisher={John Benjamins Publishing},
-    year={2012},
-    pages={3--21}
+@inbook{SchoenenbergerEA2012, 
+	title={Case marking in child L1 and early child L2 German},
+	author={Manuela Schönenberger and Monika Rothweiler and Franziska Sterner},
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	address={Amsterdam, Netherlands}, 
+	booktitle={Multilingual individuals and multilingual societies},  
+	publisher={John Benjamins Publishing}, 
+	year={2012},
+	pages={3--21}
 }
 
 pdf: shi2015.pdf
@@ -4015,15 +3522,15 @@ year = {2016},
 lastchecked = {2022-09-12}
 }
 
-@inbook{smith2017,
-    title={Tracing the initial diffusion of maize in North America},
-    url={http://dx.doi.org/10.1017/9781316686942.014},
-    DOI={10.1017/9781316686942.014},
-    booktitle={Human Dispersal and Species Movement},
-    publisher={Cambridge University Press},
-    author={Smith, Bruce D.},
-    year={2017},
-    pages={332–348}
+@inbook{BoivinPetragliaCrassard2017,
+	title={Tracing the initial diffusion of maize in North America},
+	url={http://dx.doi.org/10.1017/9781316686942.014},
+	DOI={10.1017/9781316686942.014},
+	booktitle={Human Dispersal and Species Movement},
+	publisher={Cambridge University Press},
+	author={Smith, Bruce D.},
+	year={2017},
+	pages={332–348}
 }
 
 @INCOLLECTION{SmithEA2017,
@@ -4053,21 +3560,6 @@ pdf: SpinnerJuffs2008.pdf
     journal = {{IRAL} - International Review of Applied Linguistics in Language Teaching}
 }
 
-@ARTICLE{spores1993,
-  AUTHOR = {Spores, Ronald},
-  LANGUAGE = {en},
-  URL = {http://www.journals.cambridge.org/abstract_S0956536100000845},
-  DATE = {1993-03},
-  DOI = {10.1017/S0956536100000845},
-  ISSN = {0956-5361, 1469-1787},
-  JOURNALTITLE = {Ancient Mesoamerica},
-  NUMBER = {01},
-  PAGES = {167--174},
-  TITLE = {Tututepec},
-  URLDATE = {2018-01-10},
-  VOLUME = {4},
-}
-
 @incollection{staples2011,
     title={Una educación en desventaja : el México indígena (1821-1854)},
     author={Staples, Anne},
@@ -4091,13 +3583,13 @@ year = {1977},
 doi = {10.2190/RKRQ-WV6E-DV53-VATT},
     note ={PMID: 914401},
 
-URL = {
+URL = { 
         https://doi.org/10.2190/RKRQ-WV6E-DV53-VATT
-
+    
 },
-eprint = {
+eprint = { 
         https://doi.org/10.2190/RKRQ-WV6E-DV53-VATT
-
+    
 }
 ,
     abstract = { The concept of disease causation has changed twice, first from natural to social determining factors, and, second, from determination by social conditions to determination by stressful social relations. These changes roughly parallel the emergence of industrial capital and its change from a highly individualistic and competitive process to a “social” process. In this article, “epidemics” are treated as social events that occur amidst these changes in disease and the economic organization of society.Nineteenth-century epidemics occurred when business attempted to solve its economic problems by creating dramatic gaps between the social needs of an expanding labor force and available goods and services. The coincidence of periodic crises in production and in health ensured that “epidemics” would be occasions for labor to struggle against injustice, not simply sickness. And workers demonstrated a capacity for self-organization during epidemics that forced municipal authorities to reform fundamentally their organization of work, the market, and social service.After 1900, “reform” was a permanent part of capital's developmental strategy. The new “social” capitalist sought to organize work politically, far beyond the factory, and to extract “value” not from blue-collar workers alone but from all social activity.These developments reduced mortality due to infectious and childhood disease. But they also created the new epidemics of chronic stress. Despite the mystification of social etiology by medicine, the identity of the disease process with more general means of social reproduction indicates that illness is now “endopolic,” the product not of nature but of historically specific political and economic decisions and processes. }
@@ -4130,40 +3622,40 @@ pages = {86--123}
 }
 
 @inbook{StolzStolz2001,
-    title={110. Mesoamerica as a linguistic area},
-    url={http://dx.doi.org/10.1515/9783110194265-047},
-    DOI={10.1515/9783110194265-047},
-    booktitle={Language Typology and Language Universals},
-    publisher={De Gruyter},
-    author={Stolz, Christel and Stolz, Thomas},
-    year={2001},
-    pages={1539–1553}
+	title={110. Mesoamerica as a linguistic area},
+	url={http://dx.doi.org/10.1515/9783110194265-047},
+	DOI={10.1515/9783110194265-047},
+	booktitle={Language Typology and Language Universals},
+	publisher={De Gruyter},
+	author={Stolz, Christel and Stolz, Thomas},
+	year={2001},
+	pages={1539–1553}
 }
 
 @article{Stolz2018,
-    title={On classifiers and their absence in Classical and Colonial Nahuatl},
-    volume={71},
-    ISSN={2196-7148},
-    url={http://dx.doi.org/10.1515/stuf-2018-0015},
-    DOI={10.1515/stuf-2018-0015},
-    number={3},
-    journal={STUF - Language Typology and Universals},
-    publisher={Walter de Gruyter GmbH},
-    author={Stolz, Thomas},
-    year={2018},
-    pages={339–396}
+	title={On classifiers and their absence in Classical and Colonial Nahuatl},
+	volume={71},
+	ISSN={2196-7148},
+	url={http://dx.doi.org/10.1515/stuf-2018-0015},
+	DOI={10.1515/stuf-2018-0015},
+	number={3},
+	journal={STUF - Language Typology and Universals},
+	publisher={Walter de Gruyter GmbH},
+	author={Stolz, Thomas},
+	year={2018},
+	pages={339–396}
  }
 
 pdf: StoehrEA2012.pdf
-@inbook{StoehrEA2012,
-    title={Gender marking in L2 learners and Italian-German bilinguals with German as the weaker language},
-    author={Antje Stöhr and Deniz Akpinar and Giulia Bianchi and Tanja Kupisch},
-    editor={Kurt Braunmüller and Christoph Gabriel},
-    address={Amsterdam, Netherlands},
-    booktitle={Multilingual individuals and multilingual societies},
-    publisher={John Benjamins Publishing},
-    year={2012},
-    pages={153--169}
+@inbook{StoehrEA2012, 
+	title={Gender marking in L2 learners and Italian-German bilinguals with German as the weaker language},
+	author={Antje Stöhr and Deniz Akpinar and Giulia Bianchi and Tanja Kupisch},
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	address={Amsterdam, Netherlands}, 
+	booktitle={Multilingual individuals and multilingual societies},  
+	publisher={John Benjamins Publishing}, 
+	year={2012},
+	pages={153--169}
 }
 
 @BOOK{SullivanEA2016,
@@ -4198,7 +3690,7 @@ pdf: StoehrEA2012.pdf
   VOLUME = {15},
 }
 
-@ARTICLE{lastradeSuarez1974,
+@ARTICLE{lastraDeSuarez1974,
   AUTHOR = {Lastra de Suárez, Yolanda},
   DATE = {1974},
   JOURNALTITLE = {Anales de Antropología},
@@ -4207,7 +3699,7 @@ pdf: StoehrEA2012.pdf
   VOLUME = {11},
 }
 
-@BOOK{lastradeSuarez1986,
+@BOOK{lastraDeSuarez1986,
   AUTHOR = {Lastra de Suárez, Yolanda},
   LOCATION = {Mexico},
   PUBLISHER = {UNAM},
@@ -4240,37 +3732,13 @@ pdf: SzagunEA2007.pdf
   journal = {Journal of Child Language}
 }
 
-@INCOLLECTION{sztompka2004,
-  AUTHOR = {Sztompka, Piotr},
-  EDITOR = {Alexander, Jeffrey C.},
-  LOCATION = {Berkeley, Calif},
-  PUBLISHER = {University of California Press},
-  BOOKTITLE = {Cultural trauma and collective identity},
-  DATE = {2004},
-  ISBN = {978-0-520-23594-6 978-0-520-23595-3},
-  KEYWORDS = {Crises,Psychic trauma,Psychological aspects,Social aspects,Social problems},
-  PAGES = {155--195},
-  TITLE = {The trauma of change: a case of postcomunist societies},
-}
-
-@INCOLLECTION{TajfelTurner1979,
-  AUTHOR = {Tajfel, H. and Turner, J.},
-  EDITOR = {Austin, W.G. and Worchel, S.},
-  BOOKTITLE = {Organizational identity: {A} reader},
-  DATE = {1979},
-  PAGES = {56--65},
-  TITLE = {An integrative theory of intergroup conflict},
-}
-
-@incollection{telles2014,
+@book{telles2014,
     ISBN = {9781469617831},
     URL = {http://www.jstor.org/stable/10.5149/9781469617848_telles},
-    title={The Different Faces of Mestizaje: Ethnicity and Race in Mexico},
-    editor={Martínez Casas, Regina and Saldívar, Emiko and Flores, René D. and Sue, Christina A.},
-    pages={36--80},
+    abstract = {Pigmentocracies--the fruit of the multiyear Project on Ethnicity and Race in Latin America (PERLA)--is a richly revealing analysis of contemporary attitudes toward ethnicity and race in Brazil, Colombia, Mexico, and Peru, four of Latin America's most populous nations. Based on extensive, original sociological and anthropological data generated by PERLA, this landmark study analyzes ethnoracial classification, inequality, and discrimination, as well as public opinion about Afro-descended and indigenous social movements and policies that foster greater social inclusiveness, all set within an ethnoracial history of each country. A once-in-a-generation examination of contemporary ethnicity, this book promises to contribute in significant ways to policymaking and public opinion in Latin America.Edward Telles, PERLA's principal investigator, explains that profound historical and political forces, including multiculturalism, have helped to shape the formation of ethnic identities and the nature of social relations within and across nations. One ofPigmentocracies's many important conclusions is that unequal social and economic status is at least as much a function of skin color as of ethnoracial identification. Investigators also found high rates of discrimination by color and ethnicity widely reported by both targetsandwitnesses. Still, substantial support across countries was found for multicultural-affirmative policies--a notable result given that in much of modern Latin America race and ethnicity have been downplayed or ignored as key factors despite their importance for earlier nation-building.},
     author = {Edward Telles},
     publisher = {University of North Carolina Press},
-    booktitle = {Pigmentocracies: Ethnicity, Race, and Color in Latin America},
+    title = {Pigmentocracies: Ethnicity, Race, and Color in Latin America},
     year = {2014}
 }
 
@@ -4291,11 +3759,11 @@ pdf: SzagunEA2007.pdf
 }
 
 @book{ThomasonKaufmann1988,
-    address = {Berkely},
-    title = {Language {Contact}, {Creolization} and {Genetic} linguistics},
-    publisher = {University of California Press},
-    author = {Thomason, Sarah and Terrance Kaufmann},
-    year = {1988},
+	address = {Berkely},
+	title = {Language {Contact}, {Creolization} and {Genetic} linguistics},
+	publisher = {University of California Press},
+	author = {Thomason, Sarah and Terrance Kaufmann},
+	year = {1988},
 }
 
 @BOOK{thomason2001,
@@ -4304,18 +3772,6 @@ pdf: SzagunEA2007.pdf
   PUBLISHER = {Edingurgh University Press},
   DATE = {2001},
   TITLE = {Language {Contact}},
-}
-
-@BOOK{ThomasonKaufman1988,
-  ABSTRACT = {Ten years of research back up the bold new theory advanced by authors Thomason and Kaufman, who rescue the study of contact-induced language change from the neglect it has suffered in recent decades. The authors establish an important new framework for the historical analysis of all degrees of contact-induced language change.},
-  AUTHOR = {Thomason, Sarah Grey and Kaufman, Terrence},
-  LANGUAGE = {en},
-  PUBLISHER = {University of California Press},
-  DATE = {1988},
-  ISBN = {978-0-520-91279-3},
-  KEYWORDS = {Literary Criticism / Semiotics \& Theory},
-  NOTE = {Google-Books-ID: b\_6OMfZ1QpUC},
-  TITLE = {Language {Contact}, {Creolization}, and {Genetic} {Linguistics}},
 }
 
 @inproceedings{TomasEa2008,
@@ -4341,53 +3797,42 @@ isbn = {9783110813388},
 year = {1974}
 }
 
-@BOOK{townsend2016,
-  AUTHOR = {Townsend, Camilla},
-  LOCATION = {New York, NY},
-  PUBLISHER = {Oxford University Press},
-  DATE = {2016},
-  ISBN = {978-0-19-062899-4},
-  KEYWORDS = {Antiquities,Conquest,1519-1540,History,History Authorship,Indians of Mexico,Mexico,Nahuas,Nahuatl language,Nahuatl literature,To 1519},
-  SHORTTITLE = {Annals of {Native} {America}},
-  TITLE = {Annals of {Native} {America}: how the {Nahuas} of colonial {Mexico} kept their history alive},
-}
-
 @article{tenorio1996,
-    title={1910 Mexico City: Space and Nation in the City of the Centenario},
-    volume={28},
-    ISSN={1469-767X},
-    url={http://dx.doi.org/10.1017/s0022216x00012645},
-    DOI={10.1017/s0022216x00012645},
-    number={1},
-    journal={Journal of Latin American Studies},
-    publisher={Cambridge University Press (CUP)},
-    author={Trillo, Mauricio Tenorio},
-    year={1996},
-    pages={75–-104}
+	title={1910 Mexico City: Space and Nation in the City of the Centenario},
+	volume={28},
+	ISSN={1469-767X},
+	url={http://dx.doi.org/10.1017/s0022216x00012645},
+	DOI={10.1017/s0022216x00012645},
+	number={1},
+	journal={Journal of Latin American Studies},
+	publisher={Cambridge University Press (CUP)},
+	author={Trillo, Mauricio Tenorio},
+	year={1996},
+	pages={75–-104}
 }
 
 @book{vanRooy2020,
-    title={Language or Dialect?: The History of a Conceptual Pair},
-    ISBN={9780191880865},
-    url={http://dx.doi.org/10.1093/oso/9780198845713.001.0001},
-    DOI={10.1093/oso/9780198845713.001.0001},
-    publisher={Oxford University Press},
-    address={Oxford},
-    author={Van Rooy, Raf},
-    year={2020}
+	title={Language or Dialect?: The History of a Conceptual Pair},
+	ISBN={9780191880865},
+	url={http://dx.doi.org/10.1093/oso/9780198845713.001.0001},
+	DOI={10.1093/oso/9780198845713.001.0001},
+	publisher={Oxford University Press},
+	address={Oxford},
+	author={Van Rooy, Raf},
+	year={2020}
 }
 
 @article{gutierezChong2021,
-    title={Jóvenes e interseccionalidad: color de piel, etnia, clase. Zona metropolitana del Valle de México},
-    volume={42},
-    ISSN={0185-4186},
-    url={http://dx.doi.org/10.24201/es.2024v42.e2444},
-    DOI={10.24201/es.2024v42.e2444},
-    journal={Estudios Sociológicos de El Colegio de México},
-    publisher={El Colegio de Mexico, A.C.},
-    author={Villegas Salas, Lilia Irlanda},
-    year={2023},
-    pages={1–6}
+	title={Jóvenes e interseccionalidad: color de piel, etnia, clase. Zona metropolitana del Valle de México},
+	volume={42},
+	ISSN={0185-4186},
+	url={http://dx.doi.org/10.24201/es.2024v42.e2444},
+	DOI={10.24201/es.2024v42.e2444},
+	journal={Estudios Sociológicos de El Colegio de México},
+	publisher={El Colegio de Mexico, A.C.},
+	author={Villegas Salas, Lilia Irlanda},
+	year={2023},
+	pages={1–6}
 }
 
 @article{VoormannGut2008,
@@ -4419,37 +3864,27 @@ year = {2000},
 }
 
 @book{WeinreichLabovHerzog1968,
-    address = {Austin},
-    title = {Empirical foundations for a theory of language change},
-    publisher = {University of Texas Press},
-    author = {Weinreich, Uriel and Labov, William and Herzog, Marvin},
-    year = {1968},
-    note = {OCLC: 2735203},
-}
-
-@BOOK{weinreich1953,
-  AUTHOR = {Weinreich, Uriel},
-  LANGUAGE = {English},
-  LOCATION = {New York},
-  PUBLISHER = {Linguistic Circle of New York},
-  DATE = {1953},
-  NOTE = {OCLC: 1438579},
-  TITLE = {Languages in contact, findings and problems.},
+	address = {Austin},
+	title = {Empirical foundations for a theory of language change},
+	publisher = {University of Texas Press},
+	author = {Weinreich, Uriel and Labov, William and Herzog, Marvin},
+	year = {1968},
+	note = {OCLC: 2735203},
 }
 
 @article{WheelerWhiteley2015,
-    title={Historical linguistics as a sequence optimization problem: the evolution and biogeography of {U}to‐{A}ztecan languages},
-    volume={31},
-    ISSN={1096-0031},
-    url={http://dx.doi.org/10.1111/cla.12078},
-    DOI={10.1111/cla.12078},
-    number={2},
-    journal={Cladistics},
-    publisher={Wiley},
-    author={Wheeler, Ward C. and Whiteley, Peter M.},
-    year={2015},
-    month=may,
-    pages={113–125}
+	title={Historical linguistics as a sequence optimization problem: the evolution and biogeography of {U}to‐{A}ztecan languages},
+	volume={31},
+	ISSN={1096-0031},
+	url={http://dx.doi.org/10.1111/cla.12078},
+	DOI={10.1111/cla.12078},
+	number={2},
+	journal={Cladistics},
+	publisher={Wiley},
+	author={Wheeler, Ward C. and Whiteley, Peter M.},
+	year={2015},
+	month=may,
+	pages={113–125}
 }
 
 pdf: wicherkiewicz2003.pdf
@@ -4465,26 +3900,26 @@ pdf: wicherkiewicz2003.pdf
 }
 
 @inbook{WicherkiewiczOlko2016,
-    author={Tomasz Wicherkiewicz and Justyna Olko},
-    title={Researching, Documenting, and Reviving Wymysiöeryś: a historical outline},
-    booktitle={Integral Strategies for Language Revitalization},
-    editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
-    publisher={University of Warsaw Press},
-    address={Warsaw},
-    pages={17--54},
-    year={2016}
+	author={Tomasz Wicherkiewicz and Justyna Olko},
+	title={Researching, Documenting, and Reviving Wymysiöeryś: a historical outline},
+	booktitle={Integral Strategies for Language Revitalization},
+	editor={Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
+	publisher={University of Warsaw Press},
+	address={Warsaw},
+	pages={17--54},
+	year={2016}
 }
 
-@article{WicherkiewiczKrolOlko2018,
-    title={Awakening the Language and Speakers’ Community of Wymysiöeryś},
-    volume={26},
-    DOI={10.1017/S1062798717000424},
-    number={1},
-    journal={European Review},
-    publisher={Cambridge University Press},
-    author={Tomasz Wicherkiewicz and Tymoteusz Król and Justyna Olko},
-    year={2018},
-    pages={179–191}
+@article{WicherkiewiczKrolOlko2018, 
+	title={Awakening the Language and Speakers’ Community of Wymysiöeryś}, 
+	volume={26}, 
+	DOI={10.1017/S1062798717000424}, 
+	number={1}, 
+	journal={European Review}, 
+	publisher={Cambridge University Press}, 
+	author={Tomasz Wicherkiewicz and Tymoteusz Król and Justyna Olko}, 
+	year={2018}, 
+	pages={179–191}
 }
 
 @incollection{WillisSchaieMartin2009,
@@ -4498,13 +3933,13 @@ doi = {10.5167/uzh-18577}
 }
 
 @book{winford2003,
-    title = {An {Introduction} to {Contact} {Linguistics}},
-    isbn = {978-0-631-21251-5},
-    abstract = {This book is a comprehensive introduction to the study of language contact and its outcomes, as well as the social and linguistic factors involved. Provides a comprehensive introduction to the field of contact linguistics. Examines a wide range of language contact phenomena from both general linguistic and sociolinguistic perspectives. Offers an account of current approaches to all of the major types of contact-induced change. Discusses the general processes and principles that are at work in cases of contact.},
-    publisher = {Wiley},
-    author = {Winford, Donald},
-    year = {2003},
-    keywords = {Language Arts \& Disciplines / General, Language Arts \& Disciplines / Linguistics / General},
+	title = {An {Introduction} to {Contact} {Linguistics}},
+	isbn = {978-0-631-21251-5},
+	abstract = {This book is a comprehensive introduction to the study of language contact and its outcomes, as well as the social and linguistic factors involved. Provides a comprehensive introduction to the field of contact linguistics. Examines a wide range of language contact phenomena from both general linguistic and sociolinguistic perspectives. Offers an account of current approaches to all of the major types of contact-induced change. Discusses the general processes and principles that are at work in cases of contact.},
+	publisher = {Wiley},
+	author = {Winford, Donald},
+	year = {2003},
+	keywords = {Language Arts \& Disciplines / General, Language Arts \& Disciplines / Linguistics / General},
 }
 
 @BOOK{wolgemuth2002,
@@ -4539,7 +3974,7 @@ doi = {10.5167/uzh-18577}
   TITLE = {On the linguistic consequences of language contact in {Suriname}: the case of convergence},
 }
 
-@article{yannakakis2022,
+@article{Yannakakis_2022,
     title={Taking the Courts to the Fields: Law, Violence, and Agrarian Custom in Colonial Oaxaca, Mexico},
     volume={40},
     ISSN={1939-9022},
@@ -4562,12 +3997,12 @@ pdf: YanoKang2008.pdf
 }
 
 @book{vanYoung2001,
-    title={The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821},
-    publisher={Stanford University Press},
-    address={Stanford},
-    author={van Young, Eric},
-    year={2001},
-    pages={151–153}
+	title={The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821},
+	publisher={Stanford University Press},
+	address={Stanford},
+	author={van Young, Eric},
+	year={2001},
+	pages={151–153}
 }
 
 @inbook{zernack2008,
@@ -4583,80 +4018,61 @@ pdf: YanoKang2008.pdf
 }
 
 @inbook{zak2016,
-    author={Andrzej Żak},
-    title={The Influence of the Polish Language upon Wymysorys in Light of the Revitalization Process},
-    booktitle={Integral Strategies for Language Revitalization},
-    editor = {Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
-    year={2016},
-    publisher={University of Warsaw Press},
-    address={Warsaw},
-    pages={131--150}
+	author={Andrzej Żak},
+	title={The Influence of the Polish Language upon Wymysorys in Light of the Revitalization Process},
+	booktitle={Integral Strategies for Language Revitalization},
+	editor = {Justyna Olko and Tomasz Wicherkiewicz and Robert Borges},
+	year={2016},
+	publisher={University of Warsaw Press},
+	address={Warsaw},
+	pages={131--150}
 }
 
 @book{sullivan1987,
-    address = {México},
-    edition = {1. ed},
-    series = {Serie antropológica},
-    title = {Documentos tlaxcaltecas del siglo {XVI} en lengua náhuatl},
-    isbn = {978-968-837-958-5},
-    number = {55},
-    publisher = {Universidad Nacional Autónoma de México},
-    editor = {Sullivan, Thelma D.},
-    year = {1987},
+	address = {México},
+	edition = {1. ed},
+	series = {Serie antropológica},
+	title = {Documentos tlaxcaltecas del siglo {XVI} en lengua náhuatl},
+	isbn = {978-968-837-958-5},
+	number = {55},
+	publisher = {Universidad Nacional Autónoma de México},
+	editor = {Sullivan, Thelma D.},
+	year = {1987},
 }
 
 pdf: UnterbeckEA2000.pdf
 @book{UnterbeckEA2000,
-    url = {https://doi.org/10.1515/9783110802603},
-    title = {Gender in Grammar and Cognition},
-    title = {I: Approaches to Gender. II: Manifestations of Gender},
-    editor = {Barbara Unterbeck and Matti Rissanen and Terttu Nevalainen and Mirja Saari},
-    publisher = {De Gruyter Mouton},
-    address = {Berlin, New York},
-    doi = {doi:10.1515/9783110802603},
-    isbn = {9783110802603},
-    year = {2000}
+	url = {https://doi.org/10.1515/9783110802603},
+	title = {Gender in Grammar and Cognition},
+	title = {I: Approaches to Gender. II: Manifestations of Gender},
+	editor = {Barbara Unterbeck and Matti Rissanen and Terttu Nevalainen and Mirja Saari},
+	publisher = {De Gruyter Mouton},
+	address = {Berlin, New York},
+	doi = {doi:10.1515/9783110802603},
+	isbn = {9783110802603},
+	year = {2000}
 }
 
 pdf: shopen2007_3.pdf
-@book{shopen2007_3,
-    place={Cambridge},
-    edition={2},
-    title={Language Typology and Syntactic Description},
-    volume={3},
-    DOI={10.1017/CBO9780511618437},
-    publisher={Cambridge University Press},
-    year={2007},
-    editor={Tomothy Shopen}
-}
-
-@incollection{acevedoRodrigo2011,
-    title={La ignorada cuestión del idioma : educación en los pueblos indígenas de Puebla, México (1876-1930)},
-    authoe={Acevedo Rodrigo, Ariadna},
-    booktitle={Grupos marginados de la educación (siglos XIX y XX)},
-    location={Ciudad de México},
-    publisher={Bonilla Artigas Editores},
-    year=2011,
-    editor={Alvarado, María de Lourdes and Ríos Zúñiga, Rosalina}
+@book{shopen2007_3, 
+	place={Cambridge}, 
+	edition={2}, 
+	title={Language Typology and Syntactic Description}, 
+	volume={3}, 
+	DOI={10.1017/CBO9780511618437}, 
+	publisher={Cambridge University Press}, 
+	year={2007},
+	editor={Tomothy Shopen}
 }
 
 pdf: BraunmuellerGabriel2012.pdf
-@book{BraunmuellerGabriel2012,
-    address={Amsterdam, Netherlands},
-    title={Multilingual individuals and multilingual societies},
-    editor={Kurt Braunmüller and Christoph Gabriel},
-    ISBN={9789027219336},
-    publisher={John Benjamins Publishing},
-    year={2012}
-}
-
-@article{CabreNazar2012,
-    auhor={Cabré, M. T. and Nazar, R.},
-    year={2012},
-    title = {Towards a new approach to the study of neology},
-    journal={Neologica: Revue internationale de néologie},
-    issue=6,
-    pages={63--80}
+@book{BraunmuellerGabriel2012, 
+	address={Amsterdam, Netherlands}, 
+	title={Multilingual individuals and multilingual societies}, 
+	editor={Kurt Braunmüller and Christoph Gabriel},
+	ISBN={9789027219336}, 
+	publisher={John Benjamins Publishing}, 
+	year={2012} 
 }
 
 pdf: GeeHanford2013eds.pdf
@@ -4715,38 +4131,5 @@ pdf: GeeHanford2013eds.pdf
   SERIES = {Studies in emotion and social interaction},
   SHORTTITLE = {Contexts of accommodation},
   TITLE = {Contexts of accommodation: developments in applied sociolinguistics},
-}
-
-@BOOK{berdam1996,
-  ABSTRACT = {"Based on a ten-week working seminar in 1986, offers new interpretations of the extent, organization, and imperial strategies of the Aztec empire. Analyzes data from the major chroniclers and from individual towns and places throughout the empire. Information obtained from early colonial Spanish administrative documents and archaeology is presented in appendices"--Handbook of Latin American Studies, v. 57},
-  EDITOR = {Berdan, Frances},
-  LOCATION = {Washington, D.C},
-  PUBLISHER = {Dumbarton Oaks Research Library and Collection},
-  DATE = {1996},
-  ISBN = {978-0-88402-211-4},
-  KEYWORDS = {Antiquities,Aztecs,Commerce,Government relations,Mexico,Politics and government},
-  TITLE = {Aztec imperial strategies},
-}
-
-@BOOK{GilesEA1977,
-  EDITOR = {Giles, Howard},
-  LOCATION = {London ; New York},
-  PUBLISHER = {Academic Press},
-  DATE = {1977},
-  ISBN = {978-0-12-283740-1},
-  KEYWORDS = {Ethnic groups,Ethnicity,Race relations,Sociolinguistics},
-  SERIES = {European monographs in social psychology ; no. 13},
-  TITLE = {Language, ethnicity, and intergroup relations},
-}
-
-@BOOK{auer1998,
-  EDITOR = {Auer, Peter},
-  LOCATION = {London ; New York},
-  PUBLISHER = {Routledge},
-  DATE = {1998},
-  ISBN = {978-0-415-15831-2},
-  KEYWORDS = {Bilingualism,Code switching (Linguistics),Conversation analysis,Discourse analysis},
-  SHORTTITLE = {Code-switching in conversation},
-  TITLE = {Code-switching in conversation: language, interaction and identity},
 }
 

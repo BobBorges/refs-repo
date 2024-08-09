@@ -1,0 +1,25 @@
+* FigueroaSaavaderaEA2023
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{FigueroaSaavaderaEA2023,
+    author={Figueroa Saavedra, Miguel and Martinez, Jose and Sandoval, Carlos and Dietz, Gunther and Lorenzo, Daisy and Vite, Rafael and Torres, Jacinta and Melo, Jaime and Martínez, Jesús},
+    year=2023,
+    title ={In nawatlahtolli ipan interkoltoral tlamachtilistli itech},
+    location={Veracruz},
+    publisher = {Owihkayotl iwan chikawakayotl}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

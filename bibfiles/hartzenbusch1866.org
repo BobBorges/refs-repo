@@ -1,0 +1,25 @@
+* hartzenbusch1866
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{hartzenbusch1866,
+  title={Comedias escogidas de fray Gabriel Tellez (el maestro Tirso de Molina): juntas en coleccion {\'e} ilustradas},
+  author={Hartzenbusch, J.E.},
+  series={Biblioteca de autores espa{\~n}oles},
+  year={1866},
+  publisher={Impr. da la Publicidad, {\'a} cargo de M. Rivadeneyra}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

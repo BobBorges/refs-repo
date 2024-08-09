@@ -1,0 +1,31 @@
+* sztompka2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@INCOLLECTION{sztompka2004,
+  AUTHOR = {Sztompka, Piotr},
+  EDITOR = {Alexander, Jeffrey C.},
+  LOCATION = {Berkeley, Calif},
+  PUBLISHER = {University of California Press},
+  BOOKTITLE = {Cultural trauma and collective identity},
+  DATE = {2004},
+  ISBN = {978-0-520-23594-6 978-0-520-23595-3},
+  KEYWORDS = {Crises,Psychic trauma,Psychological aspects,Social aspects,Social problems},
+  PAGES = {155--195},
+  TITLE = {The trauma of change: a case of postcomunist societies},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

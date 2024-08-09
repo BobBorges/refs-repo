@@ -1,0 +1,27 @@
+* granicka2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@phdthesis{granicka2018,
+    type={DoctoralThesis},
+    title={Confronting Cultural Difference. The 1548 Doctrina as a vehicle for contact-induced change in Nahua language and culture},
+    url={https://repozytorium.uw.edu.pl//handle/item/2724},
+    abstractNote={Niniejsza rozprawa rozprawa poświęcona jest opublikowanej w 1548 roku Doctrina Christiana en Lengua Española y Mexicana, przygotowanej przez Dominikanów na potrzeby chrystianizacji Indian Nahua. Jest to jedno z najwcześniejszych źródeł religijnych drukowanych w nahuatl (poprzedzone jedynie krótkim katechizmem z 1546), zdecydowanie bardziej obszerne od innych tekstów religijnych powstałych w podobnym okresie. Dwie cechy wyróżniają tę Doctrinę szczególnie. Po pierwsze zawiera ona bardzo szczegółowe wyjaśnienia dotyczące wiary chrześcijańskiej, co pozwoliło prześledzić, jakiej argumentacji i jakiego dyskursu używali misjonarze, aby nawracać Indian. Po drugie – Doctrina Christiana jest dwujęzyczna, powstała jako tłumaczenie tekstu hiszpańskiego na nahuatl i oba odpowiadające sobie teksty umieszczone są w niej w dwóch kolumnach. To umożliwiło zbadanie, w jaki sposób autorzy nahuatlańskiej wersji tekstu wybierali, a czasem także i tworzyli słownictwo konieczne do przetłumaczenia terminologii opisującej chrześcijańskie koncepty, jak go używali, w jaki sposób tłumaczenie służyło celom chrystianizacji.},
+    author={Granicka, Katarzyna},
+    year={2018},
+    language={pl}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

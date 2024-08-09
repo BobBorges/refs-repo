@@ -1,0 +1,26 @@
+* myers-Scotton1998
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{myers-Scotton1998,
+  AUTHOR = {Myers-Scotton, C.},
+  LOCATION = {Oxford},
+  PUBLISHER = {Oxford University Press},
+  DATE = {1998},
+  TITLE = {Codes and {Consequences}: {Choosing} {Linguistic} {Varieties}},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

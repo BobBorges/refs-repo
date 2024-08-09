@@ -1,0 +1,27 @@
+* navaVite2015
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{navaVite2015,
+    author={Nava Vite, Rafael},
+    title={Desafíos de la educación intercultural: el caso de la sierra de Zongolica}, i
+    editor={Gonzáles-Hernández, María de los Ángeles and Domínguez-Basurto, Maribel and García-Durán, Atanasio},
+    booktitle={Educación Ambiental desde la Innovación, la Transdisciplinariedad e Interculturalidad, Tópicos Selectos de Educación Ambiental},
+    publisher={ECORFAN},
+    location={Veracruz},
+    year=2015
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

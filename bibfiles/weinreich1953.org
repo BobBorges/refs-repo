@@ -1,0 +1,28 @@
+* weinreich1953
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{weinreich1953,
+  AUTHOR = {Weinreich, Uriel},
+  LANGUAGE = {English},
+  LOCATION = {New York},
+  PUBLISHER = {Linguistic Circle of New York},
+  DATE = {1953},
+  NOTE = {OCLC: 1438579},
+  TITLE = {Languages in contact, findings and problems.},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

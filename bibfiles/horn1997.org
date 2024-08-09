@@ -1,0 +1,29 @@
+* horn1997
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{horn1997,
+  AUTHOR = {Horn, Rebecca},
+  LOCATION = {Stanford, Calif},
+  PUBLISHER = {Stanford University Press},
+  DATE = {1997},
+  ISBN = {978-0-8047-2773-0},
+  KEYWORDS = {Coyoacán (Mexico City,Mexico),Ethnic relations,Government relations,History,Mexico City (Mexico),Mexico Mexico City,Nahuas},
+  SHORTTITLE = {Postconquest {Coyoacan}},
+  TITLE = {Postconquest {Coyoacan}: {Nahua}-{Spanish} relations in {Central} {Mexico}, 1519-1650},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

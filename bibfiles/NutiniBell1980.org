@@ -1,0 +1,28 @@
+* NutiniBell1980
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{NutiniBell1980,
+  AUTHOR = {Nutini, Hugo G. and Bell, Betty},
+  LOCATION = {Princeton, N.J},
+  PUBLISHER = {Princeton University Press},
+  DATE = {1980},
+  ISBN = {978-0-691-09382-6 978-0-691-07649-2 978-0-691-09383-3 978-0-691-10144-6},
+  KEYWORDS = {Indians of Mexico,Kinship,Mexico Tlaxcala (State),Nahuas,Social life and customs,Sponsors,Tlaxcala (Mexico : State)},
+  TITLE = {Ritual kinship},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

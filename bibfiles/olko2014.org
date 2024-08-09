@@ -1,0 +1,30 @@
+* olko2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{olko2014,
+  ABSTRACT = {"This significant work reconstructs the repertory of insignia of rank and the contexts and symbolic meanings of their use, along with their original terminology, among the Nahuatl-speaking communities of Mesoamerica from the fifteenth through the seventeenth centuries. Attributes of rank carried profound symbolic meaning, encoding subtle messages about political and social status, ethnic and gender identity, regional origin, individual and community history, and claims to privilege.Olko engages with and builds upon extensive worldwide scholarship and skillfully illuminates this complex topic, creating a vital contribution to the fields of pre-Columbian and colonial Mexican studies. It is the first book to integrate pre- and post-contact perspectives, uniting concepts and epochs usually studied separately. A wealth of illustrations accompanies the contextual analysis and provides essential depth to this critical work. Insignia of Rank in the Nahua World substantially expands and elaborates on the themes of Olko's Turquoise Diadems and Staffs of Office, originally published in Poland and never released in North America"--},
+  AUTHOR = {Olko, Justyna},
+  LOCATION = {Boulder},
+  PUBLISHER = {University Press of Colorado},
+  DATE = {2014},
+  ISBN = {978-1-60732-240-5},
+  KEYWORDS = {Aztecs,Clothing,Clothing and dress,Jewelry,Mexico,SOCIAL SCIENCE / Anthropology / General,Symbolic aspects},
+  SHORTTITLE = {Insignia of rank in the {Nahua} world},
+  TITLE = {Insignia of rank in the {Nahua} world: from the fifteenth to the seventeenth century},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

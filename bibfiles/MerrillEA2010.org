@@ -1,0 +1,29 @@
+* MerrillEA2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{MerrillEA2010,
+    title={Reply to Hill and Brown: Maize and Uto-Aztecan cultural history},
+    volume={107},
+    ISSN={1091-6490},
+    url={http://dx.doi.org/10.1073/pnas.1000923107},
+    DOI={10.1073/pnas.1000923107},
+    number={11},
+    journal={Proceedings of the National Academy of Sciences}, author={Merrill, William L. and Hard, Robert J. and Mabry, Jonathan B. and Fritz, Gayle J. and Adams, Karen R. and Roney, John R. and MacWilliams, A. C.},
+    year={2010}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

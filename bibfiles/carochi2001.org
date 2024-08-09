@@ -1,0 +1,32 @@
+* carochi2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{carochi2001,
+  AUTHOR = {Carochi, Horacio},
+  TRANSLATOR = {Lockhart, James},
+  LANGUAGE = {eng spa},
+  LOCATION = {Stanford, Calif. : Cambridge},
+  PUBLISHER = {Stanford University Press ; Cambridge University Press},
+  DATE = {2001},
+  ISBN = {978-0-8047-4281-8},
+  KEYWORDS = {Nahuatl language: Grammar,Nahuatl language: Adverbs},
+  NUMBER = {7},
+  SERIES = {Nahuatl studies series},
+  TITLE = {Grammar of the {Mexican} language with an explanation of its adverbs (1645)},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

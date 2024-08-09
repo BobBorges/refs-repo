@@ -1,0 +1,26 @@
+* pecheco2005
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{pacheco2005,
+  title={Tierras de indios, tierras de espa{\~n}oles: confirmaci{\'o}n y composici{\'o}n de tierras y aguas en la jurisdicci{\'o}n de Cholula (siglos XVI-XVIII)},
+  author={Pacheco, M.C.T.},
+  isbn={9789688595886},
+  series={Colecci{\'o}n el pasado del presente},
+  year={2005},
+  publisher={Universidad Iberoamericana, Departamento de Historia}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,27 @@
+* acevedoRodrigo2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{acevedoRodrigo2011,
+    title={La ignorada cuestión del idioma : educación en los pueblos indígenas de Puebla, México (1876-1930)},
+    authoe={Acevedo Rodrigo, Ariadna},
+    booktitle={Grupos marginados de la educación (siglos XIX y XX)},
+    location={Ciudad de México},
+    publisher={Bonilla Artigas Editores},
+    year=2011,
+    editor={Alvarado, María de Lourdes and Ríos Zúñiga, Rosalina}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

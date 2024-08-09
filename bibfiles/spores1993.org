@@ -1,0 +1,33 @@
+* spores1993
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{spores1993,
+  AUTHOR = {Spores, Ronald},
+  LANGUAGE = {en},
+  URL = {http://www.journals.cambridge.org/abstract_S0956536100000845},
+  DATE = {1993-03},
+  DOI = {10.1017/S0956536100000845},
+  ISSN = {0956-5361, 1469-1787},
+  JOURNALTITLE = {Ancient Mesoamerica},
+  NUMBER = {01},
+  PAGES = {167--174},
+  TITLE = {Tututepec},
+  URLDATE = {2018-01-10},
+  VOLUME = {4},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

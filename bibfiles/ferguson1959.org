@@ -1,0 +1,34 @@
+* ferguson1959
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{ferguson1959,
+  AUTHOR = {Ferguson, Charles A.},
+  LANGUAGE = {en},
+  URL = {http://www.tandfonline.com/doi/full/10.1080/00437956.1959.11659702},
+  DATE = {1959-01},
+  DOI = {10.1080/00437956.1959.11659702},
+  FILE = {Ferguson - 1959 - Diglossia.pdf:/home/bob/Literature/Zotero/storage/LCFGFYP3/Ferguson - 1959 - Diglossia.pdf:application/pdf},
+  ISSN = {0043-7956, 2373-5112},
+  JOURNALTITLE = {\textit{WORD}},
+  NUMBER = {2},
+  PAGES = {325--340},
+  TITLE = {Diglossia},
+  URLDATE = {2019-02-07},
+  VOLUME = {15},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

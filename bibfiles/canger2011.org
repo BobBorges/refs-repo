@@ -1,0 +1,32 @@
+* canger2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@ARTICLE{canger2011,
+  AUTHOR = {Canger, Una},
+  LANGUAGE = {Spanish},
+  DATE = {2011},
+  FILE = {26560-51134-1-PB.pdf:/Users/Bob/Documents/Publications/26560-51134-1-PB.pdf:application/pdf},
+  ISSN = {0071-1675},
+  JOURNALTITLE = {ecn Estudios de cultura náhuatl},
+  NOTE = {OCLC: 5728414825},
+  PAGES = {243--258},
+  SHORTTITLE = {El nauatl urbano de {Tlatelolco}/{Tenochtitlan}, resultado de convergencia entre dialectos},
+  TITLE = {El nauatl urbano de {Tlatelolco}/{Tenochtitlan}, resultado de convergencia entre dialectos: {Con} un esbozo brevísimo de la historia de los dialectos},
+  VOLUME = {42},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

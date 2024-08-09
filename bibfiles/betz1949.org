@@ -1,0 +1,25 @@
+* betz1949
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{betz1949,
+  title={Deutsch und Lateinisch: die Lehnbildungen der althochdeutschen Benediktinerregel},
+  author={Betz, W.},
+  year={1949},
+  location={Bonn},
+  publisher={H. Bouvier}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

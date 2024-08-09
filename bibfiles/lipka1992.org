@@ -1,0 +1,24 @@
+* lipka1992
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{lipka1992,
+    title={Lexicalization and institutionalization in English and German},
+    DOI={10.5282/ubm/epub.5105},
+    author={Lipka, Leonhard},
+    year={1992}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,29 @@
+* borah1983
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@BOOK{borah1983,
+  AUTHOR = {Borah, Woodrow Wilson},
+  LOCATION = {Berkeley},
+  PUBLISHER = {University of California Press},
+  DATE = {1983},
+  ISBN = {978-0-520-04845-4},
+  KEYWORDS = {History,Indian courts,Indians of Mexico,Juzgado General de Indios,Legal status,laws,etc. History,Mexico,New Spain},
+  SHORTTITLE = {Justice by insurance},
+  TITLE = {Justice by insurance: the {General} {Indian} {Court} of {Colonial} {Mexico} and the legal aides of the half-real},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+
