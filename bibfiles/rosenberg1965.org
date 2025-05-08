@@ -1,0 +1,25 @@
+* rosenberg1965
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{rosenberg1965,
+  author = {Rosenberg, M.},
+  year = {1965},
+  title = {Society and the adolescent self-image},
+  publisher = {Princeton University Press},
+  address = {Princeton, NJ},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,25 @@
+* nutini1995
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{nutini1995,
+    author = {Nutini, Hugo},
+    year = {1995},
+    title = {The Wages of Conquest: The Mexican Aristocracy in the Context of Western Aristocracies},
+    location = {Ann Arbor},
+    publisher = {University of Michigan Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

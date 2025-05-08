@@ -1,0 +1,28 @@
+* duran1984
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{duran1984,
+  title    = "Historia de las Indias de Nueva Espa{\~n}a e islas de la tierra
+              firme: edici{\'o}n paleogr{\'a}fica del manuscrito aut{\'o}grafo
+              de Madrid, con introducciones, notas y vocabularios de palabras
+              ind{\'\i}genas y arcaicas",
+  author   = "Dur{\'a}n, Diego and Kintana",
+  year     =  1984,
+  publisher = {Editorial Porrúa},
+  isban = {Editorial Porrúa}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

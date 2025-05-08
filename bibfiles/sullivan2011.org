@@ -1,0 +1,26 @@
+* sullivan2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article(sullivan2011,
+    title = {The IDIEZ Project: A Model for Indigenous Language Revitalization in Higher Education},
+    author = {John Sullivan},
+    year = {2011},
+    journal = {Collaborative Anthropologies},
+    volume = {4},
+    pages = {139--153}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

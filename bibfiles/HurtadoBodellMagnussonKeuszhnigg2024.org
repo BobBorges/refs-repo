@@ -1,0 +1,29 @@
+* HurtadoBodellMagnussonKeuszhnigg2024
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{HurtadoBodellMagnussonKeuszhnigg2024,
+      author = {Hurtado Bodell, Miriam and Magnusson, Måns and Keuschnigg, Marc},
+      title = {Seeded Topic Models in Digital Archives: Analyzing Interpretations of Immigration in Swedish Newspapers, 1945–2019},
+      journal = {Sociological Methods & Research},
+      year = {2024},
+      doi = {10.1177/00491241241268453},
+      URL = {http://dx.doi.org/10.1177/00491241241268453},
+      eprint = {http://dx.doi.org/10.1177/00491241241268453},
+      abstract = {Sociologists are discussing the need for more formal ways to extract meaning from digital text archives. We focus attention on the seeded topic model, a semi-supervised extension to the standard topic model that allows sociological knowledge to be infused into the computational learning of meaning structures. Seed words help crystallize topics around known concepts, while utilizing topic models’ functionality to identify associations in text based on word co-occurrences. The method estimates a concept’s shared interpretation (or framing) via its associations with other frequently co-occurring topics. In a case study, we extract longitudinal measures of media frames regarding immigration from a vast corpus of millions of Swedish newspaper articles from the period 1945–2019. We infer turning points that partition the immigration discourse into meaningful eras and locate Sweden’s era of multicultural ideals that coined its tolerant reputation.},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

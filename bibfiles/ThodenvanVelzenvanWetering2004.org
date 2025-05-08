@@ -1,0 +1,27 @@
+* ThodenvanVelzenvanWetering2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Thoden van Velzen, H.U.E. and W. van Wetering, 2004. In the Shadow of the Oracle: Religion as Politics in a Suriname Maroon Society. Illinois, Waveland press.
+@book{ThodenvanVelzenvanWetering2004,
+author = {Thoden van Velzen, H. U. E. and van Wetering, W.},
+year = {2004},
+title = {In the Shadow of the Oracle: Religion as Politics in a Suriname Maroon Society},
+publisher = {Illinois},
+address = {Waveland press},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

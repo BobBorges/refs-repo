@@ -1,0 +1,25 @@
+* SellBurkhart2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{SellBurkhart2004,
+  editor = {Sell, Barry D. and BurkhartLouise},
+  title = {Nahuatl Theater, Volume 1: Death and Life in Colonial Nahua Mexico},
+  year = {2004},
+  publisher = {University of Oklahoma Press},
+  location = {Norman},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

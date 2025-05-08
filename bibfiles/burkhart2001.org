@@ -1,0 +1,25 @@
+* burkhart2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{burkhart2001,
+  author = {Burkhart, Louise},
+  year = {2001},
+  title = {Before Guadalupe. The Virigin Mary in Early Colonial Nahuatl Literature},
+  publisher = {Institute for Mesoamerican Studies, University at Albany},
+  address = {Albany},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

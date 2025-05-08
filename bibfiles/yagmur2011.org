@@ -1,0 +1,27 @@
+* yagmur2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{yagmur2011,
+    title = {Does Ethnolinguistic Vitality Theory account for the actual vitality of ethnic groups? A critical evaluation},
+    year = {2011},
+    author = {Yagmur, Kutlay},
+    journal = {Journal of multilingual and multicultural development},
+    volume = {32},
+    issue = {2},
+    pages = {111--120},
+    doi = {10.1080/01434632.2010.541914}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

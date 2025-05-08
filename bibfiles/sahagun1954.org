@@ -1,0 +1,27 @@
+* sahagun1954
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{sahagun1954,
+  year = {1954},
+  title = {Book 8 - Kings and Lords. Part IX of Dibble},
+  booktitle = {The Florentine Codex: General History of the Things of New Spain. In Thirteen Parts},
+  note = {1950--1969},
+  editor = {Dibble, Charles E. AND Anderson, Arthur J. O.},
+  location = {Santa Fe},
+  publisher = {The School of American Research and the University of Utah}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

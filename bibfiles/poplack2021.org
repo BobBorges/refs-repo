@@ -1,0 +1,28 @@
+* poplack2021
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{poplack2021,
+    title = {A variationist perspective on language contact},
+    year = {2021},
+    author = {Poplack, Shana},
+    editor = {Adamou, Evangelia AND Matras, Yaron},
+    booktitle = {The Routledge Handbook of Language Contact},
+    publisher = {Routledge},
+    pages = {46--62},
+    isbn = {036750040X}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

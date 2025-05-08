@@ -1,0 +1,28 @@
+* navaNava2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{navaNava2016,
+    author = {Nava Nava, Refugio},
+    year = {2016},
+    title = {Retención y revitalización del náhuatl a través del arte},
+    pages = {269--294},
+    editor = {Justyna Olko AND Tomasz Wicherkiewicz AND Robert Borges},
+    booktitle = {Integral Strategies for Language Revitalization},
+    publisher = {Artes Liberales, University of Warsaw},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,27 @@
+* KiddGarcia2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{KiddGarcia2022,
+    title = {Where to from here? Increasing language coverage while building a more diverse discipline},
+    year = {2022},
+    author = {Kidd, Evan AND Garcia, Rowena},
+    journal = {First language},
+    volume = {42},
+    issue = {6},
+    pages = {837--851},
+    doi = {10.1177/01427237221121190}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

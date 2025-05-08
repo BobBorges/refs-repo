@@ -1,0 +1,30 @@
+* martinezCasas2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Martínez Casas, R. (2014). De la resistencia al desplazamiento de las lenguas indígenas en situaciones de migración. En Barriga Villanueva, R. & Martín Butragueño, P. (Coords.). Historia Sociolingüística de México. Tomo III. México, El Colegio de México. pp. 1409-1555
+@incollection{martinezCasas2014,
+author = {Martínez Casas, R.},
+year = {2014},
+title = {De la resistencia al desplazamiento de las lenguas indígenas en situaciones de migración},
+pages = {1409--1555},
+editor = {Villanueva, R. Barriga and Butragueño, P.  Martín },
+publisher = {México},
+address = {El Colegio de México},
+booktitle = {Historia Sociolingüística de México. Tomo III},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

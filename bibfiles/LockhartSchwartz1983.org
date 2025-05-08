@@ -1,0 +1,25 @@
+* LockhartSchwartz1983
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{LockhartSchwartz1983,
+    author = {James Lockhart AND Stuart B. Schwartz},
+    year = {1983},
+    title = {Early Latin America: A History of Colonial Spanish America and Brazil},
+    locatio = {Cambridge},
+    publisher = {Cambridge University Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

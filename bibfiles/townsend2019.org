@@ -1,0 +1,25 @@
+* townsend2019
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{townsend2019,
+    title = {Fifth sun : a new history of the Aztecs},
+    year = {2019},
+    author = {Townsend, Camilla},
+    publisher = {Oxford University Press},
+    location = {New York, New York},
+    isbn = {0190673060}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

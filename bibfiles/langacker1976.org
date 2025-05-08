@@ -1,0 +1,28 @@
+* langacker1976
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{langacker1976,
+  author = {Langacker, Ronald W.},
+  year = {1976},
+  title = {Linguistic significance of the texts},
+  pages = {13--20},
+  editor = {Anderson, Arthur J. O. and Berdan, Frances and Lockhart, James},
+  address = {Berkeley},
+  publisher = {University of California Press:},
+  booktitle = {Beyond the Codices. The Nahua View of Colonial Mexico},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,29 @@
+* berry1970
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{berry1970,
+    doi = {10.1177/135910457000100303},
+    author = {Berry, J. W.},
+    year = {1970},
+    title = {Marginality, stress and ethnic identification in an acculturated aboriginal community},
+    journal = {Journal of Cross-Cultural Psychology},
+    volume = {1},
+    number = {3},
+    pages = {239--252},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

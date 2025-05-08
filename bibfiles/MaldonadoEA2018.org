@@ -1,0 +1,29 @@
+* MaldonadoEA2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{MaldonadoEA2018,
+    doi = {10.1037/cdp0000177},
+    author = {Maldonado, A. and Preciado, A. and Buchanan, M. and Pulvers, K. and Romero, D. and D'Anna-Hernandez, K.},
+    year = {2018},
+    title = {Acculturative stress, mental health symptoms, and the role of salivary inflammatory markers among a Latino sample},
+    journal = {Cultural Diversity and Ethnic Minority Psychology},
+    volume = {24},
+    number = {2},
+    pages = {277--283},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

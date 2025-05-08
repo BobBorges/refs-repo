@@ -1,0 +1,28 @@
+* olko2018a
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{olko2018a,
+  author = {Olko, Justyna},
+  year = {2018},
+  title = {Testament of Tomás Feliciano, Omaxac Huehuecalco, Coyoacan, Mexico, 1579},
+  editor = {Olko, Justyna AND Sullivan, John AND Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  pages = {150--156},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

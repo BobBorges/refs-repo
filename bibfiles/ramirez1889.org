@@ -1,0 +1,25 @@
+* ramirez1889
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@Book{ramirez1889,
+author = {Ramírez, Ignacio},
+title = {Obras de Ignacio Ramírez. Tomo 2. Economía política. Cuestiones políticas y sociales. Diálogos de "El Mensajero"},
+publisher = {Alicante : Biblioteca Virtual Miguel de Cervantes, 2014},
+year = {2014},
+url = {https://www.cervantesvirtual.com/nd/ark:/59851/bmcgt7d4}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

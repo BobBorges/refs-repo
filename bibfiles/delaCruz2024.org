@@ -1,0 +1,29 @@
+* delaCruz2024
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{delaCruz2024,
+    author = {de la Cruz Cruz, E.},
+    note = {English translation by Brisa S. Zavala},
+    year = {2024},
+    title = {Tlaneltoquilli tlen mochihua ica cintli ipan tlalli Chicontepec: tlamantli chicahualiztli ipan tochinanco},
+    editor = {Olko, J., Radding, C.},
+    booktitle = {Living with Nature, Cherishing Language},
+    publisher = {Palgrave Macmillan, Cham.},
+    doi = {https://doi.org/10.1007/978-3-031-38739-5_12},
+    page = {345--386}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

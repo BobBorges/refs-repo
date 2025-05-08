@@ -1,0 +1,26 @@
+* giles2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Giles, Howard (ed). 2016. Communication Accommodation Theory Negotiating Personal Relationships and Social Identities Across Contexts. Cambridge University Press
+@book{giles2016,
+editor = {Giles, Howard},
+year = {2016},
+title = {Communication Accommodation Theory Negotiating Personal Relationships and Social Identities Across Contexts},
+publisher = {Cambridge University Press},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

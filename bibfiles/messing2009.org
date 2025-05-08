@@ -1,0 +1,28 @@
+* messing2009
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{messing2009,
+  doi = {10.1080/15348450903307680},
+  author = {Messing, Jacqueline},
+  year = {2009},
+  title = {Ambivalence and ideology among Mexicano youth in Tlaxcala, Mexico},
+  journal = {Journal of Language, Identity & Education},
+  volume = {8},
+  number = {5},
+  pages = {350--364},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

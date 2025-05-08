@@ -1,0 +1,25 @@
+* lopeblanch1985
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{lopeblanch1985,
+    title = {El habla de Diego de Ordaz : contribución a la historia del español americano},
+    year = {1985},
+    author = {Lope Blanch, Juan M.},
+    publisher = {Universidad Nacional Autónoma de México, Instituto de Investigaciones Filológicas},
+    location = {México},
+    isbn = {9789688371947}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

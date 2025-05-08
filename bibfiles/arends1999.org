@@ -1,0 +1,30 @@
+* arends1999
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Arends, Jacques. 1999. The origin of the Portuguese element in the Surinam Creoles. In Magnus Huber and Mikael Parkvall (eds) Spreading the word: the issue of diffusion among the Atlantic creoles, 195-208. London, University of Westminster Press.
+@incollection{arends1999,
+author = {Arends, Jacques},
+year = {1999},
+title = {The origin of the Portuguese element in the Surinam Creoles},
+pages = {195-208},
+editor = {Magnus Huber and Mikael Parkvall},
+publisher = {London},
+address = {University of Westminster Press},
+booktitle = {Spreading the word: the issue of diffusion among the Atlantic creoles},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

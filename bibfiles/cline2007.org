@@ -1,0 +1,28 @@
+* cline2007
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{cline2007,
+    url = {http://whp.uoregon.edu/Lockhart/index.html},
+    author = {Cline, Sarah},
+    year = {2007},
+    title = {The Book of Tributes},
+    address = {Eugene, OR},
+    booktitle = {Sources and Methods for the study of post-Conquest Mesoamerican Ethnohistory},
+    publisher = {Wired Humanities Projects, University of Oregon},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

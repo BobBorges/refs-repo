@@ -1,0 +1,25 @@
+* BerdanEA1996
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{BerdanEA1996,
+    editor = {Frances F. Berdan AND Richard Blanton AND Elizabeth Hill Boone AND Mary G. Hodge AND Michael E. Smith AND Emily Umberger},
+    year = {1996},
+    title = {Aztec Imperial Strategies},
+    location = {Washington, DC},
+    publisher = {Dumbarton Oaks}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

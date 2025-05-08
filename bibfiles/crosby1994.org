@@ -1,0 +1,26 @@
+* crosby1994
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{crosby1994,
+    author = {Crosby, Alfred W.},
+    year = {1994},
+    title = {Germs, Seeds and Animals: Studies in Ecological History},
+    publisher = {M. E. Sharpe},
+    address = {New York},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

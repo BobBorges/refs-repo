@@ -1,0 +1,27 @@
+* mignolo2009
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{mignolo2009,
+    author = {Mignolo, Walter D.},
+    year = {2009},
+    title = {Coloniality at Large: Time and the Colonial Difference},
+    editor = {S. Dube},
+    booktitle = {Enchantments of Modernity Empire, Nation, Globalization},
+    page = {67--95},
+    publisher = {Routledge},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

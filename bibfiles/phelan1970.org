@@ -1,0 +1,25 @@
+* phelan1970
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{phelan1970,
+    author = {John L. Phelan},
+    year = {1970},
+    title = {The millennial kingdom of the Franciscans in the New World. Berkeley},
+    publisher = {University of California Press},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

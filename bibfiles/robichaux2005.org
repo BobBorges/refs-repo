@@ -1,0 +1,27 @@
+* robichaux2005
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{robichaux2005,
+    author = {Robichaux, D.},
+    year = {2005},
+    title = {Identidades cambiantes: ``Indios'' y ``mestizos'' en el suroeste de Tlaxcala},
+    journal = {Relaciones},
+    volume = {104},
+    number = {26},
+    page = {58--104}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

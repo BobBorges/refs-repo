@@ -1,0 +1,28 @@
+* brylak2018c
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{brylak2018c,
+  author = {Brylak, Agnieszka},
+  year = {2018},
+  title = {Account of the Commissioning of an Image of the Virgin Mary, Tlaxcala, Mexico 1600},
+  editor = {Olko, Justyna and Sullivan, John and Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  pages = {283--286},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

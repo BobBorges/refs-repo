@@ -1,0 +1,30 @@
+* VelascoMurilloSierraSilva2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Murillo, Dana Velasco, and Pablo Miguel Sierra Silva. “Mine Workers and Weavers: Afro-Indigenous Labor Arrangements and Interactions in Puebla and Zacatecas, 1600–1700.” City Indians in Spains American Empire: Urban Indigenous Society in Colonial Mesoamerica and Andean South America, 1530-1810, edited by Dana Velasco Murillo et al., Liverpool University Press, 2014, pp. 104–27. JSTOR, https://doi.org/10.2307/jj.4256615.13. Accessed 18 Nov. 2024.
+@incollection{VelascoMurilloSierraSilva2014,
+doi = {10.2307/jj.4256615.13},
+author = {Velasco Murillo, Dana and Sierra Silva, Pablo Miguel},
+title = {Mine Workers and Weavers: Afro-Indigenous Labor Arrangements and Interactions in Puebla and Zacatecas, 1600--1700},
+year = {2014},
+pages = {104--127},
+editor = {Dana Velasco Murillo and others},
+publisher = {Liverpool University Press},
+booktitle = {City Indians in Spains American Empire: Urban Indigenous Society in Colonial Mesoamerica and Andean South America, 1530--1810},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

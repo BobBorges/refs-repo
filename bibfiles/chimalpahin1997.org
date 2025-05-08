@@ -1,0 +1,28 @@
+* chimalpahin1997
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{chimalpahin1997,
+    note = {2 vols.},
+    author = {Chimalpahin, Domingo Francisco de San Antón Muñón Cuauhtlehuanitzin},
+    year = {1997},
+    title = {Codex Chimalpahin. Society and politics in Mexico Tenochtitlan, Tlatelolco, Texcoco, Culhuacan, and other Nahua altepetl in Central Mexico},
+    location = {Norman},
+    publisher = {University of Oklahoma Press},
+    note = {S. Schroeder & A. J. O. Anderson (eds. & trans.)},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,28 @@
+* sanchez2007
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{sanchez2007,
+    author = {Sánchez, Martín Aguilar},
+    title = {Las luchzs sociales en el estado de Veracruz},
+    year = {2007},
+    booktitle = {Historia general de Veracruz},
+    editor = {Sánchez, Martín Aguilar and Escamilla, Juan Ortiz},
+    pages = {369--369},
+    place = {Mexico},
+    publisher = {Universidad Veracruzana}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

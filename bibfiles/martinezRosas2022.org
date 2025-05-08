@@ -1,0 +1,27 @@
+* martinezRosas2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{martinezRosas2022,
+  author = {Martínez Rosas, Crispín},
+  year = {2022},
+  title = {Tlallamiquiliztli inelhuayo},
+  address = {Warsaw},
+  publisher = {University of Warsaw},
+  series = {Totlahtol Series},
+  editor = {Justyna Olko and John Sullivan},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

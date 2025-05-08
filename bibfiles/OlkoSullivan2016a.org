@@ -1,0 +1,25 @@
+* OlkoSullivan2016a
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{OlkoSullivan2016a,
+    title = {Bridging divides: A proposal for integrating the teaching, research and revitalization of Nahuatl},
+    year = {2015},
+    author = {Olko, Justyna AND Sullivan, John},
+    journal = {Language documentation and conservation},
+    pages = {159--184}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

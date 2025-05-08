@@ -1,0 +1,28 @@
+* LandryAllard1992
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{LandryAllaed1992,
+    author = {Landry, R. AND Allard, R.},
+    year = {1992},
+    title = {Ethnolinguistic vitality and the bilingual development of minority and majority group students},
+    editor = {W. Fase AND K. Jaspaert AND S. Kroon},
+    booktitle = {Maintenance and loss of minority languages},
+    page = {223–-252},
+    publisher = {John Benjamins},
+    location = {Amsterdam}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

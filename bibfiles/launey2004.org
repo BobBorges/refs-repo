@@ -1,0 +1,27 @@
+* launey2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{launey2004,
+  author = {Launey, Michel},
+  year = {2004},
+  title = {The features of omnipredicativity in Classical Nahuatl},
+  journal = {STUF - Language Typology and Universals},
+  volume = {57},
+  number = {1},
+  page = {49--69},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,27 @@
+* molina2002
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{molina2002,
+    author = {Molina, Fray Alonso de},
+    date = {2002 [1552]},
+    title = {Nahua confraternities in early colonial Mexico : the 1552 Nahuatl ordinances of fray Alonso de Molina OFM},
+    publisher = {Academy of American Franciscan History},
+    note = {Translator & editor, Barry D. Sell ; with contributions by Larissa Taylor & Asunción Lavrin},
+    location = {Berkeley, CA}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

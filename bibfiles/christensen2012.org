@@ -1,0 +1,28 @@
+* christensen2012
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{christensen2012,
+    author = {Christensen, Mark Z.},
+    year = {2012},
+    title = {The Use of Nahuatl in Evangelization and the Ministry of Sebastian},
+    journal = {Ethnohistory},
+    volume = {59},
+    number = {4},
+    pages = {691--712},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

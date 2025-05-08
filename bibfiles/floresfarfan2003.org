@@ -1,0 +1,28 @@
+* floresfarfan2003
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{floresfarfan2003,
+    title = {Efectos Del Contacto náhuatl-español En La región Del Balsas, Guerrero: Desplazamiento, Mantenimiento Y Resistencia lingüística},
+    year = {2003},
+    author = {Flores Farfan, Jose Antonio},
+    journal = {Estudios De Cultura Náhuatl},
+    volume = {34},
+    issue = {diciembre},
+    pages = {331--348},
+    url = {https://nahuatl.historicas.unam.mx/index.php/ecn/article/view/78665}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

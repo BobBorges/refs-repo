@@ -1,0 +1,25 @@
+* labov1994
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{labov1994,
+    title = {Principles of linguistic change Vol. 1 Internal factors},
+    year = {1994},
+    author = {Labov, William},
+    publisher = {Blackwell},
+    location = {Oxford},
+    isbn = {9780631179146}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

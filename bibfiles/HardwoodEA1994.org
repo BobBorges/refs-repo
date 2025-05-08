@@ -1,0 +1,27 @@
+* HardwoodEA1994
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{HardwoodEA1994,
+    author = {Harwood, J. AND Howard, G. AND Bourhis, R. Y.},
+    year = {1994},
+    title = {The genesis of vitality theory – Historical patterns and discoursal dimensions},
+    journal = {International Journal of the Sociology of Language},
+    volume = {108},
+    page = {167-–206},
+    doi = {https://doi.org/10.1515/ijsl.1994.1018.167}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

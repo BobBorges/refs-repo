@@ -1,0 +1,28 @@
+* olko2018f
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{olko2018f,
+  doi = {10.1017/S1062798717000382},
+  author = {Olko, Justyna},
+  year = {2018},
+  title = {Unbalanced Language Contact and the Struggle for Survival: Bridging Diachronic and Synchronic Perspectives on Nahuatl},
+  journal = {European Review},
+  volume = {26},
+  number = {1 (February 2018)},
+  pages = {207--228},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

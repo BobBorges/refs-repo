@@ -1,0 +1,27 @@
+* BrownSalmons2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{BrownSalmons2022,
+    author = {Joshua R. Brown and Joseph Salmons},
+    editor = {Joshua R. Brown},
+    title = {A verticalization theory of language shift. IN: Joshua R. Brown (Ed.)},
+    pages = {1--24},
+    publisher = {Oxford University Press},
+    booktitle = {The Verticalization Model of Language Shift The Great Change in American Communities},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

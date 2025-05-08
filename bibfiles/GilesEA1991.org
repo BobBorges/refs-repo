@@ -8,19 +8,17 @@
 #+NAME: bibtex
 #+BEGIN_SRC bibtex
 
-@BOOK{GilesEA1991,
-  EDITOR = {Giles, Howard and Coupland, Justine and Coupland, Nikolas},
-  LOCATION = {Cambridge [England] ; New York : Paris},
-  PUBLISHER = {Cambridge University Press ; Editions de la Maison des science de l'homme},
-  DATE = {1991},
-  FILE = {(Studies in Emotion and Social Interaction) Howard Giles (ed.), Justine Coupland (ed.), Nikolas Coupland (ed.)-Contexts of Accommodation_ Developments in Applied Sociolinguistics-Cambridge University (1).pdf:/Users/Bob/Documents/Publications/(Studies in Emotion and Social Interaction) Howard Giles (ed.), Justine Coupland (ed.), Nikolas Coupland (ed.)-Contexts of Accommodation_ Developments in Applied Sociolinguistics-Cambridge University (1).pdf:application/pdf},
-  ISBN = {978-0-521-36151-4},
-  KEYWORDS = {Sociolinguistics,Adjustment (Psychology)},
-  SERIES = {Studies in emotion and social interaction},
-  SHORTTITLE = {Contexts of accommodation},
-  TITLE = {Contexts of accommodation: developments in applied sociolinguistics},
+@incollection{GilesEA1991,
+    author = {Giles, H. and Coupland, N. and Coupland, J.},
+    year = {1991},
+    title = {Accommodation theory: Communication, context, and consequence},
+    editor = {H. Giles and J. Coupland and N. Coupland},
+    booktitle = {Contexts of accommodation: Developments in applied sociolinguistics},
+    page = {1-–68},
+    series = {Editions de la Maison des Sciences de l'Homme},
+    publisher = {Cambridge University Press},
+    doi = {https://doi.org/10.1017/CBO9780511663673.001}
 }
-
 
 #+END_SRC
 

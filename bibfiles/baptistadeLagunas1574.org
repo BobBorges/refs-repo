@@ -1,0 +1,26 @@
+* baptistadeLagunas1574
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{baptistadeLagunas1574,
+    author = {Baptista de Lagunas, Juan},
+    title = {Arte y dictionario: con otras obras, en lengua Michuacana},
+    publisher = {Casa de Pedro Balli},
+    year = {1574},
+    address = {Mexico},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,28 @@
+* MeakinsEA2019
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{MeakinsHuaEA2019,
+  doi = {10.1353/lan.2019.0032},
+  author = {Meakins, Felicity and Hua, Xia and Algy, Cassandra and Bromham, Lindell },
+  year = {2019},
+  title = {Birth of a contact language did not favor simplification},
+  journal = {Language},
+  pages = {294--332},
+  volume = {95},
+  number = {2},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

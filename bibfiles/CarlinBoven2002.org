@@ -1,0 +1,30 @@
+* CarlinBoven2002
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Carlin, Eithne and Karen Boven. 2002. .The Native Population: migrations and identities. In Eithne Carlin and Jacques Arends (eds) Atlas of the languages of Suriname, 11-46. Leiden: KITLV Press
+@incollection{CarlinBoven2002,
+author = {Carlin, Eithne and Karen Boven},
+year = {2002},
+title = {The Native Population: migrations and identities},
+pages = {11-46},
+address = {Leiden},
+publisher = {KITLV Press},
+editor = {Eithne Carlin and Jacques Arends},
+booktitle = {Atlas of the languages of Suriname},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

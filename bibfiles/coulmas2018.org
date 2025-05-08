@@ -1,0 +1,25 @@
+* coulmas2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{coulmas2018,
+    title = {An introduction to multilingualism. Language in a changing world},
+    year = {2018},
+    author = {Coulmas, Florian},
+    location = {Oxford},
+    publisher = {Oxford University Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

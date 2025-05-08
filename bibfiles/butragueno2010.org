@@ -1,0 +1,27 @@
+* butragueno2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{butragueno2010,
+    title = {El proceso de urbanización: consecuencias lingüísticas},
+    year = {2010},
+    author = {Butragueño, Pedro Martín},
+    booktitle = {Historia sociolingüística de México, Volumen 2},
+    editor = {Rebeca Barriga Villanueva AND Pedro Martín Butragueño},
+    publisher = {Colegio de Mexico},
+    pages = {997--1093}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

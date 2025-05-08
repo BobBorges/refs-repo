@@ -1,0 +1,25 @@
+* johnson2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{johnson2018,
+    author = {Johnson, Benjamin},
+    year = {2018},
+    title = {Pueblos within Pueblos. Tlaxilacalli Communities in Acolhuacan, Mexico, ca. 1272–1692},
+    location = {Boulder},
+    publisher = {University Press of Colorado},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

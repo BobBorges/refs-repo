@@ -1,0 +1,28 @@
+* olko2018b
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{olko2018b,
+  author = {Olko, Justyna},
+  year = {2018},
+  title = {Complaint Concerning a Bad Priest, Coatlan de Puertos Abajo, Jalisco, Mexico, 1637},
+  editor = {Olko, Justyna AND Sullivan, John AND Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  pages = {270--274},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

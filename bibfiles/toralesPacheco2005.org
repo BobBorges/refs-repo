@@ -1,0 +1,26 @@
+* toralesPacheco2005
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{toralesPacheco2005,
+    author = {Torales Pacheco, María Cristina},
+    year = {2005},
+    location =  {México, D. F.},
+    publisher = {Universidad Iberoamericana, Departamento de Historia},
+    ISBN = {978-968-859-588-6},
+    title = {TIERRAS DE INDIOS TIERRAS DE ESPANOLES}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

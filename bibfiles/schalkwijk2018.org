@@ -1,0 +1,24 @@
+* schalkwijk2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@misc{schalkwijk2018,
+    title = {The early history and geography of the Pamaka tribe},
+    author = {Schalkwijk, J. Marten W.},
+    year = {2018},
+    url = {https://www.academia.edu/72731931/The_early_history_and_geography_of_the_Pamaka_tribe_in_Suriname}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

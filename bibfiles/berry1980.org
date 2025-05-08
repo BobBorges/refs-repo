@@ -1,0 +1,27 @@
+* berry1980
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{berry1980,
+    author = {Berry, J. W.},
+    year = {1980},
+    title = {Acculturation as varieties of adaptation},
+    editor = {A. Padilla},
+    publisher = {Westview Press},
+    booktitle = {Acculturation, theory, models and some new findings},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,28 @@
+* JohnsonEA1983
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{JohnsonEA1983,
+    author = {Johnson, P. AND Giles, H. AND & Bourhis, R. Y.},
+    year = {1983},
+    title = {The viability of ethnolinguistic vitality: A reply},
+    journal = {Journal of Multilingual and Multicultural Development},
+    volume = {4},
+    number = {4},
+    page = {255-–269},
+    doi = {https://doi.org/10.1080/01434635.1983.9994115}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

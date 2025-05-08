@@ -1,0 +1,27 @@
+* vanWeteringThodenvanVelzen2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% van Wetering, W. and H.U.E. Thoden van Velzen, 2013. Een Zwarte Vrijstaat in Suriname: De Okaanse Samenleving in de negentiende en twintigste eeuw. Leiden: KITLV press.
+@book{vanWeteringThodenvanVelzen2013,
+author = {van Wetering, W. and Thoden van Velzen, H. U. E.},
+year = {2013},
+title = {Een Zwarte Vrijstaat in Suriname: De Okaanse Samenleving in de negentiende en twintigste eeuw},
+publisher = {KITLV press},
+address = {Leiden},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

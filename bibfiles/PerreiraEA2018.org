@@ -1,0 +1,29 @@
+* PerreiraEA2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{PerreiraEA2018,
+    doi = {10.1007/s10903-018-0724-7},
+    author = {Perreira, K. M. and Marchante, A. N. and Schwartz, S. J. and Isasi, C. R. and Carnethon, M. R. and Corliss, H. L. and Kaplan, R. C. and Santisteban, D. A. and Vidot, D. C. and Van Horn, L. and Delamater, A. M.},
+    year = {2018},
+    title = {Stress and resilience: Key correlates of mental health and substance use in the Hispanic community health study of Latino youth},
+    journal = {Journal of Immigrant and Minority Health},
+    volume = {21},
+    number = {1},
+    pages = {4--13},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

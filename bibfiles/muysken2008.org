@@ -8,14 +8,13 @@
 #+NAME: bibtex
 #+BEGIN_SRC bibtex
 
-@BOOK{muysken2008,
-  AUTHOR = {Muysken, Pieter},
-  LOCATION = {Amsterdam},
-  PUBLISHER = {John Benjamins},
-  DATE = {2008},
-  TITLE = {From {Linguistic} {Areas} to {Areal} {Linguistics}},
+@book{muysken2018,
+  author = {Pieter Muysken},
+  year = {2018},
+  title = {Language contact research: Three challenges and opportunities},
+  publisher = {Radboud University},
+  location = {Nijmegen}
 }
-
 
 #+END_SRC
 

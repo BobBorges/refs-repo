@@ -1,0 +1,30 @@
+* hoogbergrn1983
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Hoogbergrn, Wim. 1983. Marronage en marrons, 1760-1860: De niet-gepacificeerde marrons van Suriname. In Glenn Willemsen (ed) Suriname, de schele onafhankelijkheid, 75-110. Amsterdam: de Arbeiderspers
+@incollection{hoogbergrn1983,
+author = {Hoogbergrn, Wim},
+year = {1983},
+title = {Marronage en marrons, 1760-1860: De niet-gepacificeerde marrons van Suriname},
+pages = {75-110},
+editor = {Glenn Willemsen},
+address = {Amsterdam},
+publisher = {de Arbeiderspers},
+booktitle = {Suriname, de schele onafhankelijkheid},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

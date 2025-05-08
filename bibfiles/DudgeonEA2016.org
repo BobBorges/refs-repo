@@ -1,0 +1,28 @@
+* DudgeonEA2016
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{DudgeonEA2016,
+  author = {Dudgeon, Pat and Darlaston-Jones, Dawn and Waimarie Nikora, Linda and Waitoki, Waikaremoana and Pe-Pua, Rogelia and Nhat Tran, Le  and Rouhani, Lobna},
+  title = {Changing the Acculturation Conversation: Indigenous Cultural Reclamation in Australia and Aotearoa/New Zealand},
+  year = {2016},
+  pages = {115--33},
+  address = {Cambridge},
+  publisher = {Cambridge University Press},
+  editor = {David L. Sam and John W. Berry},
+  booktitle = {The Handbook of Acculturation Psychology},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

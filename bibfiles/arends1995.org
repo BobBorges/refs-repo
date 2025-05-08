@@ -1,0 +1,30 @@
+* arends1995
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Arends, Jacques. 1995. Demographic factors in the formation of Sranan. In Jacques Arends (ed) The early stages of creolization, 233-285. Amsterdam: John Benjamins
+@incollection{arends1995,
+author = {Arends, Jacques},
+year = {1995},
+title = {Demographic factors in the formation of Sranan},
+pages = {233-285},
+editor = {Jacques Arends},
+address = {Amsterdam},
+publisher = {John Benjamins},
+booktitle = {The early stages of creolization},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

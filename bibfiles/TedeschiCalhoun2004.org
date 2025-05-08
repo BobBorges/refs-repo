@@ -1,0 +1,30 @@
+* TedeschiCalhoun2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Tedeschi, Richard & Calhoun, Lawrence. (2004). Tedeschi RG, Calhoun LG Posttraumatic growth: conceptual foundations and empirical evidence. Psychol Inq 15(1): 1-18. Psychological Inquiry - PSYCHOL INQ. 15. 1-18. 10.1207/s15327965pli1501_01.
+@article{TedeschiCalhoun2004,
+doi = {10.1207/s15327965pli1501_01},
+author = {Tedeschi, Richard and Calhoun, Lawrence},
+year = {2004},
+title = {Posttraumatic growth: conceptual foundations and empirical evidence},
+journal = {Psychological Inquiry},
+pages = {1-18},
+volume = {15},
+number = {1}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

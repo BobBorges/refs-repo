@@ -1,0 +1,27 @@
+* konadu2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Konadu, Kwasi, 2010. The Akan Diaspora in the Americas. Oxford: Oxford University Press.
+@book{konadu2010,
+author = {Konadu, Kwasi},
+year = {2010},
+title = {The Akan Diaspora in the Americas},
+publisher = {Oxford University Press},
+address = {Oxford},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

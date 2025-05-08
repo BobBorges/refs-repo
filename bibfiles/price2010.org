@@ -1,0 +1,29 @@
+* price2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Price, Richard. 2010. Uneasy Neighbors: Maroons and Indians in Suriname.Tipití: Journal of the Society for the Anthropology of Lowland South America 8(2): article 4.
+@article{price2010,
+note = {article 4},
+author = {Price, Richard},
+year = {2010},
+title = {Uneasy Neighbors: Maroons and Indians in Suriname},
+journal = {Tipití: Journal of the Society for the Anthropology of Lowland South America},
+volume = {8},
+number = {2},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

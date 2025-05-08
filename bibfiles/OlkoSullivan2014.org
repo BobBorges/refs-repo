@@ -1,0 +1,27 @@
+* OlkoSullivan2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{OlkoSullivan2014,
+    title = {Toward a Comprehensive Model for Nahuatl Language Research and Revitalization},
+    year = {2014},
+    author = {Olko, Justyna AND Sullivan, John},
+    journal = {Proceedings of the annual meeting of the Berkeley Linguistics Society},
+    volume = {40},
+    pages = {369--397},
+    doi = {10.3765/bls.v40i0.3149}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

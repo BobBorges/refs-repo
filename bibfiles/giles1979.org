@@ -1,0 +1,26 @@
+* giles1979
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{giles1979,
+    author = {Giles, H.},
+    year = {1979},
+    title = {A new approach to the dynamics of speech},
+    journal = {Diogenes},
+    volume = {106},
+    page = {110-–27}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

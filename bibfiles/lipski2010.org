@@ -1,0 +1,27 @@
+* lipski2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{lipski2010,
+    title = {J. Clancy Clements. The linguistic legacy of Spanish and Portuguese: colonial expansion and language change. Cambridge: Cambridge University Press, 2009. Pp. xix, 256. Hb. $90.00l pb. $34.99},
+    year = {2010},
+    author = {Lipski, John M.},
+    journal = {Language in society},
+    volume = {39},
+    issue = {5},
+    pages = {692--695},
+    doi = {10.1017/S0047404510000679}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

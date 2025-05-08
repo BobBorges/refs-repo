@@ -9,13 +9,11 @@
 #+BEGIN_SRC bibtex
 
 @book{gibson1964,
-	title={The Aztecs Under Spanish Rule: A History of the Indians of the Valley of Mexico, 1519-1810},
-	ISBN={9781503621114},
-	url={http://dx.doi.org/10.1515/9781503621114},
-	DOI={10.1515/9781503621114},
-	publisher={Stanford University Press},
-	author={Gibson, Charles},
-	year={1964}
+    title = {The Aztecs under Spanish Rule. A History of the Indians of the Valley of Mexico 1519–1810},
+    year = {1964},
+    author = {Gibson, Charles},
+    publisher = {Stanford University Press},
+    location = {Stanford},
 }
 
 

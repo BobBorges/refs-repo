@@ -1,0 +1,25 @@
+* anon1478
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{anon1478,
+    author = {Anonymous},
+    title = {Dictionarium ex his[pa]niensi in latinum sermonem interprete Aelio Antonio Neprissensi [incipit].},
+    date = {1545/1555},
+    note = {Edward E. Ayer Collection Manuscript 1478, Newberry Library, Chicago},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,25 @@
+* aguirrebeltrán1979
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{aguirreBeltran1979,
+    title = {Regions of refuge},
+    year = {1979},
+    author = {Aguirre Beltrán, Gonzalo},
+    publisher = {Society for Applied Anthropology},
+    location = {Washington}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

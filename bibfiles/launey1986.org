@@ -1,0 +1,26 @@
+* launey1986
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@phdthesis{launey1986,
+    author = {Launey, Michel},
+    year = {1986},
+    title = {Catėgories et opėrations dans la grammaire nahuatl},
+    school = {l'Université de Paris},
+    note = {IV pour l'obtention du D orat d'Etat (spécialité : Linguistique) sous la direction de M. le Professeur B. Pottier},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

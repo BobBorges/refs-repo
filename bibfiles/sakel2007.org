@@ -1,0 +1,27 @@
+* sakel2007
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{sakel2007,
+    title = {Types of loan: Matter and pattern},
+    year = {2007},
+    author = {Sakel, Jeanette},
+    editor = {Matras, Yaron AND Sakel Jeanette},
+    booktitle = {Grammatical Borrowing in Cross-Linguistic Perspective},
+    location = {Berlin},
+    publisher = {De Gruyter},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

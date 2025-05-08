@@ -1,0 +1,27 @@
+* SachdevBourhis1993
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{SachdevBourhis1993,
+    author = {Sachdev, I. and & Bourhis, R. Y.},
+    year = {1993},
+    title = {Ethnolinguistic vitality: Some motivational and cognitive considerations},
+    editor = {M. A. Hogg AND D. Abrams},
+    booktitle = {Group motivation: Social psychological perspectives},
+    page = {33-–51},
+    publisher = {Harvester-Wheatsheaf}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -8,17 +8,15 @@
 #+NAME: bibtex
 #+BEGIN_SRC bibtex
 
-@BOOK{GilesEA1977,
-  EDITOR = {Giles, Howard},
-  LOCATION = {London ; New York},
-  PUBLISHER = {Academic Press},
-  DATE = {1977},
-  ISBN = {978-0-12-283740-1},
-  KEYWORDS = {Ethnic groups,Ethnicity,Race relations,Sociolinguistics},
-  SERIES = {European monographs in social psychology ; no. 13},
-  TITLE = {Language, ethnicity, and intergroup relations},
+@incollection{GilesEA1977,
+    author = {Giles, H. AND Bourhis, R. Y. AND Taylor, D. M.},
+    year = {1977},
+    title = {Towards a theory of language in ethnic group relations},
+    editor = {H. Giles},
+    booktitle = {Language, ethnicity and intergroup relations},
+    page = {307–-348},
+    publisher = {Academic Press}
 }
-
 
 #+END_SRC
 

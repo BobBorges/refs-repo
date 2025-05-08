@@ -1,0 +1,28 @@
+* smith2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Smith, Norval. 2010. The 1675 emigrants from Suriname. Paper given at at Krèyól: Graduate workshop in creolistics. Groesbeek: Radboud University Nijmegen.
+@inproceedings{smith2010,
+author = {Smith, Norval},
+year = {2010},
+title = {The 1675 emigrants from Suriname},
+booktitle = {Paper given at at `Krèyól: Graduate workshop in creolistics'},
+publisher = {Radboud University Nijmegen},
+address = {Groesbeek, NL},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

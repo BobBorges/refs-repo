@@ -1,0 +1,29 @@
+* OlkoSzemiński2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{OlkoSzeminski2018,
+    title = {Introduction},
+    year = {2018},
+    author = {Justyna Olko AND Jan Szemiński},
+    editor = {John Sullivan AND Justyna Olko AND Jan Szemiński},
+    booktitle = {Dialogue with Europe, Dialogue with the Past},
+    publisher = {University Press of Colorado},
+    pages = {3--8},
+    location = {Denver},
+    isbn = {1607328321}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

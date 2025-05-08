@@ -1,0 +1,25 @@
+* karttunen1992
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{karttunen1992,
+  author = {Karttunen, Frances},
+  year = {1992},
+  title = {An Analytical Dictionary of Nahuatl},
+  publisher = {University of Oklahoma},
+  address = {Norman},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

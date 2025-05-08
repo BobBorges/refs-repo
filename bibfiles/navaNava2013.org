@@ -1,0 +1,28 @@
+* navaNava2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{navaNava2013,
+    author = {Nava Nava, Refugio},
+    year = {2013},
+    title = {Malintzin itlahtol},
+    address = {Warsaw},
+    publisher = {University of Warsaw},
+    series = {Totlahtol Series},
+    note = {Series Editor; Justyna Olko and John Sullivan},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

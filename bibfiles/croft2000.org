@@ -1,0 +1,25 @@
+* croft2000
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{croft2000,
+    title = {Explaining language change : an evolutionary approach},
+    year = {2000},
+    author = {Croft, William},
+    publisher = {Longman},
+    location = {Harlow},
+    isbn = {9780582356771}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

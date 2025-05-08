@@ -1,0 +1,28 @@
+* sharma2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{sharma2018,
+    author = {Sharma, Devyani},
+    year = {2018},
+    title = {Variation and change in a changing world: New perspectives on classic questions},
+    pages = {161-175},
+    editor = {Rajend Mesthrie and David Bradley},
+    booktitle = {The Dynamics of Language Plenary and focus lectures from the 20th International Congress of Linguists},
+    publisher = {UCT Press},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

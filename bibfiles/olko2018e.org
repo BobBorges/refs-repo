@@ -1,0 +1,28 @@
+* olko2018e
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{olko2018e,
+  author = {Olko, Justyna},
+  year = {2018},
+  title = {Petition of the Rulers of Amacatlan Mamepan, Soconusco, Mexico, 1562},
+  editor = {Olko, Justyna AND Sullivan, John AND Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  pages = {246--250},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

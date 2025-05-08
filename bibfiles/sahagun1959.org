@@ -1,0 +1,28 @@
+* sahagun1959
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{sahagun1959,
+  title = {Book 9 - The Merchants. Part X of Dibble},
+  year = {1959},
+  author = {Sahagún, fray Bernardino de},
+  booktitle = {The Florentine Codex: General History of the Things of New Spain. In Thirteen Parts},
+  note = {1950--1969},
+  editor = {Dibble, Charles E. AND Anderson, Arthur J. O.},
+  location = {Santa Fe},
+  publisher = {The School of American Research and the University of Utah}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

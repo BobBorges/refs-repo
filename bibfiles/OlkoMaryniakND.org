@@ -1,0 +1,23 @@
+* OlkoMaryniakND
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@misc{OlkoMaryniakND,
+    author = {Justyna Olko and Joanna Maryniak},
+    title = {Naming epistemological violence: “Classical Nahuatl” and its colonial entanglements},
+    year = {}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

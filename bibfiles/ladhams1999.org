@@ -1,0 +1,30 @@
+* ladhams1999
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Ladhams, John. 1999. The Pernambuco connection: An examination of the nature and origin of the Portuguese element in the Surinam Creoles. In Magnus Huber and Mikael Parkvall (eds) Spreading the word: the issue of diffusion among the Atlantic creoles, 209-240. London, University of Westminster Press.
+@incollection{ladhams1999,
+author = {Ladhams, John},
+year = {1999},
+title = {The Pernambuco connection: An examination of the nature and origin of the Portuguese element in the Surinam Creoles},
+pages = {209-240},
+editor = {Magnus Huber and Mikael Parkvall},
+publisher = {London},
+address = {University of Westminster Press},
+booktitle = {Spreading the word: the issue of diffusion among the Atlantic creoles},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

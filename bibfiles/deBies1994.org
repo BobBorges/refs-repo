@@ -1,0 +1,32 @@
+* deBies1994
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Created 2024-11-29 20:20:02 by https://text2bib.org. Algorithm version 2024-11-04 17:44:32.
+
+% de Bies, Renata. 1994. Surinaams-Nederlands: een Boeiende Variant. Deus Ex Machina, 18(3):6-12. Schilde: Bruynseraede.
+@article{deBies1994,
+author = {de Bies, Renata},
+year = {1994},
+title = {Surinaams-Nederlands: een Boeiende Variant},
+journal = {Deus Ex Machina},
+publisher = {Bruynseraede},
+issue = {18},
+number = {3},
+page = {6--12}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

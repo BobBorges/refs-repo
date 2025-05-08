@@ -1,0 +1,27 @@
+* rincon1594
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Rincón, Antonio. 1594. Arte mexicana. Pedro Balli, Mexico.
+@book{rincon1594,
+author = {Rincón, Antonio},
+year = {1594},
+title = {Arte mexicana},
+publisher = {Pedro Balli},
+address = {Mexico},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

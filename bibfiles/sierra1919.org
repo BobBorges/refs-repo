@@ -1,0 +1,27 @@
+* sierra1919
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Sierra, Justo (1919), Discursos, México, Herrero Hermanos.
+@book{sierra1919,
+author = {Sierra, Justo},
+year = {1919},
+title = {Discursos},
+location = {México},
+publisher = {Herrero Hermanos},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

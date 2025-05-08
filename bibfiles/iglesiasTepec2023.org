@@ -1,0 +1,23 @@
+* iglesiasTepec2023
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@unpublished{iglesiasTepec2023,
+  author = {Iglesias Tepec, Humberto},
+  year = {2023},
+  title = {Dictionary of Atliaca Nahuatl}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

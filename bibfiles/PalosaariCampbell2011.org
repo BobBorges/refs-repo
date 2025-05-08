@@ -1,0 +1,28 @@
+* PalosaariCampbell2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{PalosaariCampbell2011,
+  author = {Palosaari, Naomi and Lyle Campbell},
+  year = {2011},
+  title = {Structural aspects of language endangerment},
+  pages = {100--119},
+  address = {Cambridge},
+  publisher = {Cambridge University Press},
+  editor = {Peter Austin and Julia Sallabank},
+  booktitle = {The  handbook of endangered languages},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

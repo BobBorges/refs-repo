@@ -1,0 +1,28 @@
+* SandstromGomezMartinez2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{SandstromGomezMartinez2004,
+  author = {Sandstrom, Alan R. and Gómez Martínez, Arturo},
+  year = {2004},
+  title = {Petición a Chicomexochitl. Un canto al espíritu del maíz por la chamana nahua Silveria Hernández Hernández},
+  editor = {Ruvalcaba, Jesús AND Pérez, Juan Manuel AND Herrera, Octavio},
+  pages = {343--367},
+  booktitle = {La Huasteca, un recorrido por su diversidad},
+  location = {México},
+  publisher = {CIESAS},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,26 @@
+* AndersonSchroeder1997
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{AndersonSchroeder1997,
+    title = {Codex Chimalpahin: society and politics in Mexico Tenochtitlan, Tlatelolco, Texcoco, Culhuacan, and other Nahua Altepetl in central Mexico. Vol. 1},
+    year = {1997},
+    author = {Anderson, Arthur J. O. AND Schroeder, Susan},
+    publisher = {Univ. of Oklahoma Pr.},
+    location = {Norman},
+    isbn = {9780806129211}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

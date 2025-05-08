@@ -1,0 +1,26 @@
+* robichaux2009
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{robichaux2009,
+    author = {Robichaux, D.},
+    year = {2009},
+    title = {Defining the Indian: State definitions, perception of the other and community organization in southwestern Tlaxcala and Mexico},
+    publisher = {Nuevo Mundo},
+    location = {Mundos Nuevo},
+    doi = {https://doi.org/10.4000/nuevomundo.56599}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

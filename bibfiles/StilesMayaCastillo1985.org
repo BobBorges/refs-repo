@@ -1,0 +1,27 @@
+* StilesMayaCastillo1985
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{StilesMayaCastillo1985,
+  author = {Stiles, Neville and Maya, Idelfonso and Castillo, Martiniano},
+  year = {1985},
+  title = {El diluvio y otros relatos de la Huasteca Hidalguense},
+  journal = {Tlalocan},
+  volume = {10},
+  number = {1985},
+  pages = {15--32},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

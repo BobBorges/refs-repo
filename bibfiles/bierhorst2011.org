@@ -1,0 +1,25 @@
+* bierhorst2011
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{bierhorst2011,
+  editor = {Bierhorst, John},
+  year = {2011},
+  title = {Codex Chimalpopoca. The Text in Nahuatl with a glossary and Grammatical Notes},
+  publisher = {University of Arizon Press},
+  address = {Tucson},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

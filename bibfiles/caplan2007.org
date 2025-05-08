@@ -1,0 +1,29 @@
+* caplan2007
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{caplan2007,
+    doi = {10.1177/1527154407301751},
+    author = {Caplan, S.},
+    year = {2007},
+    title = {Latinos, acculturation, and acculturative stress: A dimensional concept analysis},
+    journal = {Policy, Politics, \& Nursing Practice},
+    volume = {8},
+    number = {2},
+    pages = {93--106},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

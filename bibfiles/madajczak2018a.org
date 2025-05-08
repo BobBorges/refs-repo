@@ -1,0 +1,28 @@
+* madajczak2018a
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{madajczak2018a,
+  author = {Madajczak, Julia},
+  year = {2018},
+  title = {Land litigation, Tlatelolco, Mexico, 1558},
+  editor = {Olko, Justyna and Sullivan, John and Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  page = {74-84}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

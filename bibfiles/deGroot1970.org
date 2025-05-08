@@ -1,0 +1,29 @@
+* deGroot1970
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% de Groot, Silvia. 1970. Rebellie der Zwarte Jagers De nasleep van de Bonni-oorlogen 1788-1809. De Gids. 133(2):291--303
+@article{deGroot1970,
+author = {de Groot, Silvia},
+year = {1970},
+title = {Rebellie der Zwarte Jagers: De nasleep van de Bonni-oorlogen 1788-1809},
+journal = {De Gids},
+volume = {133},
+number = {2},
+pages = {291-303},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

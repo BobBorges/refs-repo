@@ -1,0 +1,29 @@
+* pellicer2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{pellicer2010,
+    url = {http://www.jstor.org/stable/j.ctt1657t8g.16},
+    author = {Pellicer, D.},
+    year = {2010},
+    title = {Lenguas, Relaciones De Poder Y Derechos Lingüísticos},
+    pages = {605--658},
+    booktitle = {Historia sociolingüística de México},
+    editor = {Villanueva, Rebeca Barriga  and Butragueño, Pedro Martín },
+    publisher = {Colegio de Mexico},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

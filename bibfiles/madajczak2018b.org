@@ -1,0 +1,28 @@
+* madajczak2018b
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{madajczak2018b,
+  author = {Madajczak, Julia},
+  year = {2018},
+  title = {Testament of Don Diego de San Pedro, a Bill of Sale, and a Declaration of Wages, Santiago Tzacualco, Mexico, 1644},
+  editor = {Olko, Justyna and Sullivan, John and Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  pages = {191--200},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,25 @@
+* enguitaUtrilla2004
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{enguitaUtrilla2004,
+  author = {Enguita Utrilla, José María},
+  title = {Para la historia de los americanismos léxicos},
+  year = {2004},
+  publisher = {Peter Lang},
+  address = {Frankfurt am Main},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

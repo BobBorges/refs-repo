@@ -1,0 +1,25 @@
+* reyesGarcia2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{reyesGarcia2001,
+  editor = {Reyes García, Luis},
+  year = {2001},
+  title = {¿Cómo te confundes? ¿Acaso no somos conquistados? Anales de Juan Bautista},
+  publisher = {Centro de Investigaciones y Estudios Superiores en Antropología Social, Biblioteca Lorenzo Boturini, Insigne y Nacional Basílica de Guadalupe},
+  location = {Mexico}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,25 @@
+* friedlander1975
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{friedlander1975,
+    author = {Friedlander, J.},
+    year = {1975},
+    title = {Being {I}ndian in Hueyapan: A study of forced identity in contemporary Mexico},
+    publisher = {St. Martin's Press},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

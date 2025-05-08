@@ -1,0 +1,29 @@
+* green1974
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Created 2024-11-29 22:16:24 by https://text2bib.org. Algorithm version 2024-11-04 17:44:32.
+
+% Green, Edward C. 1974. The Matawai Maroons: An acculturating Afro-American society. PhD dissertation. Washington D.C. Catholic University of America
+@phdthesis{green1974,
+author = {Green, Edward C.},
+year = {1974},
+title = {The Matawai Maroons: An acculturating Afro-American society},
+address = {Washington D. C.},
+school = {Catholic University of America},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

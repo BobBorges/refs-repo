@@ -1,0 +1,25 @@
+* dexter-sobokwiak2023
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@phdthesis{dexter-sobkowiak2023,
+    author = {Dexter-Sobkowiak, Elwira},
+    year = {2023},
+    title = {Language contact in the Huasteca: The impact of Spanish on Nahuatl and Tének},
+    address = {Warsaw},
+    school = {University of Warsaw}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,26 @@
+* cline1993b
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{cline1993b,
+    title = {The book of tributes : early sixteenth-century Nahuatl censuses from Morelos (Museo de Antropología e Historia, Archivo Histórico, Colección antigua, vol. 549)},
+    year = {1993},
+    author = {Cline, S. L.},
+    publisher = {UCLA Latin American Center Publications, University of California},
+    location = {Los Angeles},
+    isbn = {9780879030827}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

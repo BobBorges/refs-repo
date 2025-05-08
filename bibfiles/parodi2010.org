@@ -1,0 +1,29 @@
+* parodi2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{parodi2010,
+    author = {Parodi, Claudia},
+    year = {2010},
+    title = {Tensión lingüística en la colonia: diglosia y bilingüismo},
+    pages = {185--205},
+    editor = {Villanueva, Rebeca Barriga  and Butragueño, Pedro Martín },
+    publisher = {El Colegio de México},
+    address = {México},
+    booktitle = {Historia Sociolingüística de México, Vol. 1: México Prehispánico y Colonial},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

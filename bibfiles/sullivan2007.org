@@ -1,0 +1,28 @@
+* sullivan2007
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{sullivan2007,
+    author = {Sullivan, John},
+    year = {2007},
+    title = {The Jalostotitlan Petitions, 1611-1618},
+    editor = {James Lockhart AND Lisa Sousa AND Stephanie Woods},
+    booktitle = {Sources and Methods for the Study of Postconquest Mesoamerican Ethnohistory, provisional version},
+    publisher =  {University of Oregon},
+    location = {Eugene, Oregon},
+    url = {http://whp.oregon.edu/Lockhart/Sullivan.pdf}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

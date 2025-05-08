@@ -1,0 +1,25 @@
+* townsend2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{townsend2010,
+  editor = {Townsend, Camila},
+  year = {2010},
+  title = {Here in this year: Seventeenth-century Nahuatl annals of the Tlaxcala-Puebla valley},
+  publisher = {Stanford University Press},
+  address = {Stanford},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

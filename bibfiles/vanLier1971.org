@@ -1,0 +1,27 @@
+* vanLier1971
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% an Lier. R.A.J. 1971. Frontier Society: A social analysis of the history of Suriname. The Hague: Martinus Nijhoff
+@book{vanLier1971,
+author = {van Lier, R.A.J},
+title = {Frontier Society: A social analysis of the history of Suriname},
+year = {1971},
+publisher = {Martinus Nijhoff},
+address = {The Hague},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,26 @@
+* INEGI2020
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% INEGI. 2020. Instituto Nacional de Estadística y Geografía. Censo de Población y Vivienda https://www.inegi.org.mx/programas/ccpv/2020/
+@misc{INEGI2020,
+url = {https://www.inegi.org.mx/programas/ccpv/2020/},
+author = {Instituto Nacional de Estadística y Geografía},
+year = {2020},
+title = {Instituto Nacional de Estadística y Geografía. Censo de Población y Vivienda},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

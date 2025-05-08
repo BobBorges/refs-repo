@@ -1,0 +1,29 @@
+* kalyuta2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Kalyuta, Anastasia. 2018. "Letter of the Municipal Council of Tollan Xicocotitlan, Mexico, 1557." In Olko, Sullivan & Szemiński 2018: 232-40.
+@article{k18,
+  author = {Kalyuta, Anastasia},
+  year = {2018},
+  title = {Letter of the Municipal Council of Tollan Xicocotitlan, Mexico, 1557},
+  editor = {Olko, Justyna and Sullivan, John and Szemiński, Jan},
+  booktitle = {Dialogue with Europe},
+  publisher = {University Press of Colorado},
+  location = {Denver},
+  pages = {232-40},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,26 @@
+* medina1987
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{medina1987,
+    author = {Medina, Miguel A.},
+    date = {1987[1548]},
+    title = {Doctrina cristiana para instrucción de los indios por Pedro de Córdoba. Mexico 1544 y 1548},
+    publisher = {Editorial San Esteban},
+    address = {Salamanca},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

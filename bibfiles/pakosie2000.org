@@ -1,0 +1,29 @@
+* pakosie2000
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Pakosie, André, 2000. Een Etymologishe Zoektocht naar Afrikaanse Woorden in de Ndyuka Taal. Siboga 10(2):2-12.
+@article{pakosie2000,
+author = {Pakosie, André},
+year = {2000},
+title = {Een Etymologishe Zoektocht naar Afrikaanse Woorden in de Ndyuka Taal},
+journal = {Siboga},
+volume = {10},
+number = {2},
+pages = {2--12},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

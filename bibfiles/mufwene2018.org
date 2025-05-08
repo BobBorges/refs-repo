@@ -1,0 +1,27 @@
+* mufwene2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{mufwene2018,
+  author = {Salikoko S. Mufwene},
+  year = {2018},
+  title = {Language contact and evolutionary linguistics: An African(ist)'s and creolist's perspective},
+  pages = {36--51},
+  editor = {Mesthrie, Rajend AND La Trobe, David Bradley},
+  booktitle = {The Dynamics of Language Plenary and focus lectures from the 20th International Congress of Linguists},
+  publisher = {UCT Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

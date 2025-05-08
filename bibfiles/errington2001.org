@@ -1,0 +1,28 @@
+* errington2001
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{errington2001,
+    title = {Colonial Linguistics},
+    year = {2001},
+    author = {Errington, Joseph},
+    journal = {Annual review of anthropology},
+    volume = {30},
+    issue = {1},
+    pages = {19--39},
+    doi = {10.1146/annurev.anthro.30.1.19}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

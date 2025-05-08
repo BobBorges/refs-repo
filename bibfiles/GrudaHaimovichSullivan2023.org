@@ -1,0 +1,26 @@
+* GrudaHaimovichSullivan2023
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{GrudaHaimovichSullivan2023,
+    title = {Lexical creativity in modern Nahuatl: An analysis of multidialectal data},
+    year = {2023},
+    author = {Gruda, Szymon AND Haimovich, Gregory AND Sullivan, John},
+    journal = {Lingua},
+    volume = {285},
+    pages = {103488--},
+    doi = {10.1016/j.lingua.2023.103488}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

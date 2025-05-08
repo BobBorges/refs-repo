@@ -1,0 +1,28 @@
+* OlkoLubiewskaEA2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{OlkoLubiewskaEA222,
+    author = {Olko, J. AND Lubiewska, K. AND Maryniak, J. AND Haimovich, G. AND de la Cruz, E. AND Cuahutle Bautista, B. AND Dexter-Sobkowiak, E. AND Iglesias Tepec, H.},
+    year = {2022},
+    title =  {The positive relationship between Indigenous language use and community-based well-being in four Nahua ethnic groups in Mexico}.
+    journal = {Cultural Diversity \& Ethnic Minority Psychology},
+    volume = {28},
+    number = {1},
+    page = {132-–143},
+    url = {https://doi.org/10.1037/cdp0000479}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

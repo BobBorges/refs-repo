@@ -1,0 +1,25 @@
+* bonfilBatalla1987
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{bonfilBatalla1987,
+    author = {Bonfil Batalla, Guillermo},
+    year = {1987},
+    title = {México profundo: Una civilización negada},
+    locaion = {Mexico},
+    publisher = {Secretaria de Educación Pública & CIESAS}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

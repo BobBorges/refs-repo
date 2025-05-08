@@ -1,0 +1,24 @@
+* buddingh1995
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{buddingh1995,
+  title     = {Geschiedenis van Suriname},
+  author    = {Buddingh, Hans},
+  publisher = {Het Spectrum B.V},
+  year      = {1995}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

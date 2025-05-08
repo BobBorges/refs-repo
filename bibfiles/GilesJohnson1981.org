@@ -1,0 +1,27 @@
+* GilesJohnson1981
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{GilesJohnson1981,
+    author = {Giles, H. AND & Johnson, P.},
+    year = {1981},
+    title = {The role of language in ethnic group relations},
+    editor = {C. Turner AND H. Giles},
+    booktitle = {Intergroup behavior},
+    page = {199–-243},
+    publisher = {Academic Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

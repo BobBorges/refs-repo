@@ -1,0 +1,25 @@
+* Esteban-GuitartViladotGiles2015
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{Esteban-GuitartViladotGiles2015,
+    author = {Esteban-Guitart, M. and Viladot, M. A. and Giles, H.},
+    title = {Perceived institutional support among young indigenous and mestizos from Chiapas (México). A group vitality approach},
+    journal = {Journal Of Multilingual And Multicultural Development},
+    volume = {36},
+    page = {124--135}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

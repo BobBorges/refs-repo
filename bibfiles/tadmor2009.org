@@ -1,0 +1,28 @@
+* tadmor2009
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{tadmor2009,
+  author = {Tadmor, Uri},
+  year = {2009},
+  title = {Loanwords in the world's languages: Findings and results},
+  pages = {55--75},
+  address = {Berlin},
+  publisher = {De Gruyter Mouton},
+  editor = {M. Haspelmath and U. Tadmor},
+  booktitle = {Loanwords in the World's Languages: A Comparative Handbook},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

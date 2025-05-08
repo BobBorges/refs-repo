@@ -1,0 +1,29 @@
+* berdan2007
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{berdan2007,
+    title = {Continuity and Change in Aztec Culture: From Imperial Lords to Royal Subjects},
+    year = {2007},
+    author = {Berdan, Frances F},
+    booktitle = {Globalization and Change in Fifteen Cultures},
+    editor = {George Spindler AND Janice Stockard},
+    pages = {1--23},
+    location = {Belmot, CA},
+    publish = {Wadsworth}
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

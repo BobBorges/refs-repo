@@ -1,0 +1,25 @@
+* lopesDon2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{lopesDon2010,
+    author = {Lopes Don, Patricia},
+    year = {2010},
+    title = {Bonfires of Culture: Franciscans, Indigenous Leaders, and Inquisition in Early Mexico, 1524–1540},
+    location = {Norman},
+    publisher = {University of Oklahoma Press}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,30 @@
+* fontaine1980
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Fontaine, J.J. 1980. Joden Savanne. In J. Fontaine (ed) Uit Surinames Historie / From Suriname’s History, 32-39. Zutphen: De Walburg Pers.
+@incollection{fontaine1980,
+author = {Fontaine, J. J.},
+year = {1980},
+title = {Joden Savanne},
+pages = {32-39},
+editor = {J. Fontaine},
+address = {Zutphen},
+publisher = {De Walburg Pers},
+booktitle = {Uit Surinames Historie / From Suriname's History},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

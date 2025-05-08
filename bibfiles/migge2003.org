@@ -1,0 +1,27 @@
+* migge2003
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Migge, Bettina. 2003. Creolization as language contact: the case of the Suriname Creoles. Creole Language Library 25. Amsterdam: John Benjamins.
+@book{migge2003,
+author = {Migge, Bettina},
+year = {2003},
+title = {Creolization as language contact: the case of the Suriname Creoles},
+publisher = {John Benjamins},
+address = {Creole Language Library 25. Amsterdam},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

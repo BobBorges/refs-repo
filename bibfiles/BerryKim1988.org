@@ -1,0 +1,28 @@
+* BerryKim1988
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{BerryKim1988,
+    author = {Berry, J. W. and Kim, U.},
+    year = {1988},
+    title = {Acculturation and mental health},
+    pages = {207--236},
+    editor = {P. R. Dasen and J. W. Berry and N. Sartorius},
+    publisher = {Sage Publications Inc},
+    booktitle = {Health and cross-cultural psychology: Toward applications},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

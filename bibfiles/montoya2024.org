@@ -1,0 +1,28 @@
+* montoya2024
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{montoya2024,
+    author = {Montoya, I. L.},
+    year = {2024},
+    title = {Manifestations of Colonialism in Linguistics and Opportunities for Decolonization Through Refusal},
+    editor = {Charity Hudley, A. H. AND Mallinson, C. AND Bucholtz, M.},
+    booktitle = {Decolonizing Linguistics},
+    page = {25--46},
+    publisher = {Oxford Academic},
+    doi = {https://doi.org/10.1093/oso/9780197755259.003.0002}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

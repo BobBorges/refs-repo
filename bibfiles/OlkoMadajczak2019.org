@@ -1,0 +1,28 @@
+* OlkoMadajczak2019
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{OlkoMadajczak2019,
+    title = {An Animating Principle In Confrontation With Christianity? De(Re)Constructing The Nahua “soul”},
+    year = {2019},
+    author = {Olko, Justyna AND Madajczak, Julia},
+    journal = {Ancient Mesoamerica},
+    volume = {30},
+    issue = {1},
+    pages = {75--88},
+    doi = {10.1017/S0956536118000329}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

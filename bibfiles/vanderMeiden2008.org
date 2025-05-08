@@ -1,0 +1,27 @@
+* vanderMeiden2008
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% van der Meiden, G.W. 2008. Betwist Bestuur: De eerste eeuw bestuurlijke ruzies in Suriname 1651-1753. Amsterdam: De Bataafsche Leeuw.
+@book{vanderMeiden2008,
+author = {van der Meiden, G. W.},
+year = {2008},
+title = {Betwist Bestuur: De eerste eeuw bestuurlijke ruzies in Suriname 1651-1753},
+publisher = {De Bataafsche Leeuw},
+address = {Amsterdam},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

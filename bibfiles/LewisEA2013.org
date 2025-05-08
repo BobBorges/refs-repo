@@ -1,0 +1,29 @@
+* LewisEA2013
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{LewisEA2013,
+  address        = {Dallas, TX},
+  author         = {Lewis, Paul M. AND Gary F. Simons AND Charles D. Fennig},
+  booktitle      = {Ethnologue: Languages of the world},
+  edition        = {17},
+  editor         = {Lewis, M. Paul AND Simons, Gary F. AND Fennig, Charles D.},
+  publisher      = {SIL International},
+  title          = {Ethnologue: Languages of the World},
+  url            = {http://www.ethnologue.com},
+  year           = {2013}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

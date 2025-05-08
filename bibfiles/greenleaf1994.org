@@ -1,0 +1,27 @@
+* greenleaf1994
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{greenleaf1004,
+    author = {Greenleaf, Richard E},
+    year = {1994},
+    title = {Persistence of Native Values: The Inquisition and the Indians of Colonial Mexico},
+    journal = {The Americas},
+    volume = {50},
+    issue = {3},
+    page = {351–-376}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

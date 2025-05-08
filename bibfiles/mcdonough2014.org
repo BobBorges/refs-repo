@@ -8,18 +8,14 @@
 #+NAME: bibtex
 #+BEGIN_SRC bibtex
 
-@BOOK{mcdonough2014,
-  AUTHOR = {McDonough, Kelly S.},
-  LOCATION = {Tucson},
-  PUBLISHER = {The University of Arizona Press},
-  DATE = {2014},
-  ISBN = {978-0-8165-1136-5},
-  KEYWORDS = {HISTORY / Latin America / Mexico,History,History and criticism,Intellectual life,LITERARY CRITICISM / Caribbean \& Latin American,Mexico,Nahua philosophy,Nahuas,Nahuatl literature,SOCIAL SCIENCE / Ethnic Studies / Native American Studies},
-  SERIES = {First {Peoples}: {New} {Directions} in {Indigenous} {Studies}},
-  SHORTTITLE = {The learned ones},
-  TITLE = {The learned ones: {Nahua} intellectuals in postconquest {Mexico}},
+@book{mcdonough2014,
+    title = {The learned ones: Nahua intellectuals in postconquest Mexico},
+    year = {2014},
+    author = {McDonough, Kelly S.},
+    publisher = {The University of Arizona Press},
+    location = {Tuczon, Arizona]},
+    isbn = {1306964148}
 }
-
 
 #+END_SRC
 

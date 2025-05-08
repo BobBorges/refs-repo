@@ -1,0 +1,27 @@
+* CampbellKaufmanSmith-Stark1986
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{CampbellKaufmanSmith-Stark1986,
+    title = {Meso-America as a Linguistic Area},
+    year = {1986},
+    author = {Campbell, Lyle AND Kaufman, Terrence AND Smith-Stark, Thomas C.},
+    journal = {Language (Baltimore)},
+    volume = {62},
+    issue = {3},
+    pages = {530--570},
+    doi = {10.1353/lan.1986.0105}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

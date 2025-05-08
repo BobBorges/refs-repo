@@ -1,0 +1,25 @@
+* LorenzanaBuitron1770
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{LorenzanaBuitron1770,
+    author = {Lorenzana, Francisco and Buitron, Cartas},
+    title = {Imprenta del Superior Gobierno del Br. D. Joseph Antonio de Hogal},
+    journal = {},
+    year = {1770},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

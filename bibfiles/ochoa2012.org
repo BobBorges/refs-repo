@@ -1,0 +1,29 @@
+* ochoa2012
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{ochoa2012,
+    author = {Ochoa, Margarita R.},
+    year = {2012},
+    title = {Culture in Possessing: Land and Legal Practices among the Natives of Eighteenth-Century Mexico City},
+    pages = {199--220},
+    editor = {Dana Velasco Murillo and Mark Lentz and Margarita R. Ochoa},
+    publisher = {Sussex Academic Press},
+    address = {Brighton},
+    booktitle = {City Indians in Spain's American Empire: Urban Indigenous Society in Colonial Mesoamerica & Andean South America},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

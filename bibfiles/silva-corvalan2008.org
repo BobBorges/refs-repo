@@ -1,0 +1,28 @@
+* silva-corvalan2008
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{silva-corvalan2008,
+    title = {The Limits of Convergence in Language Contact},
+    year = {2008},
+    author = {Silva-Corvalán, Carmen},
+    journal = {Journal of Language Contact},
+    volume = {2},
+    issue = {1},
+    pages = {213--224},
+    doi = {10.1163/000000008792525246}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

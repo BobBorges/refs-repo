@@ -1,0 +1,28 @@
+* villavicencioZarza2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{villavicencioZarza2010,
+  author = {Villavicencio Zarza, Frida},
+  year = {2010},
+  title = {Entre una realidad plurilingüe y un anhelo de nación. Apuntes para un estudio sociolongüístico del siglo XIX},
+  pages = {713--794},
+  editor = {Barriga Villanueva, Rebeca AND Butragueño, Pedro Martín},
+  publisher = {El Colegio de México},
+  address = {México},
+  booktitle = {Historia sociolingüística de México}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,27 @@
+* frey2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{frey2022,
+  doi = {10.1093/oso/9780198864639.003.0006},
+  author = {Benjamin E. Frey},
+  year = {2022},
+  title = {Internal verticalization and community maintenance},
+  editor = {Joshua R. Brown},
+  publisher = {Oxford University Press},
+  booktitle = {The Verticalization Model of Language Shift},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

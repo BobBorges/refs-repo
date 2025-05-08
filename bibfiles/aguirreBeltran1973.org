@@ -1,0 +1,25 @@
+* aguirreBeltran1973
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{aguirreBeltran1973,
+    author = {Aguirre Beltrán, Gonzalo},
+    year = {1973},
+    title = {Regiones de refugio: el desarrollo de la comunidad y el proceso dominical en mestizo América},
+    location = {México},
+    publisher = {Instituto Indigenista Interamericano}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,26 @@
+* INEGI1990
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% INEGI. 1990. Instituto Nacional de Estadística y Geografía. XI Censo General de Población y Vivienda https://www.inegi.org.mx/programas/ccpv/1990/
+@misc{INEGI1990,
+url = {https://www.inegi.org.mx/programas/ccpv/1990/},
+author = {Instituto Nacional de Estadística y Geografía},
+year = {1990},
+title = {Instituto Nacional de Estadística y Geografía. XI Censo General de Población y Vivienda},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

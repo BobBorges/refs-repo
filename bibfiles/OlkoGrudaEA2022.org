@@ -1,0 +1,28 @@
+* OlkoGrudaEA2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{OlkoGrudaEA2022,
+    doi = {10.5281/ZENODO.7446959},
+    url = {https://zenodo.org/record/7446959},
+    author = {Olko, Justyna and Gruda, Szymon and Maryniak, Joanna and Dexter-Sobkowiak, Elwira and Tepec, Humberto Iglesias and De La Cruz, Eduardo},
+    title = {Spanish-Nahuatl bilingualism in Indigenous communities in Mexico: Variation in language proficiency and use},
+    booktitle = {Contemporary research in minoritized and diaspora languages of Europe},
+    publisher = {Zenodo},
+    year = {2022},
+    copyright = {Creative Commons Attribution 4.0 International}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

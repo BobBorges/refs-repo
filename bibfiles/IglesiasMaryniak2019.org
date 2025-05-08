@@ -1,0 +1,27 @@
+* IglesiasMaryniak2019
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{IglesiasMaryniak2019,
+  author = {Iglesias Tepec, Humberto and Maryniak, Joanna},
+  year = {2019},
+  title = {Tlahtolixcopincayotl Atliaca, Guerrero},
+  address = {Warsaw},
+  publisher = {University of Warsaw},
+  series = {Totlahtol Series},
+  note = {Series editor Justyna Olko and John Sullivan},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,28 @@
+* OlkoSullivan2016b
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{OlkoSullivan2016b,
+    author = {Justyna Olko, John Sullivan},
+    year = {2016},
+    title = {Bridging Gaps and Empowering Speakers: An Inclusive, Partnership-based Approach to Nahuatl Research and Revitalization},
+    booktitle = {Integral strategies for language revitalization},
+    editor = {Justyna Olko AND Tomasz Wicherkiewicz and Robert Borges},
+    publisher = {Wydział “Artes Liberales”, Uniwersytet Warszawski},
+    locatio = {Warsaw},
+    page = {347--386}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

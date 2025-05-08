@@ -1,0 +1,28 @@
+* friedlander1986
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{friedlander1986,
+    author = {Friedlander, J.},
+    year = {1986},
+    title = {The National Indigenist Institute of Mexico reinvents the Indian: the Pame example},
+    journal = {American Ethnologist},
+    volume = {13},
+    number = {2},
+    pages = {363--367},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

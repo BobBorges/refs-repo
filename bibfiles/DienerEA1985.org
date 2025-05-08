@@ -1,0 +1,27 @@
+* DienerEA1985
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{DienerEA1985,
+  url = {http://internal.psychology.illinois.edu/~ediener/SWLS.html},
+  author = {Diener, E. AND Emmons, R. A. AND Larsen, R. J. AND Griffin, S.},
+  year = {1985},
+  title = {The Satisfaction with Life Scale},
+  journal = {Journal of Personality Assessment},
+  volume = {49},
+  pages = {71--75},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

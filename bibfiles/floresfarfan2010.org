@@ -1,0 +1,27 @@
+* floresfarfan2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{floresfarfan2010,
+    title = {Hacia una historia sociolingüistica mesoamericana. Explorando el náhuatl clásico},
+    year = {2010},
+    author = {Flores Farfán, José Antonio},
+    editor = {Rebeca Barriga Villanueva AND Pedro Martín Butragueño},
+    booktitle = {Historia sociolingüistica de México},
+    publisher = {El Colegio de México},
+    pages = {185--205}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

@@ -1,0 +1,29 @@
+* maynez2010
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{maynez2010,
+    url = {http://www.jstor.org/stable/j.ctt1657t8g.12},
+    author = {Máynez, P.},
+    year = {2010},
+    title = {La Codificación De Las Lenguas Indígenas Durante La Colonia},
+    pages = {403--450},
+    booktitle = {Historia sociolingüística de México},
+    editor = {Villanueva, Rebeca Barriga  and Butragueño, Pedro Martín },
+    publisher = {Colegio de Mexico},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

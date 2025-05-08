@@ -1,0 +1,28 @@
+* olko2024b
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{olko2024b,
+    author = {Olko, J.},
+    year = {2024},
+    title = {Ethnolinguistic vitality, multilingual communication and speakers of contested languages},
+    pages = {104--138},
+    booktitle = {Research handbook on communication and prejudice},
+    editor = {E. Nshom AND S. Croucher},
+    publisher = {Edward Elgar Publishing},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

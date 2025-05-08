@@ -1,0 +1,28 @@
+* OlkoBrylak2018
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{OlkoBrylak2018,
+  title = {Defending Local Autonomy and Facing Cultural Trauma: A Nahua Order against Idolatry,  Tlaxcala,  1543},
+  volume = {98},
+  DOI = {10.1215/00182168-7160325},
+  number = {4},
+  journal = {Hispanic American Historical Review},
+  author = {Olko,  Justyna AND Brylak,  Agnieszka},
+  year = {2018},
+  pages = {573–-604}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

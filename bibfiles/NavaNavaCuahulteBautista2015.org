@@ -1,0 +1,27 @@
+* NavaNavaCuahulteBautista2015
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{NavaNavaCuihulteBautista15,
+  author = {Nava Nava, Refugio and Cuahutle Bautista, Beatriz},
+  year = {2015},
+  title = {Tlahtolcozcatl: in tlapohual tlen mocaqui Tlaxcallan},
+  address = {Warsaw},
+  publisher = {University of Warsaw},
+  series = {Totlahtol Series},
+  note = {Series editor Justyna Olko and John Sullivan},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

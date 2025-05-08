@@ -1,0 +1,26 @@
+* bulnes1899
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{bulnes1899,
+    author = {Bulnes, Francisco},
+    year = {1899},
+    title = {El porvenir de las naciones hispano americanas ante las conquistas recientes de Europa y los Estados Unidos},
+    publisher = {Mariano Nava},
+    address = {México},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

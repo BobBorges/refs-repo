@@ -1,0 +1,27 @@
+* LohndalPutnam2024
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{LohndalPutnam2024,
+    title = {Modeling multilingual grammars: Constraints and predictions},
+    year = {2024},
+    author = {Lohndal, Terje AND Putnam, Michael T.},
+    journal = {Linguistic approaches to bilingualism},
+    volume = {14},
+    issue = {1},
+    pages = {104--114},
+    doi = {10.1075/lab.23074.loh}
+}
+#+END_SRC
+
+
+
+
+** Notes
+

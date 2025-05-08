@@ -1,0 +1,27 @@
+* mufwene2022
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{mufwene2022,
+  doi = {10.1093/oso/9780198864639.003.0007},
+  author = {Salikoko S. Mufwene},
+  year = {2022},
+  title = {The verticalization model of language shift from a population-structure perspective},
+  editor = {Joshua R. Brown},
+  publisher = {Oxford University Press},
+  booktitle = {The Verticalization Model of Language Shift},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

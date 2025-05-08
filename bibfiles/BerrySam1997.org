@@ -1,0 +1,29 @@
+* BerrySam1997
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{BerrySam1997,
+    author = {Berry, J. W. and Sam, D.},
+    year = {1997},
+    title = {Acculturation and adaptation},
+    pages = {291--325},
+    editor = {J. Berry and M. Segall and C. Kagitcibasi},
+    volume = {3},
+    publisher = {Allyn & Bacon},
+    booktitle = {Handbook of cross-cultural psychology: Social behavior and applications},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

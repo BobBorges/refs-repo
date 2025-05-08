@@ -1,0 +1,25 @@
+* gibson1952
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{gibson1952,
+  author = {Gibson, Charles},
+  year = {1952},
+  title = {Tlaxcala in the Sixteenth Century},
+  publisher = {Yale University Press},
+  address = {New Haven},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

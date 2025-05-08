@@ -1,0 +1,28 @@
+* dwyer2006
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{dwyer2006,
+    author = {Dwyer, Arienne M.},
+    year = {2006},
+    title = {Ethics and practicalities of cooperative fieldwork and analysis},
+    booktitle = {Essentials of Language Documentation},
+    editor = {Gippert Nikolaus,J. AND Himmelmann, P. and Mosel, U.},
+    page = {31--66},
+    location = {Berlin – New York},
+    publisher = {Mouton de Gruyter}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

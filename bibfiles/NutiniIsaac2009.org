@@ -1,0 +1,26 @@
+* NutiniIsaac2009
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{NutiniIsaac2009,
+    title = {Social stratification in central Mexico, 1500-2000},
+    year = {2009},
+    author = {Nutini, Hugo G. AND Isaac, Barry},
+    publisher = {University of Texas Press},
+    location = {Austin},
+    isbn = {0292719442}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

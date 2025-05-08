@@ -1,0 +1,27 @@
+* kvernmo2006
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@incollection{kvernmo2006,
+    author = {Kvernmo, Siv},
+    year = {2006},
+    title = {Indigenous peoples},
+    pages = {233--252},
+    editor = {David L. Sam and John W. Berry},
+    booktitle = {the Cambridge Handbook of Acculturation Psychology},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

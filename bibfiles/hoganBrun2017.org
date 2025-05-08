@@ -1,0 +1,28 @@
+* hoganBrun2017
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+
+% Hogan-Brun, Gabrielle. Linguanomics. What is the market value of multilingualism? London and New York: Bloomsbury, 2017.
+@book{hoganBrun2017,
+author = {Hogan-Brun, Gabrielle},
+title = {Linguanomics. What is the market value of multilingualism?},
+year = {2017},
+publisher = {Bloomsbury},
+address = {London and New York},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

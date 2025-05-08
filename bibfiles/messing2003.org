@@ -1,0 +1,26 @@
+* messing2003
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Ideological multiplicity in discourse: Language shift and bilingual schooling in Tlaxcala, Mexico Messing, Jacqueline Henriette Elise.   The University of Arizona ProQuest Dissertations & Theses,  2003.
+@phdthesis{messing2003,
+author = {Messing, Jacqueline Henriette Elise},
+title = {Ideological multiplicity in discourse: Language shift and bilingual schooling in Tlaxcala, Mexico},
+year = {2003},
+school = {The University of Arizona},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

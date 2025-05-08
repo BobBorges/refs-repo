@@ -1,0 +1,29 @@
+* umberger1996
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+% Emily Umberger, 1996. Umberger. Art and Imperial Strategy in Tenochtitlan, In: in Aztec Imperial Strategies, by Frances Berdan, et al., Dumbarton Oaks pp. 85-106
+@incollection{umberger1996,
+author = {Emily Umberger},
+year = {1996},
+title = {Art and Imperial Strategy in Tenochtitlan},
+pages = {85-106},
+booktitle = {Aztec Imperial Strategies},
+editor = {Frances Berdan and others},
+publisher = {Dumbarton Oaks},
+}
+
+
+#+END_SRC
+
+
+
+
+** Notes
+

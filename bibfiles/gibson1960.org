@@ -1,0 +1,27 @@
+* gibson1960
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{gibson1960,
+    title = {The Aztec Aristocracy in Colonial Mexico},
+    year = {1960},
+    author = {Gibson, Charles},
+    journal = {Comparative Studies in Society and History},
+    volume = {2},
+    issue = {2},
+    pages = {169--196}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

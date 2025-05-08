@@ -1,0 +1,26 @@
+* martinezCasasEA2014
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@article{martinezCasasEA2014,
+  author = {Martínez Casas, Regina AND Saldívar, Emiko AND Flores René D.},
+  title = {The Different Faces of Mestizaje: Ethnicity and Race in Mexico},
+  year = {2014},
+  editor = {Christina A. Sue},
+  pages = {36--80},
+  booktitle = {Pigmentocracies: Ethnicity, Race, and Color in Latin America},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

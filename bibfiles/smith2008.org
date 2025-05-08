@@ -1,0 +1,25 @@
+* smith2008
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{smith2008,
+    author = {Smith, Michael E.},
+    year = {2008},
+    title = {Aztec City-State Capitals},
+    location = {Gainesville},
+    publisher = {University Press of Florida}
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+

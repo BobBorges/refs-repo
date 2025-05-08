@@ -1,0 +1,25 @@
+* DakinLutz1996
+
+
+
+
+** bibtex
+
+#+NAME: bibtex
+#+BEGIN_SRC bibtex
+
+@book{DakinLutz1996,
+  year = {1996},
+  editor = {Karen Dakin and Cristopher H. Lutz},
+  address = {Mexico},
+  publisher = {Universidad Autónoma de Mexico},
+  booktitle = {Nuestro pesar, nuestra aflicción, tunetuliniliz, tucucuca},
+}
+
+#+END_SRC
+
+
+
+
+** Notes
+
